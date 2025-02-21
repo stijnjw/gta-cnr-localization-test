@@ -45,7 +45,7 @@ jobs:
           gh pr create \
             --base main \
             --head ${{ env.BRANCH_NAME }} \
-            --title "Upload updated XML files - up to $(date +%Y%m%d-%H%M%S)" \
+            --title "Upload updated XML files - up to $(date +"%Y-%m-%d %H:%M:%S")" \
             --body "This PR contains updated files from the translator website." \
             --label "automated"
         env:
