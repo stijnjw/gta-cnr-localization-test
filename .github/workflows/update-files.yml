@@ -32,11 +32,16 @@ jobs:
         run: |
           mv new_files/* .
 
+      - name: Remove ZIP File
+        run: |
+          rm files.zip
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add --all
+          git reset files.zip
           git diff --cached --quiet || git commit -m "Update files from API"
           git push origin $BRANCH_NAME
 
