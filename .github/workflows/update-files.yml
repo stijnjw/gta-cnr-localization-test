@@ -45,8 +45,8 @@ jobs:
           gh pr create \
             --base main \
             --head ${{ env.BRANCH_NAME }} \
-            --title "Automated File Update" \
-            --body "This PR contains updated files from the API." \
+            --title "Upload updated XML files - up to $(date +%Y%m%d-%H%M%S)" \
+            --body "This PR contains updated files from the translator website." \
             --label "automated"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
