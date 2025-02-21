@@ -1493,7 +1493,7 @@
     <String xml:lang="zh-Hant">踢出</String>
   </Entry>
   <Entry Id="menu_player_eject_desc">
-    <String xml:lang="en-US">Eject this player from your vehicle.</String>
+    <String xml:lang="en-US">Eject this hello player from your vehicle.test</String>
     <String xml:lang="fr-FR">Ejecter ce joueur de ton véhicule.</String>
     <String xml:lang="hi-Latn">Is player ko apni vehicle se bahar nikaalo.</String>
     <String xml:lang="de-DE">Wirf diesen Spieler aus deinem Fahrzeug.</String>
