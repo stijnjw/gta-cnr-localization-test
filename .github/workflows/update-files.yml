@@ -47,6 +47,6 @@ jobs:
             --head ${{ env.BRANCH_NAME }} \
             --title "Automated File Update" \
             --body "This PR contains updated files from the API." \
-            --label "automation, api-update"
+            --label "automated"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
