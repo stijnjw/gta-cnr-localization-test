@@ -40,11 +40,11 @@ jobs:
           git diff --cached --quiet || git commit -m "Update files from API"
           git push origin $BRANCH_NAME
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          branch: ${{ env.BRANCH_NAME }}
-          base: main
-          title: "Automated File Update"
-          body: "This PR contains updated files from the API."
-          labels: "automation, api-update"
+      # - name: Create Pull Request
+      #   uses: peter-evans/create-pull-request@v6
+      #   with:
+      #     branch: ${{ env.BRANCH_NAME }}
+      #     base: main
+      #     title: "Automated File Update"
+      #     body: "This PR contains updated files from the API."
+      #     labels: "automation, api-update"
