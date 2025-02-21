@@ -41,12 +41,13 @@ jobs:
           git push origin $BRANCH_NAME
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          branch: ${{ env.BRANCH_NAME }}
-          base: main
-          title: "Automated File Update"
-          body: "This PR contains updated files from the API."
-          labels: "automation, api-update"
-          delete-branch: false  # Ensure branch is NOT deleted
-          draft: false
+        run: |
+          gh auth login --with-token <<< "${{ secrets.GITHUB_TOKEN }}"
+          gh pr create \
+            --base main \
+            --head ${{ env.BRANCH_NAME }} \
+            --title "Automated File Update" \
+            --body "This PR contains updated files from the API." \
+            --label "automation, api-update"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
