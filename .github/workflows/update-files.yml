@@ -47,7 +47,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.GITHUB_PAT }}
+          token: ${{ secrets.PAT_TOKEN }}
           branch: ${{ env.BRANCH_NAME }}
           base: main
           title: "Automated File Update"
