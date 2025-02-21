@@ -1,0 +1,13 @@
+name: Update Files from API
+
+on:
+  repository_dispatch:
+    types: [update-files]
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
