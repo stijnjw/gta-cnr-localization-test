@@ -14,10 +14,15 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create Branch
+      - name: Create or Checkout Branch
+        id: create-or-checkout-branch
         run: |
-          BRANCH_NAME="update-files-$(date +%Y%m%d-%H%M%S)"
-          git checkout -b $BRANCH_NAME
+          BRANCH_NAME="update-files"
+          if git show-ref --verify --quiet refs/heads/$BRANCH_NAME; then
+            git checkout $BRANCH_NAME
+          else
+            git checkout -b $BRANCH_NAME
+          fi
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
 
       - name: Download ZIP from API
@@ -50,8 +55,21 @@ jobs:
             echo "changes=true" >> $GITHUB_ENV
           fi
 
-      - name: Create Pull Request
-        if: env.changes == 'true'
+      - name: Check for Existing Pull Request
+        id: check-pr
+        run: |
+          PR_URL=$(gh pr list --head $BRANCH_NAME --json url --jq '.[0].url')
+          if [ -z "$PR_URL" ]; then
+            echo "PR_EXISTS=false" >> $GITHUB_ENV
+          else
+            echo "PR_EXISTS=true" >> $GITHUB_ENV
+            echo "PR_URL=$PR_URL" >> $GITHUB_ENV
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create or Update Pull Request
+        if: env.changes == 'true' && env.PR_EXISTS == 'false'
         run: |
           gh pr create \
             --base main \
@@ -59,5 +77,13 @@ jobs:
             --title "Upload updated XML files - up to $(date +"%Y-%m-%d %H:%M:%S")" \
             --body "This PR contains updated files from the translator website." \
             --label "automated"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Pull Request
+        if: env.changes == 'true' && env.PR_EXISTS == 'true'
+        run: |
+          gh pr comment ${{ env.PR_URL }} --body "Updated files from the translator website."
+          gh pr edit ${{ env.PR_URL }} --title "Upload updated XML files - up to $(date +"%Y-%m-%d %H:%M:%S")"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
