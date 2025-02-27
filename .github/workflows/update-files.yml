@@ -14,16 +14,23 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create or Checkout Branch
-        id: create-or-checkout-branch
-        run: |
-          BRANCH_NAME="update-files"
-          if git show-ref --verify --quiet refs/heads/$BRANCH_NAME; then
-            git checkout $BRANCH_NAME
-          else
-            git checkout -b $BRANCH_NAME
-          fi
-          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+        - name: Create or Checkout Branch
+          id: create-or-checkout-branch
+          run: |
+            BRANCH_NAME="update-files"
+            git fetch origin
+
+            # Check if the branch exists remotely
+            if git ls-remote --exit-code --heads origin $BRANCH_NAME; then
+              git checkout $BRANCH_NAME
+            else
+              # Create the branch from main if it doesn’t exist
+              git checkout -b $BRANCH_NAME origin/main
+              git push --set-upstream origin $BRANCH_NAME
+            fi
+
+            echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+
 
       - name: Merge Main into Branch
         run: |
