@@ -33,7 +33,6 @@ jobs:
           git checkout $BRANCH_NAME
           git merge origin/main --strategy-option theirs
 
-
       - name: Download ZIP from API
         run: |
           curl -o files.zip "https://translator.cnr.stijnjw.com/api/translations/retrieve/xml"
