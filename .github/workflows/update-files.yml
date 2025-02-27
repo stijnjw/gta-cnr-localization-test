@@ -65,7 +65,6 @@ jobs:
             git fetch origin
             git reset --hard origin/$BRANCH_NAME
 
-
             echo "Three"
             git status
 
