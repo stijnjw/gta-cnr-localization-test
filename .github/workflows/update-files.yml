@@ -51,7 +51,8 @@ jobs:
             echo "changes=false" >> $GITHUB_ENV
           else
             git commit -m "Update files from API"
-            git pull --rebase --strategy-option theirs origin $BRANCH_NAME
+            git fetch origin $BRANCH_NAME
+            git reset --hard origin/$BRANCH_NAME
             git push --force origin $BRANCH_NAME
             echo "changes=true" >> $GITHUB_ENV
           fi
