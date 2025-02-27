@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <Entries>
-    <!-- ========================= -->
-    <!-- ATMs -->
-    <!-- ========================= -->
     <Entry Id="menu_atm_title">
         <String xml:lang="en-US">ATM</String>
         <String xml:lang="it-IT">Bancomat</String>
@@ -24,7 +20,6 @@
         <String xml:lang="cs-CZ">Bankomat</String>
         <String xml:lang="lv-LV">Bankomāts</String>
     </Entry>
-
     <Entry Id="menu_atm_subtitle">
         <String xml:lang="en-US">Fleeca Bank</String>
         <String xml:lang="it-IT">Banca Fleeca</String>
@@ -45,7 +40,6 @@
         <String xml:lang="cs-CZ">Fleeca Bank</String>
         <String xml:lang="lv-LV">Fleeca Banka</String>
     </Entry>
-
     <Entry Id="menu_atm_custom_amount">
         <String xml:lang="en-US">~b~Custom amount</String>
         <String xml:lang="it-IT">~b~Importo personalizzato</String>
@@ -66,7 +60,6 @@
         <String xml:lang="cs-CZ">~b~vlastní částka</String>
         <String xml:lang="lv-LV">~b~Cita summa</String>
     </Entry>
-
     <Entry Id="menu_atm_no_funds">
         <String xml:lang="en-US">~r~No funds</String>
         <String xml:lang="it-IT">~r~Nessun fondo disponibile</String>
@@ -87,7 +80,6 @@
         <String xml:lang="cs-CZ">~r~Nedostatek prostředků</String>
         <String xml:lang="lv-LV">~r~Nav līdzekļu</String>
     </Entry>
-
     <Entry Id="menu_atm_withdraw_text">
         <String xml:lang="en-US">Withdraw</String>
         <String xml:lang="it-IT">Preleva</String>
@@ -108,7 +100,6 @@
         <String xml:lang="cs-CZ">Vybrat</String>
         <String xml:lang="lv-LV">Izņemt</String>
     </Entry>
-
     <Entry Id="menu_atm_withdraw_descr">
         <String xml:lang="en-US">Withdraw your cash.~n~Fee: ~r~{0}</String>
         <String xml:lang="it-IT">Preleva il tuo contante dal conto.~n~Commissione: ~r~{0}</String>
@@ -129,7 +120,6 @@
         <String xml:lang="cs-CZ">Vyber své peníze.~n~Poplatek: ~r~{0}</String>
         <String xml:lang="lv-LV">Izņemiet savu naudu.~n~Komisija: ~r~{0}</String>
     </Entry>
-
     <Entry Id="menu_atm_deposit_text">
         <String xml:lang="en-US">Deposit</String>
         <String xml:lang="it-IT">Deposita</String>
@@ -150,7 +140,6 @@
         <String xml:lang="cs-CZ">Vložit</String>
         <String xml:lang="lv-LV">Iemaksāt</String>
     </Entry>
-
     <Entry Id="menu_atm_deposit_descr">
         <String xml:lang="en-US">Deposit to your account.~n~Fee: ~r~{0}</String>
         <String xml:lang="it-IT">Deposita il tuo contante sul conto.~n~Commissione: ~r~{0}</String>
@@ -171,7 +160,6 @@
         <String xml:lang="cs-CZ">Vlož peníze na svůj účet.~n~Poplatek: ~r~{0}</String>
         <String xml:lang="lv-LV">Iemaksājiet savā kontā.~n~Komisija: ~r~{0}</String>
     </Entry>
-
     <Entry Id="menu_atm_transfer_text">
         <String xml:lang="en-US">Transfer</String>
         <String xml:lang="it-IT">Trasferisci</String>
@@ -192,7 +180,6 @@
         <String xml:lang="cs-CZ">Převod</String>
         <String xml:lang="lv-LV">Pārskaitīt</String>
     </Entry>
-
     <Entry Id="menu_atm_transfer_descr">
         <String xml:lang="en-US">Transfer money to another account.~n~~r~This feature is not available yet.</String>
         <String xml:lang="it-IT">Trasferisci denaro ad un altro conto.~n~~r~Questa funzione non è ancora disponibile.</String>
@@ -213,7 +200,6 @@
         <String xml:lang="cs-CZ">Převést peníze na jiný účet.~n~~r~Tato funkce zatím není k dispozici.</String>
         <String xml:lang="lv-LV">Pārskaitiet naudu uz citu kontu.~n~~r~Šī funkcija vēl nav pieejama.</String>
     </Entry>
-
     <Entry Id="menu_atm_history_text">
         <String xml:lang="en-US">History</String>
         <String xml:lang="it-IT">Cronologia</String>
@@ -234,7 +220,6 @@
         <String xml:lang="cs-CZ">Historie</String>
         <String xml:lang="lv-LV">Vēsture</String>
     </Entry>
-
     <Entry Id="menu_atm_history_descr">
         <String xml:lang="en-US">Obtain a list of your recent transactions.~n~~r~This feature is not available yet.</String>
         <String xml:lang="it-IT">Ottieni lo storico delle tue ultime transazioni.~n~~r~Questa funzione non è ancora disponibile.</String>
@@ -255,7 +240,6 @@
         <String xml:lang="cs-CZ">Zobrazit seznam tvých nedávných transakcí.~n~~r~Tato funkce zatím není k dispozici.</String>
         <String xml:lang="lv-LV">Iegūstiet savu pēdējo darījumu izrakstu.~n~~r~Šī funkcija vēl nav pieejama.</String>
     </Entry>
-
     <Entry Id="atm_cuffed">
         <String xml:lang="en-US">You can't use an ~y~ATM ~s~when you are ~r~cuffed~s~!</String>
         <String xml:lang="it-IT">Non puoi utilizzare un ~y~bancomat ~s~mentre sei ~r~ammanettato~s~!</String>
@@ -276,7 +260,6 @@
         <String xml:lang="cs-CZ">Nemůžeš použít ~y~bankomat~s~, pokud jsi ~r~spoutaný~s~!</String>
         <String xml:lang="lv-LV">Jūs nevarat izmantot ~y~bankomātu ~s~kāmēr jūs esat ~r~rokudzelžos~s~!</String>
     </Entry>
-
     <Entry Id="atm_out_of_service">
         <String xml:lang="en-US">This ~y~ATM ~s~is ~r~out of service~s~!</String>
         <String xml:lang="it-IT">Questo ~y~bancomat ~s~è ~r~fuori servizio~s~!</String>
@@ -284,7 +267,7 @@
         <String xml:lang="nl-NL">Deze ~y~geldautomaat ~s~is ~r~buiten dienst~s~!</String>
         <String xml:lang="fr-FR">Ce ~y~distributeur de billets est ~r~hors-service~s~!</String>
         <String xml:lang="pl-PL">Ten ~y~bankomat ~s~jest ~r~nieczynny~s~!</String>
-        <String xml:lang="tr-TR">Bu ~y~bankamatik ~r~hizmet dışı~s~!</String>        
+        <String xml:lang="tr-TR">Bu ~y~bankamatik ~r~hizmet dışı~s~!</String>
         <String xml:lang="zh-Hant">這台 ~y~提款機 ~s~目前 ~r~無法使用~s~!</String>
         <String xml:lang="zh-Hans">这台 ~y~提款机 ~s~目前 ~r~无法使用~s~!</String>
         <String xml:lang="es-ES">!Este ~y~cajero automático ~s~está ~r~fuera de servicio~s~!</String>
@@ -297,7 +280,6 @@
         <String xml:lang="cs-CZ">Tento ~y~bankomat ~s~je ~r~mimo provoz~s~!</String>
         <String xml:lang="lv-LV">Šīs ~y~bankomāts ~r~nestrādā~s~!</String>
     </Entry>
-
     <Entry Id="input_atm_withdraw_title">
         <String xml:lang="en-US">Withdraw</String>
         <String xml:lang="it-IT">Preleva</String>
@@ -318,7 +300,6 @@
         <String xml:lang="cs-CZ">Vybrat</String>
         <String xml:lang="lv-LV">Izņemt</String>
     </Entry>
-
     <Entry Id="input_atm_withdraw_content">
         <String xml:lang="en-US">Enter an amount to withdraw.</String>
         <String xml:lang="it-IT">Inserire l'importo da prelevare.</String>
@@ -327,7 +308,7 @@
         <String xml:lang="fr-FR">Indiquer le montant à retirer.</String>
         <String xml:lang="pl-PL">Podaj ilość do wypłacenia.</String>
         <String xml:lang="tr-TR">Çekilecek tutarı girin.</String>
-        <String xml:lang="zh-Hant">輸入提款金額.</String>     
+        <String xml:lang="zh-Hant">輸入提款金額.</String>
         <String xml:lang="zh-Hans">输入提款金额.</String>
         <String xml:lang="es-ES">Ingresa un monto para retirar.</String>
         <String xml:lang="ar-001">أدخل المبلغ الذي تريد سحبه.</String>
@@ -339,7 +320,6 @@
         <String xml:lang="cs-CZ">Zadej částku k výběru.</String>
         <String xml:lang="lv-LV">Ievadiet summu kuru velāties izņemt.</String>
     </Entry>
-
     <Entry Id="withdraw_too_little">
         <String xml:lang="en-US">~r~You can't withdraw less than ~s~{0} ~r~at a time.</String>
         <String xml:lang="it-IT">~r~Non puoi prelevare meno di ~s~{0} ~r~alla volta.</String>
@@ -360,7 +340,6 @@
         <String xml:lang="cs-CZ">~r~Nemůžeš vybrat méně než ~s~{0} ~r~najednou.</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat izņemt mazāk nēkā ~s~{0}~r~ vienā reizē.</String>
     </Entry>
-
     <Entry Id="withdraw_too_much">
         <String xml:lang="en-US">~r~You can only withdraw ~s~{0} ~r~at a time.</String>
         <String xml:lang="it-IT">~r~Puoi prelevare al massimo ~s~{0} ~r~alla volta.</String>
@@ -381,7 +360,6 @@
         <String xml:lang="cs-CZ">~r~Můžeš vybrat pouze ~s~{0} ~r~najednou.</String>
         <String xml:lang="lv-LV">~r~Jūs varat izņemt tikai ~s~{0} ~r~vienā reizē.</String>
     </Entry>
-
     <Entry Id="atm_insufficient_funds">
         <String xml:lang="en-US">You have ~r~insufficient ~s~funds!</String>
         <String xml:lang="it-IT">I tuoi fondi sono ~r~insufficienti~s~!</String>
@@ -401,9 +379,7 @@
         <String xml:lang="id-ID">Kamu ~r~tidak punya cukup ~s~uang!</String>
         <String xml:lang="cs-CZ">Máš ~r~nedostatek ~s~prostředků!</String>
         <String xml:lang="lv-LV">Jums ~r~nepietiek ~s~līdzekļu!</String>
-
     </Entry>
-
     <Entry Id="atm_invalid_amount">
         <String xml:lang="en-US">You entered an ~r~invalid ~s~amount!</String>
         <String xml:lang="it-IT">L'importo inserito ~r~non è valido~s~!</String>
@@ -411,20 +387,19 @@
         <String xml:lang="nl-NL">Je hebt een ~r~ongeldige ~s~invoer ingegeven!</String>
         <String xml:lang="fr-FR">Tu as indiqué un montant ~r~invalide~s~!</String>
         <String xml:lang="pl-PL">Podałeś ~r~niewłaściwą ~s~wartość!</String>
-        <String xml:lang="tr-TR">~r~Geçersiz ~s~bir tutar girdin!</String>    
+        <String xml:lang="tr-TR">~r~Geçersiz ~s~bir tutar girdin!</String>
         <String xml:lang="zh-Hant">您輸入的金額~r~無效~s~!</String>
         <String xml:lang="zh-Hans">您输入的金额~r~无效~s~!</String>
         <String xml:lang="es-ES">¡Has ingresado una ~s~cantidad ~r~inválida~s~!</String>
         <String xml:lang="ar-001">قمت بإدخال ~r~غير صالح ~s~مبلغ!</String>
-        <String xml:lang="pt-BR">Você digitou um valor ~r~inválido~s~!</String> 
-        <String xml:lang="th-TH">คุฌใส่ ~r~ผิด ~s~จำนวน!</String>  
-        <String xml:lang="vi-VN">Bạn đã nhập ~r~không hợp lệ ~s~số lượng</String> 
+        <String xml:lang="pt-BR">Você digitou um valor ~r~inválido~s~!</String>
+        <String xml:lang="th-TH">คุฌใส่ ~r~ผิด ~s~จำนวน!</String>
+        <String xml:lang="vi-VN">Bạn đã nhập ~r~không hợp lệ ~s~số lượng</String>
         <String xml:lang="id-ID">Anda memasukkan jumlah yang ~r~tidak valid~s~!</String>
         <String xml:lang="hi-Latn">Aapne ~r~invalid ~s~amount enter kiya hai.</String>
         <String xml:lang="cs-CZ">Zdal jsi ~r~neplatnou ~s~hodnotu!</String>
         <String xml:lang="lv-LV">Jūs ievādījat ~r~nederīgu ~s~summu!</String>
     </Entry>
-
     <Entry Id="atm_cant_pay_fee">
         <String xml:lang="en-US">Your balance doesn't cover ~r~ATM fees~s~!</String>
         <String xml:lang="it-IT">Il tuo credito non copre la ~r~commissione del bancomat~s~!</String>
@@ -444,9 +419,7 @@
         <String xml:lang="id-ID">Uangmu tidak cukup untuk membayar ~r~biaya atm~s~!</String>
         <String xml:lang="cs-CZ">Tvůj zůstatek nepokryje ~r~poplatky za použití bankomatu~s~!</String>
         <String xml:lang="lv-LV">Jūsu atlikums nesedz ~r~bankomāta komisijas~s~!</String>
-
     </Entry>
-
     <Entry Id="input_atm_deposit_title">
         <String xml:lang="en-US">Deposit</String>
         <String xml:lang="it-IT">Deposita</String>
@@ -467,7 +440,6 @@
         <String xml:lang="cs-CZ">Vložit</String>
         <String xml:lang="lv-LV">Iemaksāt</String>
     </Entry>
-
     <Entry Id="input_atm_deposit_content">
         <String xml:lang="en-US">Enter an amount to deposit.</String>
         <String xml:lang="it-IT">Inserire l'importo da depositare.</String>
@@ -488,7 +460,6 @@
         <String xml:lang="cs-CZ">Zadej částku k vložení.</String>
         <String xml:lang="lv-LV">Ievadiet summu kuru velāties iemaksāt.</String>
     </Entry>
-
     <Entry Id="deposit_too_little">
         <String xml:lang="en-US">~r~You can't deposit less than ~s~{0} ~r~at a time.</String>
         <String xml:lang="it-IT">~r~Non puoi depositare meno di ~s~{0} ~r~alla volta.</String>
@@ -509,7 +480,6 @@
         <String xml:lang="cs-CZ">~r~Nemůžeš vložit méně než ~s~{0} ~r~najednou.</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat iemaksāt mazāk nēkā ~s~{0} ~r~vienā reizē.</String>
     </Entry>
-
     <Entry Id="deposit_too_much">
         <String xml:lang="en-US">~r~You can only deposit ~s~{0} ~r~at a time.</String>
         <String xml:lang="it-IT">~r~Puoi depositare al massimo ~s~{0} ~r~alla volta.</String>
@@ -517,7 +487,7 @@
         <String xml:lang="nl-NL">~r~Je kan per keer niet meer dan ~s~{0} ~r~storten.</String>
         <String xml:lang="fr-FR">~r~Tu ne peux déposer que ~s~{0} ~r~à la fois.</String>
         <String xml:lang="pl-PL">~r~Nie możesz wpłacić więcej niż ~s~{0} ~r~na transakcję.</String>
-        <String xml:lang="tr-TR">~r~Tek seferde ~s~{0}~r~'dan fazla para yatıramazsınız </String>     
+        <String xml:lang="tr-TR">~r~Tek seferde ~s~{0}~r~'dan fazla para yatıramazsınız </String>
         <String xml:lang="zh-Hant">~r~一次只能存入~s~{0}~r~.</String>
         <String xml:lang="zh-Hans">~r~一次只能存入~s~{0}~r~.</String>
         <String xml:lang="es-ES">~r~Solo puedes depositar ~s~{0} ~r~a la vez.</String>
@@ -530,7 +500,6 @@
         <String xml:lang="cs-CZ">~r~Můžeš vložit pouze ~s~{0} ~r~najednou.</String>
         <String xml:lang="lv-LV">~r~Jūs varat iemaksāt tikai ~s~{0} ~r~vienā reizē.</String>
     </Entry>
-
     <Entry Id="atm_no_hacking_device">
         <String xml:lang="en-US">You need an ~y~{0}~s~.</String>
         <String xml:lang="it-IT">Ti serve un ~y~{0}~s~.</String>
@@ -551,7 +520,6 @@
         <String xml:lang="cs-CZ">Na toto potřebuješ ~y~{0}~s~.</String>
         <String xml:lang="lv-LV">Jums ir nepieciešams ~y~{0}~s~.</String>
     </Entry>
-
     <Entry Id="btn_atm_use">
         <String xml:lang="en-US">Use ATM</String>
         <String xml:lang="it-IT">Utilizza il bancomat</String>
@@ -572,7 +540,6 @@
         <String xml:lang="cs-CZ">Použít bankomat</String>
         <String xml:lang="lv-LV">Izmantot bankomātu</String>
     </Entry>
-
     <Entry Id="btn_atm_hack">
         <String xml:lang="en-US">Hack</String>
         <String xml:lang="it-IT">Hackera</String>
@@ -593,7 +560,6 @@
         <String xml:lang="cs-CZ">Hacknout</String>
         <String xml:lang="lv-LV">Uzlauzt</String>
     </Entry>
-
     <Entry Id="atm_hacking_cooldown">
         <String xml:lang="en-US">You need to wait ~r~{0} seconds ~s~before hacking another ~y~ATM~s~.</String>
         <String xml:lang="it-IT">Devi aspettare ~r~{0} secondi ~s~prima di hackerare un altro ~y~bancomat~s~.</String>
@@ -613,9 +579,7 @@
         <String xml:lang="id-ID">Kamu harus menunggu ~r~{0} detik ~s~sebelum bisa melakukan hacking ~y~ATM ~s~lagi.</String>
         <String xml:lang="cs-CZ">Musíš počkat ~r~{0} sekund ~s~než se pokusíš hacknout další ~y~bankomat~s~.</String>
         <String xml:lang="lv-LV">Jums ir jāgaida ~r~{0} sekundes ~s~pirms cita ~y~bankomāta~s~ uzlaušanas.</String>
-
     </Entry>
-
     <Entry Id="atm_hacking_success">
         <String xml:lang="en-US">You hacked the ~r~ATM~s~ and you stole ~g~{0}~s~!</String>
         <String xml:lang="it-IT">Hai hackerato il ~r~bancomat~s~ e hai rubato ~g~{0}~s~!</String>
@@ -636,7 +600,6 @@
         <String xml:lang="cs-CZ">Hacknul jsi ~r~bankomat~s~ a ukradl ~g~{0}~s~!</String>
         <String xml:lang="lv-LV">Jūs uzlauzāt ~r~bankomātu~s~ un nozagāt ~g~{0}~s~!</String>
     </Entry>
-
     <Entry Id="atm_hacking_success_announcement">
         <String xml:lang="en-US">{0} hacked an ATM and stole {1}.</String>
         <String xml:lang="it-IT">{0} ha hackerato un bancomat e ha rubato {1}.</String>

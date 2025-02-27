@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <Entries>
     <Entry Id="share_pos_request">
         <String xml:lang="en-US">{0} ~s~wants to share their position with you.</String>
@@ -17,7 +16,6 @@
         <String xml:lang="lv-LV">{0} ~s~grib dalīties ar savu lokāciju.</String>
         <String xml:lang="tr-TR">{0} ~s~sizinle konumunu paylaşmak istiyor.</String>
     </Entry>
-
     <Entry Id="gun_free_zone_entered">
         <String xml:lang="en-US">~y~Warning! ~s~You just entered a ~g~gun-free zone~s~. Civilians can't use firearms here.</String>
         <String xml:lang="nl-NL">~y~Waarschuwing! ~s~Je bent zojuist een ~g~wapen-vrije zone~s~ betreden. Burgers kunnen hier geen vuurwapens gebruiken.</String>
@@ -34,7 +32,6 @@
         <String xml:lang="lv-LV">~y~Brīdinājums! ~s~Jūs ienācāt ~g~gun-free zonā~s~. Civilie nevar izmantot ieročus šeit.</String>
         <String xml:lang="tr-TR">~y~Dikkat! ~s~Az önce a ~g~silahsız bölge~s~ye giriş yaptın. Burada siviller silah kullanamaz.</String>
     </Entry>
-
     <Entry Id="gun_free_zone_left">
         <String xml:lang="en-US">You just left the ~g~gun-free zone~s~.</String>
         <String xml:lang="nl-NL">Je bent zojuist de ~g~wapen-vrije zone~s~ verlaten.</String>
@@ -51,7 +48,6 @@
         <String xml:lang="lv-LV">Jus tikko atstājāt ~g~gun-free zonu~s~.</String>
         <String xml:lang="tr-TR">~g~Silahsız bölge~s~yi terk ettin.</String>
     </Entry>
-
     <Entry Id="mumble_voice_chat_disabled">
         <String xml:lang="en-US">Your voice chat is ~r~disabled~s~! You can enable it in the pause menu.</String>
         <String xml:lang="nl-NL">Je voice chat is ~r~uitgeschakeld~s~! Je kan het inschakelen via het pauze menu.</String>
@@ -68,7 +64,6 @@
         <String xml:lang="lv-LV">Jūsu balss tērzēšana ir ~r~atspējota~s~! Jūs varat iespējot to pauzes izvelnē.</String>
         <String xml:lang="tr-TR">Sesli sohbetin ~r~kapalı~s~! Duraklatma menüsünden etkinleştirebilirsin.</String>
     </Entry>
-
     <Entry Id="mumble_mic_disable">
         <String xml:lang="en-US">Your microphone is ~r~disabled~s~! You can enable it in the pause menu.</String>
         <String xml:lang="nl-NL">Je microfoon is ~r~uitgeschakeld~s~! Je kan het inschakelen via het pauze menu.</String>
@@ -85,7 +80,6 @@
         <String xml:lang="lv-LV">Jūsu mikrofons ir ~r~atspējots~s~! Jūs varat iespējot to pauzes izvelnē.</String>
         <String xml:lang="tr-TR">Mikrofonun ~r~devre dışı~s~! Duraklatma menüsünden etkinleştirebilirsin.</String>
     </Entry>
-
     <Entry Id="mumble_connected_voice_server">
         <String xml:lang="en-US">You are now connected to the ~p~voice server~s~.</String>
         <String xml:lang="nl-NL">Je bent verbonden met de ~p~voice server~s~.</String>
@@ -102,7 +96,6 @@
         <String xml:lang="lv-LV">Jūs tagad esat pieslēgts ~p~balss tērzēšanas serverim~s~.</String>
         <String xml:lang="tr-TR">Şu anda ~p~ses sunucusu~s~na bağlandın.</String>
     </Entry>
-
     <Entry Id="mumble_disconnected_voice_server">
         <String xml:lang="en-US">You have been disconnected from the ~p~voice server~s~.</String>
         <String xml:lang="nl-NL">Je hebt de verbinding verloren met de ~p~voice server~s~.</String>
@@ -119,7 +112,6 @@
         <String xml:lang="lv-LV">Jūs tikat atslēgts no ~p~balss tērzēšanas servera~s~.</String>
         <String xml:lang="tr-TR">Şu anda ~p~ses sunucusu~s~na bağlı değilsin.</String>
     </Entry>
-
     <Entry Id="no_fly_zone_low_altitude">
         <String xml:lang="en-US">You can't ~r~fly airplanes ~s~at low altitude in this area.</String>
         <String xml:lang="nl-NL">Je kan geen ~r~vliegtuigen vliegen ~s~op laag niveau in dit gebied.</String>
@@ -136,10 +128,6 @@
         <String xml:lang="lv-LV">Jūs nevarat ~r~lidot ar līdmašīnu ~s~zemā augstumā šajā zonā.</String>
         <String xml:lang="tr-TR">Bu bölgede alçak irtifada ~r~uçak uçurmaya ~s~izin verilmiyor..</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Redzones -->
-    <!-- ========================= -->
     <Entry Id="redzone_entered">
         <String xml:lang="en-US">~y~Warning! ~s~You just entered a ~r~redzone~s~. Civilians and criminals are allowed to kill anyone on sight here.</String>
         <String xml:lang="nl-NL">~y~Waarschuwing! ~s~Je bent zojuist een ~r~rode zone~s~ betreden. Burgers en verdachten zijn toegestaan om iedereen hier te vermoorden.</String>
@@ -156,7 +144,6 @@
         <String xml:lang="lv-LV">~y~Brīdinājums! ~s~Jūs tikko ienācāt ~r~sarkanajā zonā~s~. Civilie un noziedznieki drīkst nogalināt jebkuru šeit.</String>
         <String xml:lang="tr-TR">~y~Dikkat! ~s~Az önce ~r~kırmızı bölgeye~s~. giriş yaptınız. Burada siviller ve suçlular gördükleri herkesi öldürebilir.</String>
     </Entry>
-
     <Entry Id="redzone_entered_cop">
         <String xml:lang="en-US">1.5x bonus for ~b~arresting ~s~and ~r~killing ~s~criminals in this zone.</String>
         <String xml:lang="nl-NL">1.5x bonus voor het ~b~arresteren ~s~en ~r~vermoorden ~s~van criminelen in deze zone.</String>
@@ -164,10 +151,7 @@
         <String xml:lang="lv-LV">1.5x bonuss par noziedznieku ~b~arestēšanu ~s~un ~r~nogalināšanu ~s~šajā zonā.</String>
         <String xml:lang="de-DE">1.5x Bonus für das ~b~Festnehmen ~s~und ~r~Töten ~s~von Kriminellen in diesem Bereich.</String>
         <String xml:lang="tr-TR">Bu bölgedeki suçluların ~b~tutuklanması ~s~ve ~r~öldürülmesi ~s~için 1.5 kat bonus.</String>
-        <String xml:lang="hi-Latn">Iss zone mein ~b~criminals ko pakadne ~s~aur ~r~maarne par ~s~1.5x ka bonus milega.</String>
-
     </Entry>
-
     <Entry Id="redzone_entered_ems">
         <String xml:lang="en-US">1.5x bonus for ~p~reviving ~s~and ~r~healing ~s~patients in this zone.</String>
         <String xml:lang="nl-NL">1.5x bonus voor ~p~reanimeren ~s~en ~r~genezen ~s~van patienten in deze zone.</String>
@@ -175,9 +159,7 @@
         <String xml:lang="lv-LV">1.5x bonuss par pacientu ~p~atdzīvināšanu ~s~un ~r~dziedēšanu~s~ šajā zonā.</String>
         <String xml:lang="de-DE">1.5x Bonus für das ~p~Wiederbeleben ~s~und ~r~Heilen ~s~von Patienten in diesem Bereich.</String>
         <String xml:lang="tr-TR">Bu bölgedekileri ~p~yeniden canlandırma ~s~ve ~r~iyileştirme ~s~için 1.5 kat bonus.</String>
-        <String xml:lang="hi-Latn">Iss zone mein ~p~patients ko revive karne ~s~aur ~r~heal karne par ~s~1.5x ka bonus milega.</String>
     </Entry>
-    
     <Entry Id="redzone_entered_crim">
         <String xml:lang="en-US">Killing ~b~police officers ~s~and ~p~paramedics ~s~in this zone is rewarded.</String>
         <String xml:lang="nl-NL">Het vermoorden van ~b~politie agenten ~s~en ~p~ambulanciers ~s~in deze zone word beloond.</String>
@@ -185,10 +167,7 @@
         <String xml:lang="lv-LV">~b~Policistu ~s~un ~p~ārstu ~s~nogalināšana šajā zonā ir atalgota.</String>
         <String xml:lang="de-DE">Das Töten von ~b~Polizisten ~s~und ~p~Medizinern ~s~in diesem Bereich wird belohnt.</String>
         <String xml:lang="tr-TR">Bu bölgede ~b~polis memurlarını ~s~ve ~p~sağlık görevlilerini ~s~öldürmek ödüllendirilir.</String>
-        <String xml:lang="hi-Latn">Iss zone mein ~b~police officers ~s~aur ~p~paramedics ~s~ko maarne par inaam milega.</String>
     </Entry>
-
-    
     <Entry Id="redzone_announcement">
         <String xml:lang="en-US">(C)Redzones:(/C) the active redzone is now (C){0}(/C).</String>
         <String xml:lang="nl-NL">(C)Rode zone:(/C) de actieve rode zone is nu (C){0}(/C).</String>
@@ -196,9 +175,7 @@
         <String xml:lang="lv-LV">(C)Sarkanā zona:(/C) aktīva sarkanā zona tagad ir (C){0}(/C).</String>
         <String xml:lang="de-DE">(C)Rote Zone:(/C) die aktuelle Rote Zone ist bei (C){0}(/C).</String>
         <String xml:lang="tr-TR">(C)Kırmızı alanlar:(/C) şu anda aktif olan kırmızı bölge (C){0}(/C).</String>
-        <String xml:lang="hi-Latn">(C)Redzones:(/C) abhi ka active redzone (C){0}(/C) hai.</String>
     </Entry>
-    
     <Entry Id="redzone_announcement_cop">
         <String xml:lang="en-US">Arrest and kill criminals in redzones for a 1.5x bonus.</String>
         <String xml:lang="nl-NL">Arresteer en vermoord criminelen in rode zones voor een 1.5x bonus.</String>
@@ -206,10 +183,7 @@
         <String xml:lang="lv-LV">Arestējiet un nogalinājiet noziedzniekus sarkanajā zonā, lai iegūtu 1.5x bonusu.</String>
         <String xml:lang="de-DE">Verhaftet und tötet Verbrecher in roten Zonen für einen 1,5x Bonus.</String>
         <String xml:lang="tr-TR">1.5 kat bonus için kırmızı bölgelerdeki suçluları tutuklayın ve yakalayın.</String>
-        <String xml:lang="hi-Latn">Redzones mein criminals ko pakdo ya maaro, 1.5x bonus ke liye.</String>
-
     </Entry>
-    
     <Entry Id="redzone_announcement_ems">
         <String xml:lang="en-US">Revive and heal patients in redzones for a 1.5x bonus.</String>
         <String xml:lang="nl-NL">Reanimeer en genees patienten in rode zones voor een 1.5x bonus.</String>
@@ -217,9 +191,7 @@
         <String xml:lang="lv-LV">Atdzīviniet un dziedējiet pacientus sarkanajās zonās priekš 1.5x bonusa.</String>
         <String xml:lang="de-DE">Belebe und heile Patienten in roten Zonen für einen 1,5x Bonus.</String>
         <String xml:lang="tr-TR">1.5 kat bonus için kırmızı bölgelerdeki hastaları canlandırın ve iyileştirin.</String>
-        <String xml:lang="hi-Latn">Redzones mein patients ko revive karo ya heal karo, 1.5x bonus ke liye.</String>
     </Entry>
-    
     <Entry Id="redzone_announcement_crim">
         <String xml:lang="en-US">Kill cops and medics inside redzones for a reward.</String>
         <String xml:lang="nl-NL">Vermoord politieagenten en ambulanciers binnen in rode zones voor een beloning.</String>
@@ -227,10 +199,7 @@
         <String xml:lang="lv-LV">Nogaliniet policistus un ārstus sarkanajās zonās priekš atlīdzības.</String>
         <String xml:lang="de-DE">Töte Polizisten und Mediziner innerhalb der roten Zonen um eine Belohnung zu erhalten.</String>
         <String xml:lang="tr-TR">Ödül almak için kırmızı bölgelerdeki polis memurlarını ve sağlık görevlilerini öldürün.</String>
-        <String xml:lang="hi-Latn">Redzones mein cops aur medics ko maarne par reward milega.</String>
     </Entry>
-    
-
     <Entry Id="redzone_left">
         <String xml:lang="en-US">You left the ~r~redzone~s~.</String>
         <String xml:lang="nl-NL">Je hebt de ~r~rode zone~s~ verlaten.</String>
@@ -238,9 +207,7 @@
         <String xml:lang="lv-LV">Jūs atstājāt ~r~sarkano zonu~s~.</String>
         <String xml:lang="de-DE">Du hast die ~r~rote Zone~s~ verlassen.</String>
         <String xml:lang="tr-TR">~r~Kırmızı bölge~s~den ayrıldın.</String>
-        <String xml:lang="hi-Latn">Aap ne ~r~redzone~s~ leave kar diya.</String>
     </Entry>
-
     <Entry Id="redzone_command">
         <String xml:lang="en-US">The current redzone is ~r~{0}~s~.</String>
         <String xml:lang="nl-NL">De huidige rode zone is ~r~{0}~s~.</String>
@@ -248,18 +215,14 @@
         <String xml:lang="lv-LV">Pašreizēja sarkanā zona ir ~r~{0}~s~.</String>
         <String xml:lang="de-DE">Die aktuelle rote Zone ist ~r~{0}~s~.</String>
         <String xml:lang="tr-TR">Şu anki kırmızı bölge ~r~{0}~s~.</String>
-        <String xml:lang="hi-Latn">Abhi ka redzone ~r~{0}~s~ hai.</String>
     </Entry>
-
     <Entry Id="redzone_will_change">
         <String xml:lang="en-US">(C)Redzones:(/C) the active redzone will change ~y~{0}~s~.</String>
         <String xml:lang="lv-LV">(C)Sarkanās zonas:(/C) aktīva sarkanā zona nomainīsies ~y~{0}~s~.</String>
         <String xml:lang="nl-NL">(C)Rode zones:(/C) de actieve rode zone verandert elke ~y~{0}~s~.</String>
         <String xml:lang="de-DE">(C)Rote Zone:(/C) die aktuelle rote Zone wird sich ändern: ~y~{0}~s~.</String>
         <String xml:lang="tr-TR">(C)Kırmızı bölgeler:(/C) aktif olan kırmızı bölge değişecek ~y~{0}~s~.</String>
-        <String xml:lang="hi-Latn">(C)Redzones:(/C) active redzone ab ~y~{0}~s~ change ho jayega.</String>
     </Entry>
-
     <Entry Id="redzone_changed">
         <String xml:lang="en-US">~r~Redzone changed</String>
         <String xml:lang="nl-NL">~r~Rode zone is verandert</String>
@@ -267,14 +230,10 @@
         <String xml:lang="lv-LV">~r~Sarkanā zona ir mainījusies</String>
         <String xml:lang="de-DE">~r~Rote Zone wurde geändert</String>
         <String xml:lang="tr-TR">~r~Kırmızı bölge değişti</String>
-        <String xml:lang="hi-Latn">~r~Redzone change ho gaya</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Report -->
-    <!-- ========================= -->
     <Entry Id="report_submitted">
         <String xml:lang="en-US">Your ~g~report ~s~on ~r~{0} ~s~has been submitted.</String>
+        <String xml:lang="ar-001">تم إرسال الشكوى ~g~s~s~on ~r~{0} ~s~الخاص بك.</String>
         <String xml:lang="nl-NL">Je ~g~rapport ~s~op ~r~{0} ~s~is verstuurd.</String>
         <String xml:lang="fr-FR">Ton ~g~signalement ~s~sur ~r~{0} ~s~a été envoyé.</String>
         <String xml:lang="it-IT">La tua ~g~segnalazione ~s~su ~r~{0} ~s~è stata inviata.</String>
@@ -282,14 +241,12 @@
         <String xml:lang="es-ES">Su ~g~informe ~s~sobre ~r~{0} ~s~ha sido presentado.</String>
         <String xml:lang="pt-BR">Seu ~g~report ~s~sobre ~r~{0} ~s~foi enviado.</String>
         <String xml:lang="de-DE">Deine ~g~Meldung gegem ~r~{0} ~s~wurde eingereicht.</String>
-        <String xml:lang="ar-001">تم إرسال الشكوى ~g~s~s~on ~r~{0} ~s~الخاص بك.</String>
         <String xml:lang="th-TH">~g~รายงาน ~s~บน ~r~{0} ~s~ของคุณถูกส่งไปแล้ว</String>
         <String xml:lang="id-ID">~g~Laporan anda ~s~terhadap ~r~{0} ~s~telah berhasil dikirimkan</String>
         <String xml:lang="hi-Latn">Aapki ~g~report ~s~inn par ~r~{0} ~s~submit ho gayi hai.</String>
         <String xml:lang="lv-LV">Jūsu ~g~ziņojums ~s~par ~r~{0} ~s~tika iesniegts.</String>
         <String xml:lang="tr-TR">~r~{0} ~s~hakkındaki ~g~raporunuz ~s~gönderildi.</String>
     </Entry>
-
     <Entry Id="report_cant_report_player_that_soon">
         <String xml:lang="en-US">~r~You cannot report the same player that soon.</String>
         <String xml:lang="nl-NL">~r~Je kan niet dezelfde speler zo kort achter elkaar rapporteren.</String>
@@ -302,11 +259,10 @@
         <String xml:lang="ar-001">~r~لا يمكنك الإبلاغ عن نفس اللاعب بهذه السرعة.</String>
         <String xml:lang="th-TH">~r~คุณไม่สามารถรายงานผู้เล่นคนเดียวกันได้ในเร็วๆ นี้</String>
         <String xml:lang="id-ID">~r~Anda tidak dapat melaporkan pemain yang sama secepat itu.</String>
-        <String xml:lang="hi-Latn">~r~Itni jaldi wapas same player ko report nahi kar sakte ho.</String>
+        <String xml:lang="hi-Latn">~r~Itni jaldi wapas usi player ko report nahi kar sakte ho.</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat ziņot par to pašu spēlētāju tik drīz.</String>
         <String xml:lang="tr-TR">~r~Aynı oyuncuyu bu kadar kısa sürede rapor edemezsin.</String>
     </Entry>
-
     <Entry Id="report_cmd_suggestion_help">
         <String xml:lang="en-US">Report a player for breaking the game rules or ToS.</String>
         <String xml:lang="nl-NL">Geef een speler aan voor het overtreden van de spelregels of gebruikersvoorwaarden.</String>
@@ -316,9 +272,7 @@
         <String xml:lang="id-ID">Laporkan pemain yang melanggar aturan atau ToS.</String>
         <String xml:lang="lv-LV">Ziņojiet par spēlētāju, kas pārkāpj spēles noteikumus vai ToS.</String>
         <String xml:lang="tr-TR">Bir oyuncuyu oyun kurallarını veya hizmet şartlarını ihlal ettiği için raporlayın.</String>
-        <String xml:lang="hi-Latn">Report karo player ko game rules ya ToS todne ke liye.</String>
     </Entry>
-
     <Entry Id="report_cmd_suggestion_param_name">
         <String xml:lang="en-US">player id</String>
         <String xml:lang="nl-NL">speler ID</String>
@@ -328,9 +282,7 @@
         <String xml:lang="id-ID">Id pemain</String>
         <String xml:lang="lv-LV">spēlētaja ID</String>
         <String xml:lang="tr-TR">oyuncunun ID'si</String>
-        <String xml:lang="hi-Latn">player id</String>
     </Entry>
-
     <Entry Id="report_cmd_suggestion_param_help">
         <String xml:lang="en-US">The id of the player you want to report.</String>
         <String xml:lang="nl-NL">Het ID van de speler waarvan je aangifte wilt doen.</String>
@@ -340,9 +292,7 @@
         <String xml:lang="id-ID">Id pemain yang akan dilaporkan.</String>
         <String xml:lang="lv-LV">Spēlētāja ID, par kuru gribat ziņot.</String>
         <String xml:lang="tr-TR">Raporlamak istediğin oyuncunun ID'si.</String>
-        <String xml:lang="hi-Latn">Woh player ki id jise aap report karna chahte ho.</String>
     </Entry>
-
     <Entry Id="input_report_warning">
         <String xml:lang="en-US">You are about to report ~r~{0} ~s~for {1}.\nFalsely reporting another user will result in ~r~you being banned ~s~instead. Do you want to proceed?</String>
         <String xml:lang="nl-NL">Je staat op het punt om ~r~{0} ~s~aangifte te doen voor {1}.\nOnterecht aangifte doen van een andere speler zal resulteren in ~r~een ban voor jou~s~. Wil je doorgaan?</String>
@@ -352,12 +302,7 @@
         <String xml:lang="id-ID">Kamu akan melaporkan ~r~{0} ~s~untuk {1}.\nLaporan yang salah terhadap pemain lain akan ~r~membuatmu diban~s~. Apakah kamu ingin melanjutkan laporanmu?</String>
         <String xml:lang="lv-LV">Jūs gatavojaties ziņot par ~r~{0} ~s~par {1}. \nNepatiesa ziņošana rezultēs ~r~jūsu konta bloķēšanā~s~. Vai jūs gribat turpināt?</String>
         <String xml:lang="tr-TR">~r~{0} ~s~isimli oyuncuyu {1} ~s~nedenden dolayı rapor etmek üzeresin.\nYanlışlıkla başka bir oyuncuyu raporlamak onun yerine ~r~senin yasaklanmana ~s~neden olur. Devam etmek istiyormusun?</String>
-        <String xml:lang="hi-Latn">Aap ~r~{0} ~s~ko {1} ke liye report karne wale ho.\nGalat report karne par ~r~aap ko ban kiya ja sakta hai. ~s~Kya aap aage badhna chahte ho?</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Services / Linking -->
-    <!-- ========================= -->
     <Entry Id="service_cant_unlink_all">
         <String xml:lang="en-US">~r~You cannot unlink all services. There must be at least one service linked.</String>
         <String xml:lang="nl-NL">~r~Je kan niet alle services verwijderen. Er moet minimaal één service gelinkt zijn.</String>
@@ -374,8 +319,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat atsaistīt visus servisus. Vismaz vienam servisam ir jābūt saistītam.</String>
         <String xml:lang="tr-TR">~r~Tüm hizmetlerin bağlantısını kaldıramazsınız. En azından bir hizmet bağlantılı olmalıdır.</String>
     </Entry>
-
-    <!-- {0} = Service name (Discord; FiveM; Steam; ...) -->
     <Entry Id="service_unlinked">
         <String xml:lang="en-US">You ~g~successfully ~s~unlinked {0} from your account.</String>
         <String xml:lang="nl-NL">Je hebt ~g~succesvol ~s~{0} verwijderd van je account.</String>
@@ -392,7 +335,6 @@
         <String xml:lang="lv-LV">Jūs ~g~veiksmīgi ~s~atsaistījāt {0} no jūsu konta.</String>
         <String xml:lang="tr-TR">{0} hesabınızla olan bağlantıyı ~g~başarıyla ~s~kaldırdınız.</String>
     </Entry>
-
     <Entry Id="service_linked">
         <String xml:lang="en-US">You've ~g~successfully ~s~linked ~b~{0} ~s~to your account.</String>
         <String xml:lang="nl-NL">Je hebt ~g~succesvol ~b~{0} ~s~gelinkt aan je account.</String>
@@ -409,7 +351,6 @@
         <String xml:lang="lv-LV">Jūs ~g~veiksmīgi ~s~saistījāt ~b~{0} ~s~ar savu kontu.</String>
         <String xml:lang="tr-TR">~b~{0} ~g~başarıyla ~s~hesabına bağlandı.</String>
     </Entry>
-
     <Entry Id="service_mail_already_linked">
         <String xml:lang="en-US">~r~This email address is already linked to another account.</String>
         <String xml:lang="nl-NL">~r~Dit email adres is al gelinkt aan een ander account.</String>
@@ -426,7 +367,6 @@
         <String xml:lang="lv-LV">~r~Šīs e-pasts jau ir saistīts ar citu kontu.</String>
         <String xml:lang="tr-TR">~r~Bu e-posta adresi başka bir hesaba bağlı.</String>
     </Entry>
-
     <Entry Id="service_mail_cooldown">
         <String xml:lang="en-US">~r~You must wait 2 minutes between email change attempts.</String>
         <String xml:lang="nl-NL">~r~Je moet 2 minuten wachten tussen email aanpassingen.</String>
@@ -443,7 +383,6 @@
         <String xml:lang="lv-LV">~r~Jums ir jāpagaida 2 minūtes pirms citas e-pasta mainīšanas mēģinājuma.</String>
         <String xml:lang="tr-TR">~r~E-posta değişikliği girişimleri arasında 2 dakika beklemelisin.</String>
     </Entry>
-
     <Entry Id="service_mail_invalid">
         <String xml:lang="en-US">~r~{0} is not a valid email address.</String>
         <String xml:lang="nl-NL">~r~{0} is niet een geldig email adres.</String>
@@ -460,8 +399,6 @@
         <String xml:lang="lv-LV">~r~{0} nav derīga e-pasta adrese.</String>
         <String xml:lang="tr-TR">~r~{0} geçerli bir e-posta adresi değil.</String>
     </Entry>
-
-    <!-- {0} = both the same -> Service name (Discord; FiveM; Steam; ...) -->
     <Entry Id="service_account_not_found_restart">
         <String xml:lang="en-US">{0} account not found. Make sure your {0} desktop app is running, then restart FiveM and retry.</String>
         <String xml:lang="nl-NL">{0} account niet gevonden. Zorg ervoor dat de {0} desktop app aan staat, herstart FiveM en probeer opnieuw.</String>
@@ -478,7 +415,6 @@
         <String xml:lang="lv-LV">{0} konts netika atrasts. Pārliecinieties, ka jūsu {0} datora lietotne darbojas, pēc tam restartējiet FiveM un mēģiniet vēlreiz.</String>
         <String xml:lang="tr-TR">{0} hesabı bulunamadı. {0} masaüstü uygulamanızın çalıştığından emin olun, ardından FiveM'i yeniden başlatıp deneyin.</String>
     </Entry>
-
     <Entry Id="service_account_not_found_disconnect">
         <String xml:lang="en-US">{0} account not found. Disconnect and go back to the FiveM launcher, then log in to your FiveM account and retry.</String>
         <String xml:lang="nl-NL">{0} account niet gevonden. Disconnect en ga terug naar de FiveM laucnher, log in op de FiveM account en probeer opnieuw.</String>
@@ -495,7 +431,6 @@
         <String xml:lang="lv-LV">{0} konts netika atrasts. Atvienojieties un atveriet FiveM Launcher, pēc tam ienāciet savā FiveM kontā un mēģiniet vēlreiz.</String>
         <String xml:lang="tr-TR">{0} hesabı bulunamadı. Bağlantıyı kes ve FiveM başlatıcısına geri dön, ardından FiveM hesabında oturum aç ve yeniden dene.</String>
     </Entry>
-
     <Entry Id="server_processing_request">
         <String xml:lang="en-US">~r~The server is still processing your previous request. Please, wait before sending another one.</String>
         <String xml:lang="nl-NL">~r~De server is nog je vorige aanvraag aan het verwerken. Wacht alstublieft voordat je een nieuwe stuurt.</String>
@@ -512,7 +447,6 @@
         <String xml:lang="lv-LV">~r~Serveris vēl apstrādā jūsu iepriekšējo pieprasījumu. Lūdzu, uzgaidiet pirms cita sniegšanas.</String>
         <String xml:lang="tr-TR">~r~Sunucu hala önceki isteğini işliyor. Başka bir tane göndermeden önce lütfen bekle.</String>
     </Entry>
-
     <Entry Id="entered_password_too_short">
         <String xml:lang="en-US">~r~The entered password is too short (min 8 characters). Operation canceled.</String>
         <String xml:lang="nl-NL">~r~Het ingevoerde wachtwoord is te kort (min 8 karakters). Operatie geannuleerd.</String>
@@ -529,7 +463,6 @@
         <String xml:lang="lv-LV">~r~Ievadīta parole ir pārāk īsa (min 8 rakstu zīmes). Operācija atcelta.</String>
         <String xml:lang="tr-TR">~r~Girilen şifre çok kısa. (minimum 8 karakter). İşlem iptal edildi.</String>
     </Entry>
-
     <Entry Id="entered_password_dont_match">
         <String xml:lang="en-US">~r~The entered passwords don't match. Operation canceled.</String>
         <String xml:lang="nl-NL">~r~De ingevoerde wachtwoorden zijn incorrect. Operatie geannuleerd.</String>
@@ -546,7 +479,6 @@
         <String xml:lang="lv-LV">~r~Ievadītas paroles nesakrīt. Operācija atcelta.</String>
         <String xml:lang="tr-TR">~r~Girilen şifreler eşleşmiyor. İşlem iptal edildi.</String>
     </Entry>
-
     <Entry Id="password_changed">
         <String xml:lang="en-US">Your ~b~password ~s~has been ~g~successfully changed~s~.</String>
         <String xml:lang="nl-NL">Je ~b~wachtwoord ~s~is ~g~succesvol aangepast~s~.</String>
@@ -563,7 +495,6 @@
         <String xml:lang="lv-LV">Jūsu ~b~parole ~s~tika ~g~veiksmīgi nomainīta~s~.</String>
         <String xml:lang="tr-TR">~b~Şifreniz ~g~başarıyla ~s~değiştirildi.</String>
     </Entry>
-
     <Entry Id="cant_do_while_fake_username">
         <String xml:lang="en-US">~r~You cannot do this while you're using a fake username.</String>
         <String xml:lang="nl-NL">~r~Je kan dit niet doen terwijl je een fake username gebruikt.</String>
@@ -580,7 +511,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat darīt šo kamēr jūs lietojat viltotu lietotājvārdu.</String>
         <String xml:lang="tr-TR">~r~Sahte bir kullanıcı adı kullanırken bunu yapamazsın.</String>
     </Entry>
-
     <Entry Id="cant_do_when_dead">
         <String xml:lang="en-US">~r~You can't do this when you are dead.</String>
         <String xml:lang="nl-NL">~r~Je kan dit niet doen wanneer je dood bent.</String>
@@ -592,8 +522,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat darīt šo kamēr esat miris.</String>
         <String xml:lang="tr-TR">~r~Öldüğünde bunu yapamazsın.</String>
     </Entry>
-
-    <!-- {0} = Item name -->
     <Entry Id="cant_use_when_cuffed">
         <String xml:lang="en-US">~r~You can't use a {0} when you are cuffed.</String>
         <String xml:lang="nl-NL">~r~Je kan geen {0} gebruiken wanneer je geboeid bent.</String>
@@ -605,8 +533,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat lietot {0} kamēr esat rokudzelžos.</String>
         <String xml:lang="tr-TR">~r~Kelepçeliyken {0} kullanamazsın.</String>
     </Entry>
-
-    <!-- {0} = Item name -->
     <Entry Id="cant_use_when_in_custody">
         <String xml:lang="en-US">~r~You can't use a {0} when you are in police custody.</String>
         <String xml:lang="nl-NL">~r~Je kan geen {0} gebruiken wanneer de politie je staande houdt.</String>
@@ -616,10 +542,7 @@
         <String xml:lang="de-DE">~r~Du kannst kein {0} benutzen, wenn du dich in Polizeigewahrsam befindest.</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat lietot {0} kamēr esat policijas apcietinājumā.</String>
         <String xml:lang="tr-TR">~r~Polis gözetimi altındayken {0} kullanamazsın.</String>
-        <String xml:lang="hi-Latn">~r~Aap police custody mein hone par {0} ka use nahi kar sakte.</String>
     </Entry>
-
-    <!-- {0} = Item name (Membership, Name-change token, ...) -->
     <Entry Id="successfully_activated_item">
         <String xml:lang="en-US">You successfully activated your ~p~{0}~s~.</String>
         <String xml:lang="nl-NL">Je hebt met succes je ~p~{0}~s~ gebruikt.</String>
@@ -636,7 +559,6 @@
         <String xml:lang="lv-LV">Jūs veiksmīgi aktivizējat savu ~p~{0}~s~.</String>
         <String xml:lang="tr-TR">~p~{0}~s~ Başarıyla aktif ettin.</String>
     </Entry>
-
     <Entry Id="already_active_subscription">
         <String xml:lang="en-US">~r~You already have an active subscription. If you need help, open a support ticket on our Discord.</String>
         <String xml:lang="nl-NL">~r~Je hebt al een actieve subscriptie. Als je hulp nodig hebt, maak een support ticket in onze Discord.</String>
@@ -653,7 +575,6 @@
         <String xml:lang="lv-LV">~r~Jums jau ir aktīvs abonements. Ja jums ir nepieciešama palīdzība, atveriet atbalsta pieprasījumu mūsu Discord vietnē.</String>
         <String xml:lang="tr-TR">~r~Zaten aktif bir aboneliğiniz var. Yardıma ihtiyacınız varsa Discord'umuzdan bir destek bileti açın.</String>
     </Entry>
-
     <Entry Id="unable_deactivate_silver_membership">
         <String xml:lang="en-US">~r~Unable to deactivate your current Silver Membership to upgrade. If the error persists, please open a support ticket on our Discord.</String>
         <String xml:lang="nl-NL">~r~Niet gelukt om je Silver Membership te upgraden. Als deze error blijft voorkomen, maak alstublieft een support ticket in onze Discord.</String>
@@ -670,7 +591,6 @@
         <String xml:lang="lv-LV">~r~Nav iespējams deaktivizēt jūsu pašreizējo Sudraba Abonementu lai jauninātu. Ja kļūda saglabājas, lūdzu atveriet atbalsta pieprasījumu mūsu Discord vietnē.</String>
         <String xml:lang="tr-TR">~r~Mevcut Gümüş Üyeliğiniz yükseltilmek için devre dışı bırakılamıyor. Hata devam ederse lütfen Discord'umuzdan bir destek bileti açın.</String>
     </Entry>
-
     <Entry Id="visit_hospital_plastic_surgery">
         <String xml:lang="en-US">Visit a ~r~hospital ~s~to get a ~p~plastic surgery~s~.</String>
         <String xml:lang="nl-NL">Bezoek een ~r~ziekenhuis ~s~om ~p~plastische chirurgie~s~ te krijgen.</String>
@@ -687,7 +607,6 @@
         <String xml:lang="lv-LV">Apmeklējiet ~r~slimnīcu~s~, lai iegūtu ~p~plastisku ķirurģiju~s~.</String>
         <String xml:lang="tr-TR">~p~Plastik cerrahi ~s~için bir ~r~hastane ~s~ziyaret edin.</String>
     </Entry>
-
     <Entry Id="operation_canceled">
         <String xml:lang="en-US">~r~Operation canceled.</String>
         <String xml:lang="nl-NL">~r~Operatie geannuleerd.</String>
@@ -704,7 +623,6 @@
         <String xml:lang="lv-LV">~r~Operācija atcelta.</String>
         <String xml:lang="tr-TR">~r~Operasyon iptal edildi.</String>
     </Entry>
-
     <Entry Id="account_menu_change_username">
         <String xml:lang="en-US">Go back to the ~b~Account ~s~menu to change your username.</String>
         <String xml:lang="nl-NL">Ga terug naar het ~b~Account ~s~menu om je gebruikersnaam aan te passen.</String>
@@ -721,7 +639,6 @@
         <String xml:lang="lv-LV">Atgriezieties pie ~b~Konta ~s~izvēlnes, lai mainītu savu lietotājvārdu.</String>
         <String xml:lang="tr-TR">Kullanıcı adını değiştirmek için ~b~Hesap ~s~menüsüne dön.</String>
     </Entry>
-
     <Entry Id="item_cant_used">
         <String xml:lang="en-US">This kind of item ~r~cannot be used~s~.</String>
         <String xml:lang="nl-NL">Dit type item ~r~kan niet worden gebruikt~s~.</String>
@@ -738,7 +655,6 @@
         <String xml:lang="lv-LV">Šāda veida priekšmets ~r~nevar tikt izmantots~s~.</String>
         <String xml:lang="tr-TR">Bu tür bir eşya ~r~kullanılamaz~s~.</String>
     </Entry>
-
     <Entry Id="username_change_cooldown">
         <String xml:lang="en-US">You need to ~r~wait ~s~before changing your ~b~username ~s~again.</String>
         <String xml:lang="nl-NL">Je moet nog even ~r~wachten ~s~voordat je opnieuw je ~b~gebruikersnaam ~s~weer kan aanpassen.</String>
@@ -755,8 +671,6 @@
         <String xml:lang="lv-LV">Jums ir ~r~jāpagaida~s~ pirms jūsu ~b~lietotājvārda ~s~vēlreizējas mainīšanas.</String>
         <String xml:lang="tr-TR">~b~Kullanıcı adını ~s~tekrardan değiştirmeden önce ~r~beklemen ~s~gerekir.</String>
     </Entry>
-
-    <!-- {0} = New username -->
     <Entry Id="username_new_already_taken">
         <String xml:lang="en-US">The name ~b~{0} ~s~is already taken.</String>
         <String xml:lang="nl-NL">De naam ~b~{0} ~s~is al in gebruik.</String>
@@ -773,8 +687,6 @@
         <String xml:lang="lv-LV">Lietotājvārds ~b~{0} ~s~jau ir aizņemts.</String>
         <String xml:lang="tr-TR">~b~{0} ~s~ismi zaten alınmış.</String>
     </Entry>
-
-    <!-- {0} = Discord -->
     <Entry Id="staff_name_change">
         <String xml:lang="en-US">~g~Staff members ~s~must contact an admin or manager for a ~b~name change~s~. The admin must make sure that the in-game name matches the name on {0} and is not obscene or vulgar.</String>
         <String xml:lang="nl-NL">~g~Staffleden ~s~moeten een admin of manager contacteren voor een ~b~naamswijziging~s~. De admin moet checken dat de in-game name matcht met de naam op {0} en dat de naam niet onzedelijk of grof is.</String>
@@ -791,7 +703,6 @@
         <String xml:lang="lv-LV">~g~Servera personālam ~s~ir jāsasniedz servera adminu vai menedžeru priekš ~b~lietotājvārda maiņas~s~. Adminam ir jāparbauda ka lietotājvārds spēlē atbilst lietotājvārdam {0} un nav neķītrs va vulgārs.</String>
         <String xml:lang="tr-TR">~g~Staff üyeleri ~b~isim değişikliği ~s~için bir admin ya da manager ile iletişime geçmelidir. Admin oyun içi ismin {0} ismiyle eşleştiğinden, müstehcen veya kaba olmadığından emin olmalıdır.</String>
     </Entry>
-
     <Entry Id="entered_code_incorrect">
         <String xml:lang="en-US">~r~The code you entered is incorrect.</String>
         <String xml:lang="nl-NL">~r~De ingevoerde code is incorrect.</String>
@@ -808,7 +719,6 @@
         <String xml:lang="lv-LV">~r~Kods, kuru jūs ievadījat, ir nepareizs.</String>
         <String xml:lang="tr-TR">~r~Girmekte olduğun kod hatalı.</String>
     </Entry>
-
     <Entry Id="entered_code_expired">
         <String xml:lang="en-US">~r~The code has expired.</String>
         <String xml:lang="nl-NL">~r~De code is verlopen.</String>
@@ -825,10 +735,6 @@
         <String xml:lang="lv-LV">~r~Kodam, kuru jūs ievadījat, ir beidzies derīguma termiņš.</String>
         <String xml:lang="tr-TR">~r~Kodun süresi doldu.</String>
     </Entry>
-
-    <!-- {0} = Amount -->
-    <!-- {1} = Item -->
-    <!-- {2} = User's name -->
     <Entry Id="successfully_transferred">
         <String xml:lang="en-US">You successfully transferred {0} ~p~{1} ~s~to ~y~{2}~s~.</String>
         <String xml:lang="nl-NL">Je hebt succesvol {0} ~p~{1} ~s~overgedragen aan ~y~{2}~s~.</String>
@@ -845,7 +751,6 @@
         <String xml:lang="lv-LV">Jūs veiksmīgi nodevat {0} ~p~{1} ~y~{2}~s~.</String>
         <String xml:lang="tr-TR">{0} ~p~{1} ~s~başarıyla ~y~{2} ~s~transfer edildi.</String>
     </Entry>
-
     <Entry Id="unable_to_find_player">
         <String xml:lang="en-US">~r~The server is unable to find the specified player.</String>
         <String xml:lang="nl-NL">~r~De server kan de opgegeven speler niet vinden.</String>
@@ -862,14 +767,13 @@
         <String xml:lang="lv-LV">~r~Serverim nesanāca atrast noradīto spēlētāju.</String>
         <String xml:lang="tr-TR">~r~Sunucu belirtilen oyuncuyu bulamıyor.</String>
     </Entry>
-
     <Entry Id="cant_send_gift_yourself">
         <String xml:lang="en-US">~r~You can't send a gift to yourself.</String>
+        <String xml:lang="pl-PL">~r~Nie możesz wysłać sobie prezentu.</String>
+        <String xml:lang="es-ES">~r~No puedes enviarte un regalo a ti mismo.</String>
         <String xml:lang="nl-NL">~r~Je kan geen gift aan jezelf geven.</String>
         <String xml:lang="fr-FR">~r~Tu ne peux pas t'envoyer un cadeau à toi-même.</String>
         <String xml:lang="it-IT">~r~Non puoi inviare un regalo a te stesso.</String>
-        <String xml:lang="pl-PL">~r~Nie możesz wysłać sobie prezentu.</String>
-        <String xml:lang="es-ES">~r~No puedes enviarte un regalo a ti mismo.</String>
         <String xml:lang="pt-BR">~r~Não é possível enviar um presente para você mesmo.</String>
         <String xml:lang="de-DE">~r~Du kannst dir selbst keine Geschenke schicken.</String>
         <String xml:lang="ar-001">~r~لا يمكنك إرسال هدية لنفسك.</String>
@@ -879,7 +783,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat nosūtīt dāvanu sev.</String>
         <String xml:lang="tr-TR">~r~Kendine hediye gönderemezsin.</String>
     </Entry>
-
     <Entry Id="too_far_from_player">
         <String xml:lang="en-US">You're ~r~too far ~s~from the player!</String>
         <String xml:lang="nl-NL">Je bent ~r~te ver weg ~s~van de speler!</String>
@@ -896,7 +799,6 @@
         <String xml:lang="lv-LV">Jūs esat ~r~pārāk tālu ~s~no šī spēlētāja!</String>
         <String xml:lang="tr-TR">Oyuncudan ~r~çok uzaktasın~s~!</String>
     </Entry>
-
     <Entry Id="too_far_from_recipient">
         <String xml:lang="en-US">You are ~r~too far ~s~from the recipient.</String>
         <String xml:lang="nl-NL">Je bent ~r~te ver weg ~s~van de ontvanger.</String>
@@ -913,8 +815,6 @@
         <String xml:lang="lv-LV">Jūs esat ~r~pārāk tālu ~s~no saņēmēja.</String>
         <String xml:lang="tr-TR">Alıcıdan ~r~çok uzaktasın~s~.</String>
     </Entry>
-
-    <!-- {0} = Max-Amount -->
     <Entry Id="player_only_send_at_a_time">
         <String xml:lang="en-US">You can only send ~r~{0} ~s~at a time.</String>
         <String xml:lang="nl-NL">Je kan maar ~r~{0} ~s~tegelijk sturen.</String>
@@ -931,9 +831,6 @@
         <String xml:lang="lv-LV">Jūs varat sūtīt tikai ~r~{0} ~s~vienā reizē.</String>
         <String xml:lang="tr-TR">Tek seferde sadece ~r~{0} ~s~gönderebilirsin.</String>
     </Entry>
-
-    <!-- {0} = Player -->
-    <!-- {1} = Amount money -->
     <Entry Id="you_gave_currency">
         <String xml:lang="en-US">You gave {0} ~r~{1}~s~.</String>
         <String xml:lang="nl-NL">Je geeft {0} ~r~{1}~s~.</String>
@@ -950,7 +847,6 @@
         <String xml:lang="lv-LV">Jūs iedevat {0} ~r~{1}~s~.</String>
         <String xml:lang="tr-TR">{0} ~s~kişisine ~r~{1} ~s~verdin.</String>
     </Entry>
-
     <Entry Id="amount_entered_invalid">
         <String xml:lang="en-US">The amount you entered is ~r~invalid~s~!</String>
         <String xml:lang="nl-NL">Het aantal dat je hebt ingevoerd is ~r~ongeldig~s~!</String>
@@ -967,7 +863,6 @@
         <String xml:lang="lv-LV">Daudzums, kuru jūs ievadījat, ir ~r~nederīgs~s~!</String>
         <String xml:lang="tr-TR">Girdiğiniz tutar ~r~geçersiz~s~!</String>
     </Entry>
-
     <Entry Id="recipient_no_longer_online">
         <String xml:lang="en-US">The recipient is ~r~no longer online~s~.</String>
         <String xml:lang="nl-NL">De ontvanger is ~r~niet meer online~s~.</String>
@@ -984,7 +879,6 @@
         <String xml:lang="lv-LV">Saņēmējs vairs ~r~nav online~s~.</String>
         <String xml:lang="tr-TR">Alıcı ~r~artık çevrim içi değil~s~.</String>
     </Entry>
-
     <Entry Id="dont_have_required_level_transfer_money">
         <String xml:lang="en-US">You don't have the ~r~required level ~s~to transfer money to other players.</String>
         <String xml:lang="nl-NL">Je hebt niet het ~r~vereiste level ~s~om geld over te schrijven naar andere spelers.</String>
@@ -1001,7 +895,6 @@
         <String xml:lang="lv-LV">Jums nav ~r~nepieciešama līmeņa ~s~lai pārskaitītu naudu citiem spēlētājiem.</String>
         <String xml:lang="tr-TR">Diğer oyunculara para aktarmak için ~r~gerekli seviyeye ~s~sahip değilsiniz.</String>
     </Entry>
-
     <Entry Id="sent_too_much_money_another_session">
         <String xml:lang="en-US">You sent ~r~too much money~s~. Please, retry in ~r~another session~s~.</String>
         <String xml:lang="nl-NL">Je hebt ~r~te veel geld~s~ verstuurd. Probeer het alstublieft opnieuw in een ~r~andere sessie~s~.</String>
@@ -1018,7 +911,6 @@
         <String xml:lang="lv-LV">Jūs esat nosūtījis ~r~pārāk daudz naudas~s~. Lūdzu, mēģiniet vēlreiz ~r~citā sesijā~s~.</String>
         <String xml:lang="tr-TR">~r~Çok fazla para ~s~gönderdin. Lütfen, ~r~başka bir oturumda ~s~tekrar dene.</String>
     </Entry>
-
     <Entry Id="sending_money_too_fast">
         <String xml:lang="en-US">You are sending ~r~money too fast~s~. Please, ~r~wait ~s~before sending money again.</String>
         <String xml:lang="nl-NL">Je verzendt ~r~geld te snel~s~. ~r~Wacht ~s~voordat je opnieuw geld verzendt.</String>
@@ -1035,7 +927,6 @@
         <String xml:lang="lv-LV">Jūs sūtat ~r~naudu pārāk ātri~s~. Lūdzu, ~r~uzgaidiet ~s~pirms vēlreizējas naudas sūtīšanas.</String>
         <String xml:lang="tr-TR">~r~Çok hızlı para ~s~gönderiyorsun. tekrar para göndermek için lütfen ~r~bekleyin~s~.</String>
     </Entry>
-
     <Entry Id="player_received_too_much_money">
         <String xml:lang="en-US">This player has received ~r~too much money~s~. Please, try again ~r~later~s~.</String>
         <String xml:lang="nl-NL">Deze speler heeft ~r~te veel geld~s~ ontvangen. Probeer het ~r~later~s~ opnieuw.</String>
@@ -1052,7 +943,6 @@
         <String xml:lang="lv-LV">Šīs spēlētājs saņema ~r~pārāk daudz naudas~s~. Lūdzu, mēģiniet vēlreiz ~r~vēlāk~s~.</String>
         <String xml:lang="tr-TR">Bu oyuncu ~r~çok fazla para ~s~aldı. Lütfen, ~r~daha sonra ~s~tekrar deneyin.</String>
     </Entry>
-
     <Entry Id="player_received_money_recently">
         <String xml:lang="en-US">This player has ~r~recently ~s~received money. Please, try again ~r~later~s~.</String>
         <String xml:lang="nl-NL">Deze speler heeft ~r~recent ~s~al geld ontvangen. Probeer het ~r~later~s~ opnieuw.</String>
@@ -1067,9 +957,8 @@
         <String xml:lang="id-ID">Pemain ini ~r~baru saja ~s~menerima uang. Mohon, untuk mencoba lagi ~r~nanti~s~.</String>
         <String xml:lang="hi-Latn">Iss player ne ~r~abhi haal hi mein ~s~paise receive kiye hain. Please, ~r~baad mein ~s~phir se try karo.</String>
         <String xml:lang="lv-LV">Šīs spēlētājs ~r~nesen ~s~saņēma naudu. Lūdzu, meģiniet vēlreiz ~r~vēlāk~s~.</String>
-         <String xml:lang="tr-TR">Bu oyuncu ~r~yakın zamanda ~s~para aldı. Lütfen, ~r~daha sonra ~s~tekrar deneyin.</String>
+        <String xml:lang="tr-TR">Bu oyuncu ~r~yakın zamanda ~s~para aldı. Lütfen, ~r~daha sonra ~s~tekrar deneyin.</String>
     </Entry>
-
     <Entry Id="dont_have_vehicle_with_plate">
         <String xml:lang="en-US">~r~You don't have a vehicle with that license plate.</String>
         <String xml:lang="nl-NL">~r~Je hebt geen voertuig met dat kentekenplaat.</String>
@@ -1086,8 +975,6 @@
         <String xml:lang="lv-LV">~r~Jums nav transportlīdzekļa ar doto reģistrācijas numuru.</String>
         <String xml:lang="tr-TR">~r~Bu plakaya sahip bir aracın yok.</String>
     </Entry>
-
-    <!-- {0} = vehicle_recalled_valid_name or vehicle_recalled_invalid_name -->
     <Entry Id="vehicle_recalled">
         <String xml:lang="en-US">{0} ~s~has been officially ~r~recalled ~s~by CnR V. You can sell this vehicle for the ~g~FULL ~s~original price below.</String>
         <String xml:lang="nl-NL">{0} ~s~is officieel ~r~teruggeroepen ~s~door CnR V. Je kan dit voertuig verkopen voor de ~g~VOLLEDIGE ~s~originele prijs hieronder.</String>
@@ -1104,8 +991,6 @@
         <String xml:lang="lv-LV">CNR V oficiāli ~r~atsauca ~s~{0}. Jūs varat pārdot šo transportlīdzekli par ~g~PILNO ~s~oriģinālo cenu zemāk.</String>
         <String xml:lang="tr-TR">{0} CnR V tarafından resmi olarak ~r~geri çağırıldı~s~. Bu aracı aşşağıda belirtilen ~g~TAM ~s~orijinal fiyatına satabilirsiniz.</String>
     </Entry>
-
-    <!-- {0} = Vehicle name -->
     <Entry Id="vehicle_recalled_valid_name">
         <String xml:lang="en-US">The ~y~{0}</String>
         <String xml:lang="nl-NL">De ~y~{0}</String>
@@ -1115,9 +1000,7 @@
         <String xml:lang="id-ID">~y~{0}</String>
         <String xml:lang="lv-LV">~y~{0}</String>
         <String xml:lang="tr-TR">~y~{0}</String>
-        <String xml:lang="hi-Latn">The ~y~{0}</String>
     </Entry>
-
     <Entry Id="vehicle_recalled_invalid_name">
         <String xml:lang="en-US">This vehicle</String>
         <String xml:lang="nl-NL">Dit voertuig</String>
@@ -1129,7 +1012,6 @@
         <String xml:lang="lv-LV">Šīs transportlīdzeklis</String>
         <String xml:lang="tr-TR">Bu araba</String>
     </Entry>
-
     <Entry Id="unable_to_deliver_move">
         <String xml:lang="en-US">~r~Unable to deliver a vehicle here! Please, move to another location.</String>
         <String xml:lang="nl-NL">~r~Kan hier geen voertuig afleveren! Verplaats naar een andere locatie, aub.</String>
@@ -1146,8 +1028,6 @@
         <String xml:lang="lv-LV">~r~Nav iespējams piegādāt transportlīdzekli šeit! Lūdzu, pārvietojieties uz citu vietu.</String>
         <String xml:lang="tr-TR">~r~Buraya araç teslim edilemiyor! Lütfen, başka bir yere git.</String>
     </Entry>
-
-    <!-- {0} = Vehicle name -->
     <Entry Id="vehicle_on_the_way">
         <String xml:lang="en-US">Your ~b~{0} ~s~is on the way! Please, stay in the area.</String>
         <String xml:lang="nl-NL">Je ~b~{0} ~s~is onderweg! Blijf in de buurt, aub.</String>
@@ -1164,7 +1044,6 @@
         <String xml:lang="lv-LV">Jūsu ~b~{0} ~s~ir ceļā! Lūdzu, palieciet zonā.</String>
         <String xml:lang="tr-TR">~b~{0} ~s~Yolda! Lütfen, bölgede kal.</String>
     </Entry>
-
     <Entry Id="cant_deliver_here">
         <String xml:lang="en-US">~r~You can't get a vehicle delivered here!</String>
         <String xml:lang="nl-NL">~r~Je kunt hier geen voertuig laten bezorgen!</String>
@@ -1181,8 +1060,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat pasūtīt transportlīdzekļa pegādi šeit!</String>
         <String xml:lang="tr-TR">~r~Buraya araç teslim edilemez!</String>
     </Entry>
-
-    <!-- {0} = Current job -->
     <Entry Id="cant_get_delivered_as_job">
         <String xml:lang="en-US">~r~You can't get this vehicle delivered as a ~s~{0}~r~!</String>
         <String xml:lang="nl-NL">~r~Je kan dit voertuig niet laten bezorgen als een ~s~{0}~r~!</String>
@@ -1199,7 +1076,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat pasūtīt šī transportlīdzekļa piegādi kamēr esat ~s~{0}~r~!</String>
         <String xml:lang="tr-TR">{0} iken ~s~bu aracı teslim alamazsınız~r~!</String>
     </Entry>
-
     <Entry Id="vehicle_attached_to_tow_truck">
         <String xml:lang="en-US">~r~Your current vehicle is attached to a tow truck!</String>
         <String xml:lang="nl-NL">~r~Je huidige voertuig is gekoppeld aan een takelwagen!</String>
@@ -1216,7 +1092,6 @@
         <String xml:lang="lv-LV">~r~Jūsu pašreizējais transportlīdzeklis ir uz evakuatora.</String>
         <String xml:lang="tr-TR">~r~Mevcut aracın bir çekiciye bağlı!</String>
     </Entry>
-
     <Entry Id="vehicle_rent_expired">
         <String xml:lang="en-US">~r~The rent of this vehicle has expired!</String>
         <String xml:lang="nl-NL">~r~De huur van dit voertuig is verlopen!</String>
@@ -1228,7 +1103,6 @@
         <String xml:lang="lv-LV">~r~Šī transportlīdzekļa īres termiņš ir beidzies!</String>
         <String xml:lang="tr-TR">~r~Bu aracın kira süresi doldu!</String>
     </Entry>
-
     <Entry Id="unable_to_deliver_vehicle">
         <String xml:lang="en-US">Unable to deliver your vehicle</String>
         <String xml:lang="nl-NL">Levering van je voertuig is mislukt</String>
@@ -1240,8 +1114,6 @@
         <String xml:lang="lv-LV">Nevar piegādāt jūsu transportlīdzekli</String>
         <String xml:lang="tr-TR">Aracınız teslim edilemiyor</String>
     </Entry>
-
-    <!-- Shown instead of the vehicle name if it cannot be found (fallback value) -->
     <Entry Id="vehicle_maintenance_completed_invalid_name">
         <String xml:lang="en-US">vehicle</String>
         <String xml:lang="nl-NL">voertuig</String>
@@ -1251,9 +1123,7 @@
         <String xml:lang="id-ID">Kendaraan</String>
         <String xml:lang="lv-LV">transportlīdzeklis</String>
         <String xml:lang="tr-TR">araç</String>
-        <String xml:lang="hi-Latn">vehicle</String>
     </Entry>
-
     <Entry Id="cant_store_vehicle_when_inside">
         <String xml:lang="en-US">~r~You can't store your personal vehicle while you're inside it!</String>
         <String xml:lang="nl-NL">~r~Je kan je persoonlijke voertuig niet opslaan wanneer je erin zit!</String>
@@ -1270,7 +1140,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat uzglabāt savu personīgo transportlīdzekli, kamēr atrodaties tajā!</String>
         <String xml:lang="tr-TR">~r~Kişisel aracının içindeyken aracı muhafaza edemezsiniz!</String>
     </Entry>
-
     <Entry Id="cant_store_vehicle_when_part_of_mission">
         <String xml:lang="en-US">~r~You can't store your personal vehicle when it's being used as part of a mission!</String>
         <String xml:lang="nl-NL">~r~Je kan je persoonlijke voertuig niet opslaan wanneer het wordt gebruikt als onderdeel van een missie!</String>
@@ -1280,9 +1149,7 @@
         <String xml:lang="de-DE">~r~Du kannst dein persönliches Fahrzeug nicht einlagern, wenn es als Teil einer Mission genutzt wird.</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat uzglabāt savu personīgo transportlīdzekli, kamēr tas tiek izmantots misijas ietvaros!</String>
         <String xml:lang="tr-TR">~r~Kişisel aracınız bir görevin parçası olarak kullanıldığında kişisel aracınızı muhafaza edemezsiniz!</String>
-        <String xml:lang="hi-Latn">~r~Aap apni personal vehicle ko store nahi kar sakte jab woh ek mission ka hissa hai!</String>
     </Entry>
-
     <Entry Id="cant_maintenance_vehicle_when_part_of_mission">
         <String xml:lang="en-US">~r~You can't send your personal vehicle to maintenance when it's being used as part of a mission!</String>
         <String xml:lang="nl-NL">~r~Je kan je persoonlijke voertuig niet naar onderhoud sturen wanneer het wordt gebruikt als onderdeel van een missie!</String>
@@ -1292,9 +1159,7 @@
         <String xml:lang="de-DE">~r~Du kannst dein persönliches Fahrzeug nicht zur Wartung schicken, wenn es als Teil einer Mission genutzt wird!</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat nosūtīt savu personīgo transportlīdzekli servisā, kamēr tas tiek izmantots misijas ietvaros!</String>
         <String xml:lang="tr-TR">~r~Kişisel aracınız görevin bir parçası olarak kullanılırken kişisel aracınızı bakıma gönderemezsiniz!</String>
-        <String xml:lang="hi-Latn">~r~Aap apni personal vehicle ko maintenance ke liye nahi bhej sakte jab woh ek mission ka hissa hai!</String>
     </Entry>
-
     <Entry Id="cant_summon_vehicle_when_part_of_mission">
         <String xml:lang="en-US">~r~You can't get a vehicle delivered when your current one is being used as part of a mission!</String>
         <String xml:lang="nl-NL">~r~Je kan geen voertuig laten bezorgen wanneer je huidige voertuig wordt gebruikt als onderdeel van een missie!</String>
@@ -1304,9 +1169,7 @@
         <String xml:lang="de-DE">~r~ Du kannst kein Fahrzeug geliefert bekommen, wenn dein aktuelles Fahrzeug als Teil einer Mission benutzt wird!</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat pasūtīt transportlīdzekļa piegādi kamēr jūsu pašreizējais tiek izmantots misijas ietvaros!</String>
         <String xml:lang="tr-TR">~r~Mevcut aracınız görevin bir parçası olarak kullanılırken aracınızı teslim alamazsınız!</String>
-        <String xml:lang="hi-Latn">~r~Aap ek vehicle deliver nahi karwa sakte jab aapka current vehicle ek mission ka hissa hai!</String>
     </Entry>
-
     <Entry Id="changed_jobs_delivery_canceled">
         <String xml:lang="en-US">You have changed your ~b~job~s~. Your vehicle delivery has been ~r~canceled~s~.</String>
         <String xml:lang="nl-NL">Je hebt je ~b~baan~s~ veranderd. Je voertuig levering is ~r~geannuleerd~s~.</String>
@@ -1323,7 +1186,6 @@
         <String xml:lang="lv-LV">Jūs mainījat savu ~b~darbu~s~. Jūsu transportlīdzekļa piegāde tika ~r~atcelta~s~.</String>
         <String xml:lang="tr-TR">~b~Mesleğini ~s~değiştirdin. Araç teslimatınız ~r~iptal edildi~s~.</String>
     </Entry>
-
     <Entry Id="area_left_delivery_canceled">
         <String xml:lang="en-US">You ~r~left the area~s~. Your vehicle delivery has been ~r~canceled~s~.</String>
         <String xml:lang="nl-NL">Je ~r~hebt het gebied verlaten~s~. Je voertuig levering is ~r~geannuleerd~s~.</String>
@@ -1340,7 +1202,6 @@
         <String xml:lang="lv-LV">Jūs ~r~atstājat zonu~s~. Jūsu transportlīdzekļa piegāde tika ~r~atcelta~s~.</String>
         <String xml:lang="tr-TR">~r~Bölgeyi terk ettin~s~. Araç teslimatınız ~r~iptal edildi~s~.</String>
     </Entry>
-
     <Entry Id="valet_killed_delivery_canceled">
         <String xml:lang="en-US">Your valet has been ~r~killed~s~. Your vehicle delivery has been ~r~canceled~s~.</String>
         <String xml:lang="nl-NL">Je bezorger is ~r~vermoord~s~. Je voertuig levering is ~r~geannuleerd~s~.</String>
@@ -1357,7 +1218,6 @@
         <String xml:lang="lv-LV">Jūsu sulainis tika ~r~nogalināts~s~. Jūsu transportlīdzekļa piegāde tika ~r~atcelta~s~.</String>
         <String xml:lang="tr-TR">Valeniz ~r~öldürüldü~s~. Araç teslimatınız ~r~iptal edildi~s~.</String>
     </Entry>
-
     <Entry Id="too_far_from_road_delivery_canceled">
         <String xml:lang="en-US">~r~You're too far from any road. Your vehicle delivery has been canceled.</String>
         <String xml:lang="nl-NL">~r~Je bent te ver weg van de wegen. Je voertuig levering is geannuleerd.</String>
@@ -1374,8 +1234,6 @@
         <String xml:lang="lv-LV">~r~Jūs esat pārāk tālu no jebkura ceļa. Jūsu transportlīdzekļa piegāde tika atcelta.</String>
         <String xml:lang="tr-TR">~r~Yoldan çok uzaktasın. Araç teslimatın iptal edildi.</String>
     </Entry>
-
-    <!-- {0} = Attempts/MaxAttempts -->
     <Entry Id="unable_to_download_vehicle_model">
         <String xml:lang="en-US">Unable to download the ~y~vehicle model~s~. Retrying ({0})...</String>
         <String xml:lang="nl-NL">Kan het ~y~voertuig model~s~ niet downloaden. Opnieuw proberen ({0})...</String>
@@ -1392,7 +1250,6 @@
         <String xml:lang="lv-LV">Nesanāca lejupielādēt ~y~transportlīdzekļa modeli~s~. Mēģina vēlreiz ({0})...</String>
         <String xml:lang="tr-TR">~y~Araç modeli~s~ indirilemiyor. Yeniden deneniyor ({0})...</String>
     </Entry>
-
     <Entry Id="unable_to_download_vehicle_model_5c_3">
         <String xml:lang="en-US">~r~Unable to load the vehicle model (0x5C-3). Please, try again later later.</String>
         <String xml:lang="nl-NL">~r~Kan het voertuig model niet downloaden (0x5C-3). Probeer het later nog eens.</String>
@@ -1409,7 +1266,6 @@
         <String xml:lang="lv-LV">~r~Nesanāca lejupielādēt transportlīdzekļa modeli (0x5C-3). Lūdzu, mēģiniet vēlreiz vēlāk.</String>
         <String xml:lang="tr-TR">~r~Araç modeli yüklenemiyor (0x5C-3). Lütfen, daha sonra tekrar deneyin.</String>
     </Entry>
-
     <Entry Id="unable_to_download_vehicle_model_5c_4">
         <String xml:lang="en-US">~r~Unable to obtain vehicle network id (0x5C-4). Please, try again later later.</String>
         <String xml:lang="nl-NL">~r~Kan het voertuig netwerk id niet verkrijgen (0x5C-4). Probeer het later nog eens.</String>
@@ -1426,7 +1282,6 @@
         <String xml:lang="lv-LV">~r~Nesanāca iegūt transportlīdzekļa network id (0x5C-4). Lūdzu, mēģiniet vēlreiz vēlāk.</String>
         <String xml:lang="tr-TR">~r~Araç ağ kimliği alınamıyor (0x5C-4). Lütfen, daha sonra tekrar deneyin.</String>
     </Entry>
-
     <Entry Id="cant_use_wardrobe_not_gtao_character">
         <String xml:lang="en-US">~r~You can't use the wardrobe when you're not the GTA:O character.</String>
         <String xml:lang="nl-NL">~r~Je kan de garderobe niet gebruiken wanneer je niet de GTA:O karakter bent.</String>
@@ -1443,7 +1298,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat lietot garderobi kamēr jūs neesat GTA:O personība.</String>
         <String xml:lang="tr-TR">~r~GTA:O karakteri değilken gardırobunuzu kullanamazsınız.</String>
     </Entry>
-
     <Entry Id="ptt_spam_time_out_radio">
         <String xml:lang="en-US">~r~Spamming ~s~the PTT key will cause you to be ~r~timed out ~s~from the ~b~radio~s~.</String>
         <String xml:lang="nl-NL">~r~Spammen ~s~van de PTT-toets zal ervoor zorgen dat je een ~r~time-out krijgt ~s~van de ~b~radio~s~.</String>
@@ -1460,11 +1314,10 @@
         <String xml:lang="lv-LV">~s~Radio pogas ~r~spamošana ~s~izraisīs jūsu laicīgo ~r~bloķēšanu ~s~no ~b~radio~s~.</String>
         <String xml:lang="tr-TR">~s~PTT tuşunu ~r~spamlamak ~b~radyodan ~r~zaman aşımına ~s~uğramanıza sebep olur.</String>
     </Entry>
-
     <Entry Id="radio_cooldown">
         <String xml:lang="en-US">You must wait ~r~{0} seconds ~s~before turning your radio on again.</String>
-        <String xml:lang="nl-NL">Je moet ~r~{0} seconden ~s~wachten voordat je je radio weer aan kan doen.</String>
         <String xml:lang="fr-FR">Tu dois attendre ~r~{0} secondes ~s~avant de rallumer ta radio.</String>
+        <String xml:lang="nl-NL">Je moet ~r~{0} seconden ~s~wachten voordat je je radio weer aan kan doen.</String>
         <String xml:lang="it-IT">Devi aspettare ~r~{0} secondi ~s~prima di riaccendere la tua radio.</String>
         <String xml:lang="pl-PL">Musisz poczekać ~r~{0} sekund ~s~przed ponownym włączeniem radia.</String>
         <String xml:lang="es-ES">Usted debe esperar ~r~{0} segundos ~s~antes de encender su radio de nuevo.</String>
@@ -1477,8 +1330,6 @@
         <String xml:lang="lv-LV">Jums ir jāpagaida ~r~{0} sekundes ~s~pirms radio atkartējās ieslēgšanas.</String>
         <String xml:lang="tr-TR">Radyonuzu tekrar açmadan önce ~r~{0} saniye ~s~beklemelisiniz.</String>
     </Entry>
-
-    <!-- {0} = Item name -->
     <Entry Id="overdosed_need_medic">
         <String xml:lang="en-US">You ~r~overdosed ~s~{0} and you need ~p~medical attention~s~.</String>
         <String xml:lang="nl-NL">Je hebt een ~r~overdosis ~s~{0} genomen en je hebt ~p~medische hulp~s~ nodig.</String>
@@ -1495,7 +1346,6 @@
         <String xml:lang="lv-LV">Jūs ~r~pārdozējāties ~s~{0} un jums ir vajadzīga ~p~medicīniskā palīdzība~s~.</String>
         <String xml:lang="tr-TR">~r~Aşırı dozda ~s~{0} aldın ve ~p~tıbbi yardıma ~s~ihtiyacın var.</String>
     </Entry>
-
     <Entry Id="wanted_by_police">
         <String xml:lang="en-US">~r~You are wanted by the police. Come back when you're clean!</String>
         <String xml:lang="nl-NL">~r~Je wordt gezocht door de politie. Kom terug wanneer je niet meer gezocht word!</String>
@@ -1512,10 +1362,6 @@
         <String xml:lang="lv-LV">~r~Jūs meklē policija. Atgriezieties kad neesat noziedznieks!</String>
         <String xml:lang="tr-TR">~r~Polis tarafından aranıyorsun. Polis tarafından aranman bitince gel!</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Emotes -->
-    <!-- ========================= -->
     <Entry Id="menu_emotes_title">
         <String xml:lang="en-US">Emotes</String>
         <String xml:lang="nl-NL">Emoties</String>
@@ -1532,7 +1378,6 @@
         <String xml:lang="lv-LV">Emocijas</String>
         <String xml:lang="tr-TR">Emojiler</String>
     </Entry>
-
     <Entry Id="menu_emotes_subtitle">
         <String xml:lang="en-US">Play animations.</String>
         <String xml:lang="nl-NL">Speel animaties.</String>
@@ -1549,10 +1394,6 @@
         <String xml:lang="lv-LV">Spēlēt animācijas.</String>
         <String xml:lang="tr-TR">Animasyonları oynat.</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Help menu -->
-    <!-- ========================= -->
     <Entry Id="menu_help_title">
         <String xml:lang="en-US">Help Center</String>
         <String xml:lang="nl-NL">Hulpcentrum</String>
@@ -1569,7 +1410,6 @@
         <String xml:lang="lv-LV">Palīdzības Centrs</String>
         <String xml:lang="tr-TR">Yardım merkezi</String>
     </Entry>
-
     <Entry Id="menu_help_subtitle">
         <String xml:lang="en-US">CnR V Help Center</String>
         <String xml:lang="nl-NL">CnR V Hulpcentrum</String>
@@ -1586,10 +1426,6 @@
         <String xml:lang="lv-LV">CnR V Palīdzības Centrs</String>
         <String xml:lang="tr-TR">CnR V Yardım merkezi</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Report -->
-    <!-- ========================= -->
     <Entry Id="menu_report_title">
         <String xml:lang="en-US">Report</String>
         <String xml:lang="nl-NL">Rapporteren</String>
@@ -1606,7 +1442,6 @@
         <String xml:lang="lv-LV">Ziņot</String>
         <String xml:lang="tr-TR">Rapor</String>
     </Entry>
-
     <Entry Id="menu_report_subtitle">
         <String xml:lang="en-US">Reporting player</String>
         <String xml:lang="nl-NL">Speler rapporteren</String>
@@ -1623,7 +1458,6 @@
         <String xml:lang="lv-LV">Ziņot par spēlētāju</String>
         <String xml:lang="tr-TR">Oyuncuyu raporlamak</String>
     </Entry>
-
     <Entry Id="menu_reports_title">
         <String xml:lang="en-US">Reports</String>
         <String xml:lang="nl-NL">Rapporten</String>
@@ -1640,7 +1474,6 @@
         <String xml:lang="lv-LV">Ziņojumi</String>
         <String xml:lang="tr-TR">Raporlar</String>
     </Entry>
-
     <Entry Id="menu_reports_subtitle">
         <String xml:lang="en-US">View the status of your reports</String>
         <String xml:lang="nl-NL">Bekijk de status van je rapporten</String>
@@ -1657,7 +1490,6 @@
         <String xml:lang="lv-LV">Pārskatiet savu ziņojumu statusu</String>
         <String xml:lang="tr-TR">Raporlarının durumuna bak</String>
     </Entry>
-
     <Entry Id="menu_report_reporting_subtitle">
         <String xml:lang="en-US">Reporting ~r~{0}</String>
         <String xml:lang="nl-NL">Aangifte ~r~{0}</String>
@@ -1667,9 +1499,7 @@
         <String xml:lang="id-ID">Melaporkan ~r~{0}</String>
         <String xml:lang="lv-LV">Ziņot par ~r~{0}</String>
         <String xml:lang="tr-TR">Rapor ediliyor ~r~{0}</String>
-        <String xml:lang="hi-Latn">~r~{0} ko report kar rahe ho</String>
     </Entry>
-
     <Entry Id="menu_reports_info_description">
         <String xml:lang="en-US">~b~Date and time: ~s~{0}\n~b~Reason: ~s~{1} ~s~- ~b~Details: ~s~{2}</String>
         <String xml:lang="nl-NL">~b~Datum en tijd: ~s~{0}\n~b~Reden: ~s~{1} ~s~- ~b~Details: ~s~{2}</String>
@@ -1679,21 +1509,17 @@
         <String xml:lang="id-ID">~b~Tanggal dan waktu: ~s~{0}\n~b~Alasan: ~s~{1} ~s~- ~b~Detail: ~s~{2}</String>
         <String xml:lang="lv-LV">~b~Datums un laiks: ~s~{0}\nIemesls: ~s~{1} ~s~- ~b~Detaļas: ~s~{2}</String>
         <String xml:lang="tr-TR">~b~Tarih ve zaman: ~s~{0}\n~b~Nedeni: ~s~{1} ~s~- ~b~Detaylar: ~s~{2}</String>
-        <String xml:lang="hi-Latn">~b~Date aur time: ~s~{0}\n~b~Reason: ~s~{1} ~s~- ~b~Details bhare: ~s~{2}</String>
     </Entry>
-
     <Entry Id="menu_reports_info_response">
         <String xml:lang="en-US">~b~Response by {0}: ~s~{1}</String>
+        <String xml:lang="id-ID">~b~Tanggapan oleh {0}: ~s~{1}</String>
+        <String xml:lang="lv-LV">~b~Atbilde no {0}: ~s~{1}</String>
         <String xml:lang="nl-NL">~b~Reactie van {0}: ~s~{1}</String>
         <String xml:lang="de-DE">~b~Antwort von {0}: ~s~{1}</String>
         <String xml:lang="it-IT">~b~Risposto da {0}: ~s~{1}</String>
         <String xml:lang="fr-FR">~b~Réponse de {0}: ~s~{1}</String>
-        <String xml:lang="id-ID">~b~Tanggapan oleh {0}: ~s~{1}</String>
-        <String xml:lang="lv-LV">~b~Atbilde no {0}: ~s~{1}</String>
         <String xml:lang="tr-TR">~b~Şu kişi tarafından yanıt {0}: ~s~{1}</String>
-        <String xml:lang="hi-Latn">~b~Response by {0}: ~s~{1}</String>
     </Entry>
-
     <Entry Id="menu_reports_info_assigned">
         <String xml:lang="en-US">~b~Assigned to: ~s~{0}</String>
         <String xml:lang="nl-NL">~b~Toegewezen aan: ~s~{0}</String>
@@ -1703,9 +1529,7 @@
         <String xml:lang="id-ID">~b~Ditugaskan kepada: ~s~{0}</String>
         <String xml:lang="lv-LV">~b~Nodots: ~s~{0}</String>
         <String xml:lang="tr-TR">~b~Şu kişiye atandı: ~s~{0}</String>
-        <String xml:lang="hi-Latn">~b~Assigned to: ~s~{0}</String>
     </Entry>
-
     <Entry Id="menu_reports_info_subtitle">
         <String xml:lang="en-US">{0} reports in the past month</String>
         <String xml:lang="nl-NL">{0} aangiftes in de afgelopen maand</String>
@@ -1715,9 +1539,7 @@
         <String xml:lang="id-ID">{0} Laporan dalam sebbulan terakhir</String>
         <String xml:lang="lv-LV">{0} ziņojumi iepriekšējā mēnesī</String>
         <String xml:lang="tr-TR">geçmiş aylardaki {0} rapor</String>
-        <String xml:lang="hi-Latn">Pichle mahine mein {0} reports</String>
     </Entry>
-
     <Entry Id="menu_reports_info_no_recent_text">
         <String xml:lang="en-US">No recent reports :(</String>
         <String xml:lang="nl-NL">Geen recente aangiftes :(</String>
@@ -1727,9 +1549,7 @@
         <String xml:lang="id-ID">Tidak ada laporan terbaru :(</String>
         <String xml:lang="lv-LV">Nav neseno ziņojumu :(</String>
         <String xml:lang="tr-TR">Yeni rapor yok :(</String>
-        <String xml:lang="hi-Latn">Koi recent reports nahi hai :(</String>
     </Entry>
-
     <Entry Id="menu_reports_info_no_recent_description">
         <String xml:lang="en-US">You didn't send any report recently.</String>
         <String xml:lang="nl-NL">Je hebt de afgelopen tijd geen aangiftes gedaan.</String>
@@ -1739,12 +1559,7 @@
         <String xml:lang="id-ID">Kamu tidak mengirimkan laporan apapun baru-baru ini.</String>
         <String xml:lang="lv-LV">Jūs neiesniedzat nevienu ziņojumu pēdejā laikā.</String>
         <String xml:lang="tr-TR">Yakın zamanda herhangi bir rapor göndermedin.</String>
-        <String xml:lang="hi-Latn">Aapne abhi tak koi report nahi bheji hai.</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Options menu -->
-    <!-- ========================= -->
     <Entry Id="menu_options_title">
         <String xml:lang="en-US">Options</String>
         <String xml:lang="nl-NL">Opties</String>
@@ -1761,7 +1576,6 @@
         <String xml:lang="lv-LV">Iestatījumi</String>
         <String xml:lang="tr-TR">Seçenekler</String>
     </Entry>
-
     <Entry Id="menu_options_subtitle">
         <String xml:lang="en-US">Customize your CnR experience</String>
         <String xml:lang="nl-NL">Pas je CnR ervaring aan</String>
@@ -1778,7 +1592,6 @@
         <String xml:lang="lv-LV">Pielāgojiet savu CnR pieredzi</String>
         <String xml:lang="tr-TR">CnR deneyiminizi kişiselleştirin</String>
     </Entry>
-
     <Entry Id="menu_options_account_title">
         <String xml:lang="en-US">Account</String>
         <String xml:lang="nl-NL">Account</String>
@@ -1795,7 +1608,6 @@
         <String xml:lang="lv-LV">Konts</String>
         <String xml:lang="tr-TR">Hesap</String>
     </Entry>
-
     <Entry Id="menu_options_account_subhistory_subtitle">
         <String xml:lang="en-US">Subscription History</String>
         <String xml:lang="nl-NL">Abonnement Geschiedenis</String>
@@ -1812,7 +1624,6 @@
         <String xml:lang="lv-LV">Abonementu Vēsture</String>
         <String xml:lang="tr-TR">Abonelik Geçmişi</String>
     </Entry>
-
     <Entry Id="menu_options_account_purchases_subtitle">
         <String xml:lang="en-US">Purchases</String>
         <String xml:lang="nl-NL">Aankopen</String>
@@ -1829,7 +1640,6 @@
         <String xml:lang="lv-LV">Pirkumi</String>
         <String xml:lang="tr-TR">Satın alımlar</String>
     </Entry>
-
     <Entry Id="menu_options_account_linkedservices_subtitle">
         <String xml:lang="en-US">Linked Services</String>
         <String xml:lang="nl-NL">Gelinkte Diensten</String>
@@ -1846,7 +1656,6 @@
         <String xml:lang="lv-LV">Pieslēgti Servisi</String>
         <String xml:lang="tr-TR">Bağlantılı Hizmetler</String>
     </Entry>
-
     <Entry Id="menu_options_display_title">
         <String xml:lang="en-US">Display</String>
         <String xml:lang="nl-NL">Weergave</String>
@@ -1863,7 +1672,6 @@
         <String xml:lang="lv-LV">Displejs</String>
         <String xml:lang="tr-TR">Görüntü</String>
     </Entry>
-
     <Entry Id="menu_options_display_subtitle">
         <String xml:lang="en-US">Change display settings</String>
         <String xml:lang="nl-NL">Pas weergave instellinge aan</String>
@@ -1880,7 +1688,6 @@
         <String xml:lang="lv-LV">Mainiet displeja iestatījumus</String>
         <String xml:lang="tr-TR">Görüntü ayarlarını değiştir</String>
     </Entry>
-
     <Entry Id="menu_options_accessibility_title">
         <String xml:lang="en-US">Accessibility</String>
         <String xml:lang="nl-NL">Toegankelijkheid</String>
@@ -1897,7 +1704,6 @@
         <String xml:lang="lv-LV">Pieejamība</String>
         <String xml:lang="tr-TR">Erişilebilirlik</String>
     </Entry>
-
     <Entry Id="menu_options_accessibility_subtitle">
         <String xml:lang="en-US">Accessibility settings</String>
         <String xml:lang="nl-NL">Toegankelijkheid instellingen</String>
@@ -1914,7 +1720,6 @@
         <String xml:lang="lv-LV">Pieejamības iestatījumi</String>
         <String xml:lang="tr-TR">Erişilebilirlik ayarları</String>
     </Entry>
-
     <Entry Id="menu_options_hotkeys_title">
         <String xml:lang="en-US">Hotkeys</String>
         <String xml:lang="nl-NL">Sneltoetsen</String>
@@ -1931,7 +1736,6 @@
         <String xml:lang="lv-LV">Karstie taustiņi</String>
         <String xml:lang="tr-TR">Kısayol tuşları</String>
     </Entry>
-
     <Entry Id="menu_options_chotkeys_subtitle">
         <String xml:lang="en-US">Custom hotkeys</String>
         <String xml:lang="nl-NL">Eigen sneltoetsen</String>
@@ -1948,7 +1752,6 @@
         <String xml:lang="lv-LV">Pielāgoti kārstie taustiņi</String>
         <String xml:lang="tr-TR">Özel kısayol tuşları</String>
     </Entry>
-
     <Entry Id="menu_options_hotkeys_subtitle">
         <String xml:lang="en-US">Select an action type</String>
         <String xml:lang="nl-NL">Selecteer eenn actie type</String>
@@ -1965,7 +1768,6 @@
         <String xml:lang="lv-LV">Izvēlieties darbības veidu</String>
         <String xml:lang="tr-TR">Bir eylem türü seçin</String>
     </Entry>
-
     <Entry Id="menu_options_weapons_title">
         <String xml:lang="en-US">Weapons</String>
         <String xml:lang="nl-NL">Wapens</String>
@@ -1982,7 +1784,6 @@
         <String xml:lang="lv-LV">Ieroči</String>
         <String xml:lang="tr-TR">Silahlar</String>
     </Entry>
-
     <Entry Id="menu_options_weapons_subtitle">
         <String xml:lang="en-US">Select a weapon to equip</String>
         <String xml:lang="nl-NL">Selecteer een weapon om te pakken</String>
@@ -1996,10 +1797,9 @@
         <String xml:lang="th-TH">เลือกอาวุธที่จะสวมใส่</String>
         <String xml:lang="id-ID">Pilih senjata untuk digunakan</String>
         <String xml:lang="hi-Latn">Equip karne ke liye weapon select karo</String>
-        <String xml:lang="lv-LV">Izvēliēties ieroci, ko aprīkot</String>
+        <String xml:lang="lv-LV">Izvēlieties ieroci, ko aprīkot</String>
         <String xml:lang="tr-TR">Kuşanmak için bir silah seçin</String>
     </Entry>
-
     <Entry Id="menu_options_items_title">
         <String xml:lang="en-US">Items</String>
         <String xml:lang="nl-NL">Voorwerpen</String>
@@ -2016,7 +1816,6 @@
         <String xml:lang="lv-LV">Priekšmeti</String>
         <String xml:lang="tr-TR">Eşyalar</String>
     </Entry>
-
     <Entry Id="menu_options_items_subtitle">
         <String xml:lang="en-US">Select an item to use</String>
         <String xml:lang="nl-NL">Selecteer een voorwerp om te gebruiken</String>
@@ -2030,10 +1829,9 @@
         <String xml:lang="th-TH">เลือกสิ่งของที่จะใช้</String>
         <String xml:lang="id-ID">Pilih barang untuk digunakan</String>
         <String xml:lang="hi-Latn">Use karne ke liye item select karo</String>
-        <String xml:lang="lv-LV">Izvēliēties priekšmetu, ko izmantot</String>
+        <String xml:lang="lv-LV">Izvēlieties priekšmetu, ko izmantot</String>
         <String xml:lang="tr-TR">Kullanılacak bir eşya seçin</String>
     </Entry>
-
     <Entry Id="menu_options_misc_title">
         <String xml:lang="en-US">Miscellaneous</String>
         <String xml:lang="nl-NL">Overige</String>
@@ -2050,7 +1848,6 @@
         <String xml:lang="lv-LV">Dažāds</String>
         <String xml:lang="tr-TR">Diğer</String>
     </Entry>
-
     <Entry Id="menu_options_misc_subtitle">
         <String xml:lang="en-US">Other settings</String>
         <String xml:lang="nl-NL">Overige instellingen</String>
@@ -2067,7 +1864,6 @@
         <String xml:lang="lv-LV">Citi iestatījumi</String>
         <String xml:lang="tr-TR">Diğer ayarlar</String>
     </Entry>
-
     <Entry Id="menu_options_experimental_title">
         <String xml:lang="en-US">Experimental</String>
         <String xml:lang="nl-NL">Experimenteel</String>
@@ -2084,7 +1880,6 @@
         <String xml:lang="lv-LV">Eksperimentāls</String>
         <String xml:lang="tr-TR">Deney</String>
     </Entry>
-
     <Entry Id="menu_options_experimental_subtitle">
         <String xml:lang="en-US">Experimental settings</String>
         <String xml:lang="nl-NL">Experimentele instellingen</String>
@@ -2101,10 +1896,6 @@
         <String xml:lang="lv-LV">Eksperimentāli iestatījumi</String>
         <String xml:lang="tr-TR">Deneysel ayarlar</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Player menu -->
-    <!-- ========================= -->
     <Entry Id="menu_playermenu_title">
         <String xml:lang="en-US">Player Menu</String>
         <String xml:lang="nl-NL">Speler Menu</String>
@@ -2121,7 +1912,6 @@
         <String xml:lang="lv-LV">Spēlētāja Izvēlne</String>
         <String xml:lang="tr-TR">Oyuncu menüsü</String>
     </Entry>
-
     <Entry Id="menu_playermenu_subtitle">
         <String xml:lang="en-US">Interact with {0}</String>
         <String xml:lang="nl-NL">Interacties met {0}</String>
@@ -2133,7 +1923,6 @@
         <String xml:lang="lv-LV">Mijiedarboties ar {0}</String>
         <String xml:lang="tr-TR">{0} ile etkileşime geç</String>
     </Entry>
-
     <Entry Id="menu_playermenu_bribe_not_wanted">
         <String xml:lang="en-US">~r~You are not wanted by the police.</String>
         <String xml:lang="nl-NL">~r~Je word niet gezocht door de politie.</String>
@@ -2145,7 +1934,6 @@
         <String xml:lang="lv-LV">~r~Jūs nemeklē policija.</String>
         <String xml:lang="tr-TR">~r~Polis tarafından aranmıyorsun.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_bribe_most_wanted">
         <String xml:lang="en-US">~r~You cannot bribe the police when you are most wanted.</String>
         <String xml:lang="nl-NL">~r~Je kan de politie niet omkopen als je de meest gezochte verdachte bent.</String>
@@ -2157,7 +1945,6 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat iedot kukuli kad jūs esat Most Wanted.</String>
         <String xml:lang="tr-TR">~r~En çok aranan iken polise rüşvet veremezsin.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_bribe_text">
         <String xml:lang="en-US">~o~Bribe</String>
         <String xml:lang="nl-NL">~o~Omkopen</String>
@@ -2169,7 +1956,6 @@
         <String xml:lang="lv-LV">~o~Kukulis</String>
         <String xml:lang="tr-TR">~o~Rüşvet</String>
     </Entry>
-
     <Entry Id="menu_playermenu_bribe_description">
         <String xml:lang="en-US">Offer this ~b~officer ~s~a ~o~bribe ~s~and lose your wanted level.</String>
         <String xml:lang="nl-NL">Bied deze ~b~agent ~s~een ~o~omkoping ~s~aan en verlies je wanted level.</String>
@@ -2181,7 +1967,6 @@
         <String xml:lang="lv-LV">Piedāvājiet šim ~b~policistam ~o~kukuli ~s~un zaudējiet savu wanted līmeni.</String>
         <String xml:lang="tr-TR">Bu ~b~polis memuruna ~o~rüşvet ~s~teklif edin ve aranma seviyenizi kaybedin.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_uncuff">
         <String xml:lang="en-US">~o~Uncuff</String>
         <String xml:lang="nl-NL">~o~Ontboeien</String>
@@ -2193,7 +1978,6 @@
         <String xml:lang="lv-LV">~o~Atbrīvot</String>
         <String xml:lang="tr-TR">~o~Kelepçeyi çöz</String>
     </Entry>
-
     <Entry Id="menu_playermenu_uncuff_description">
         <String xml:lang="en-US">Free this cuffed player using a ~y~lockpick~s~.</String>
         <String xml:lang="nl-NL">Bevrijd deze geboeide speler met een ~y~slothaak~s~.</String>
@@ -2205,23 +1989,50 @@
         <String xml:lang="lv-LV">Atbrīvojiet šo spēlētāju izmantojot ~y~rokuldzelžu uzlaušanas rīku~s~.</String>
         <String xml:lang="tr-TR">Bu kelepçeli oyuncuyu ~y~maymuncuk ~s~kullanarak serbest bırak.</String>
     </Entry>
-
+    <Entry Id="menu_playermenu_offer_drugs">
+        <String xml:lang="en-US">Offer ~r~drugs~s~</String>
+        <String xml:lang="nl-NL">Bied ~r~drugs~s~ aan</String>
+        <String xml:lang="hi-Latn">Offer kare ~r~drugs~s~</String>
+        <String xml:lang="fr-FR">Proposer des ~r~drogues~s~</String>
+        <String xml:lang="de-DE">Biete ~r~Drogen~s~ an</String>
+        <String xml:lang="it-IT">Offri ~r~droghe~s~</String>
+        <String xml:lang="id-ID">Tawarkan ~r~narkoba~s~</String>
+        <String xml:lang="lv-LV">Piedāvājiet ~r~narkotikas~s~</String>
+        <String xml:lang="tr-TR">~r~uyuşturucu ~s~teklif etmek</String>
+    </Entry>
+    <Entry Id="menu_playermenu_offer_drugs_description">
+        <String xml:lang="en-US">Offer ~r~drugs~s~ to this player.</String>
+        <String xml:lang="nl-NL">Verkoop ~r~drugs~s~ aan deze speler.</String>
+        <String xml:lang="hi-Latn">Offer kare ~r~drugs~s~ iss player ko.</String>
+        <String xml:lang="fr-FR">Proposer des ~r~drogues~s~ à ce joueur.</String>
+        <String xml:lang="de-DE">Biete diesem Spieler ~r~Drogen~s~ an.</String>
+        <String xml:lang="it-IT">Offri ~r~droghe~s~ a questo giocatore.</String>
+        <String xml:lang="id-ID">Tawarkan ~r~narkoba~s~ kepada pemain ini.</String>
+        <String xml:lang="lv-LV">Piedāvājiet ~r~narkotikas~s~ šim spēlētājam.</String>
+        <String xml:lang="tr-TR">Bu oyuncuya ~r~uyuşturucu~s~ teklif et.</String>
+    </Entry>
     <Entry Id="menu_playermenu_offer_services">
-        <String xml:lang="en-US">Offer</String>
+        <String xml:lang="en-US">Offer ~y~services~s~</String>
+        <String xml:lang="nl-NL">Bied ~y~diensten~s~ aan</String>
+        <String xml:lang="hi-Latn">Offer kare ~y~services~s~</String>
+        <String xml:lang="fr-FR">Proposer des ~y~services~s~</String>
+        <String xml:lang="de-DE">Biete ~y~Leistungen~s~ an</String>
+        <String xml:lang="it-IT">Offri ~y~servizi~s~</String>
+        <String xml:lang="id-ID">Tawarkan ~y~layanan~s~</String>
+        <String xml:lang="lv-LV">Piedāvājiet ~y~pakalpojumus~s~</String>
+        <String xml:lang="tr-TR">~y~hizmetler~s~ini sun</String>
     </Entry>
-
     <Entry Id="menu_playermenu_offer_services_description">
-        <String xml:lang="en-US">Offer your ~y~items ~s~and ~y~services ~s~to this player.</String>
+        <String xml:lang="en-US">Offer ~y~services~s~ to this player.</String>
+        <String xml:lang="nl-NL">Bied ~y~diensten~s~ aan deze speler.</String>
+        <String xml:lang="hi-Latn">Offer kare ~y~services~s~ iss player ko.</String>
+        <String xml:lang="fr-FR">Proposer des ~y~services~s~ à ce joueur.</String>
+        <String xml:lang="de-DE">Biete diesem Spieler ~y~Leistungen~s~ an.</String>
+        <String xml:lang="it-IT">Offri ~y~servizi~s~ a questo giocatore.</String>
+        <String xml:lang="id-ID">Tawarkan ~y~layanan~s~ kepada pemain ini.</String>
+        <String xml:lang="lv-LV">Piedāvājiet ~y~pakalpojumus~s~ šim spēlētājam.</String>
+        <String xml:lang="tr-TR">Bu oyuncuya ~y~hizmetler~s~ini sun.</String>
     </Entry>
-
-    <Entry Id="menu_playermenu_browse_services">
-        <String xml:lang="en-US">Browse</String>
-    </Entry>
-
-    <Entry Id="menu_playermenu_browse_services_description">
-        <String xml:lang="en-US">Browse the ~y~items ~s~and ~y~services ~s~that this player is selling.</String>
-    </Entry>
-
     <Entry Id="menu_playermenu_arrest">
         <String xml:lang="en-US">~b~Arrest menu</String>
         <String xml:lang="nl-NL">~b~Arrestanten menu</String>
@@ -2233,7 +2044,6 @@
         <String xml:lang="lv-LV">~b~Arestēšanas izvēlne</String>
         <String xml:lang="tr-TR">~b~Tutuklama menüsü</String>
     </Entry>
-
     <Entry Id="menu_playermenu_custody">
         <String xml:lang="en-US">~b~Hold in custody</String>
         <String xml:lang="nl-NL">~b~Houd staande</String>
@@ -2245,7 +2055,6 @@
         <String xml:lang="lv-LV">~b~Turēt apcietinājuma</String>
         <String xml:lang="tr-TR">~b~Gözaltında tut</String>
     </Entry>
-
     <Entry Id="menu_playermenu_cuff">
         <String xml:lang="en-US">~b~Cuff</String>
         <String xml:lang="nl-NL">~b~Vastboeien</String>
@@ -2257,7 +2066,6 @@
         <String xml:lang="lv-LV">~b~Apcietināt</String>
         <String xml:lang="tr-TR">~b~Kelepçele</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_ticket">
         <String xml:lang="en-US">~b~Give ticket</String>
         <String xml:lang="nl-NL">~b~Geef bekeuring</String>
@@ -2267,9 +2075,7 @@
         <String xml:lang="de-DE">~b~Strafzettel ausstellen</String>
         <String xml:lang="lv-LV">~b~Iedot sodu</String>
         <String xml:lang="tr-TR">~b~Ceza yaz</String>
-        <String xml:lang="hi-Latn">~b~Ticket do</String>
     </Entry>
-
     <Entry Id="menu_playermenu_break_window">
         <String xml:lang="en-US">~b~Break window</String>
         <String xml:lang="nl-NL">~b~Raam inslaan</String>
@@ -2281,7 +2087,6 @@
         <String xml:lang="lv-LV">~b~Izsist logu</String>
         <String xml:lang="tr-TR">~b~Camı kır</String>
     </Entry>
-
     <Entry Id="menu_playermenu_break_window_no_item">
         <String xml:lang="en-US">You need a ~y~{0}~s~ to break a ~o~suspect~s~'s window.</String>
         <String xml:lang="nl-NL">Je hebt een ~y~{0}~s~ nodig om een raam van een ~o~verdachte~s~ in te slaan.</String>
@@ -2293,7 +2098,6 @@
         <String xml:lang="lv-LV">Jums ir nepieciešams ~y~{0}~s~ lai izsistu ~o~noziedznieka~s~ logu.</String>
         <String xml:lang="tr-TR">~o~Şüpheli~s~nin camını kırmak için ~y~{0} ~s~ihtiyacın var</String>
     </Entry>
-
     <Entry Id="menu_playermenu_suggest_bribe">
         <String xml:lang="en-US">~o~Suggest bribe</String>
         <String xml:lang="nl-NL">~o~Bied omkoping aan</String>
@@ -2305,7 +2109,6 @@
         <String xml:lang="lv-LV">~o~Piedāvāt kukuli</String>
         <String xml:lang="tr-TR">~o~Rüşvet öner</String>
     </Entry>
-
     <Entry Id="menu_playermenu_suggest_bribe_description">
         <String xml:lang="en-US">Ask the ~o~suspect~s~ to pay you.</String>
         <String xml:lang="nl-NL">Vraag de ~o~verdachte~s~ om je te om te kopen.</String>
@@ -2317,7 +2120,6 @@
         <String xml:lang="lv-LV">Pieprasiet ~o~noziedzniekam~s~ iedot jums kukuli.</String>
         <String xml:lang="tr-TR">~o~Şüpheli~s~den ödeme yapmasını isteyin.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_suggest_bribe_most_wanted">
         <String xml:lang="en-US">~r~Most wanted suspects cannot bribe the police.</String>
         <String xml:lang="nl-NL">~r~De meest gezochte verdachten kunnen de politie niet omkopen.</String>
@@ -2329,7 +2131,6 @@
         <String xml:lang="lv-LV">~r~Most Wanted noziedznieki nevar dot kukuļus policijai.</String>
         <String xml:lang="tr-TR">~r~En çok aranan şüpheliler polise rüşvet veremez.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_antidote">
         <String xml:lang="en-US">~p~Give antidote</String>
         <String xml:lang="nl-NL">~p~Geef tegengif</String>
@@ -2341,7 +2142,6 @@
         <String xml:lang="lv-LV">~p~Iedot pretindi</String>
         <String xml:lang="tr-TR">~p~Panzehir ver</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_antidote_description">
         <String xml:lang="en-US">This player is on a ~r~drug overdose~s~. Select this option to give them the ~p~antidote~s~.</String>
         <String xml:lang="nl-NL">Deze speler heeft een ~r~drug overdosis~s~. Selecteer deze optie om hem ~p~tegengif~s~ te geven.</String>
@@ -2353,7 +2153,6 @@
         <String xml:lang="lv-LV">Šīs spēlētājs ir ~r~pārdozējies~s~. Izvēlieties šo opciju lai iedotu viņiem ~p~pretindi~s~.</String>
         <String xml:lang="tr-TR">Bu oyuncu ~r~aşırı dozda uyuşturucu ~s~kullandı. Ona ~p~panzehir ~s~vermek için bu seçeneği seçin.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_antidote_no_item">
         <String xml:lang="en-US">You need ~y~{0}~s~ to reverse someone's ~r~overdose~s~.</String>
         <String xml:lang="nl-NL">Je hebt ~y~{0}~s~ nodig om iemand zijn ~r~overdosis~s~ te stoppen.</String>
@@ -2365,7 +2164,6 @@
         <String xml:lang="lv-LV">Jums ir vajadzīgs ~y~{0}~s~ lai apgrieztu kāda ~r~pārdozēšanos~s~.</String>
         <String xml:lang="tr-TR">Birinin ~r~aşırı doz~s~unu tersine çevirmek için ~y~{0}~s~'a ihtiyacınız var.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_cash">
         <String xml:lang="en-US">Give cash</String>
         <String xml:lang="nl-NL">Geef contant geld</String>
@@ -2377,7 +2175,6 @@
         <String xml:lang="lv-LV">Iedot naudu</String>
         <String xml:lang="tr-TR">Para ver</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_cash_description">
         <String xml:lang="en-US">Give (C){0}(/C) cash from your wallet.~n~~y~Warning:~s~ trade ~r~at your own risk~s~, we don't guarantee that you will receive anything in exchange for this transaction.</String>
         <String xml:lang="nl-NL">Geef (C){0}(/C) contant geld uit je portemonnee.~n~~y~Waarschuwing:~s~ handel ~r~op eigen risico~s~, we garanderen niet dat je iets zult ontvangen in ruil voor deze transactie.</String>
@@ -2389,7 +2186,6 @@
         <String xml:lang="lv-LV">Iedodiet (C){0}(/C) naudu no jūsu maka. ~n~~y~Brīdinājums:~s~ tirgojaties ~r~uz savu risku~s~, mēs nevaram garantēt ka jūs iegūsiet jebko apmaiņā pret šo darījumu.</String>
         <String xml:lang="tr-TR">Cüzdanınızdan (C){0}(/C) nakit para verin.~n~~y~Uyarı:~s~ ~r~Riski size ait~s~olmak üzere işlem yapın, bu işlem karşılığında herhangi birşey alacağınızı garanti etmiyoruz.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_cash_level">
         <String xml:lang="en-US">~r~You must be level {0} to give other players cash.</String>
         <String xml:lang="nl-NL">~r~Je moet level {0} zijn om andere spelers contant geld te geven.</String>
@@ -2401,7 +2197,6 @@
         <String xml:lang="lv-LV">~r~Jums ir jābūt {0}. līmeņa lai dotu citiem spēlētājiem naudu.</String>
         <String xml:lang="tr-TR">~r~Diğer oyunculara nakit para vermek için {0} seviye olmalısın.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_item">
         <String xml:lang="en-US">Give item</String>
         <String xml:lang="nl-NL">Geef voorwerp</String>
@@ -2413,7 +2208,6 @@
         <String xml:lang="lv-LV">Iedot priekšmetu</String>
         <String xml:lang="tr-TR">Eşya ver</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_item_description">
         <String xml:lang="en-US">Give (C){0}(/C) an item from your inventory.~n~~y~Warning:~s~ trade ~r~at your own risk~s~, we don't guarantee that you will receive anything in exchange for this transaction.</String>
         <String xml:lang="nl-NL">Geef (C){0}(/C) een voorwerp uit je inventaris.~n~~y~Waarschuwing:~s~ handel ~r~op eigen risico~s~, we garanderen niet dat je iets zult ontvangen in ruil voor deze transactie.</String>
@@ -2425,7 +2219,6 @@
         <String xml:lang="lv-LV">Iedodiet (C){0}(/C) priekšmetu no jūsu inventāra. ~n~~y~Brīdinājums:~s~ tirgojaties ~r~uz savu risku~s~, mēs nevaram garantēt ka jūs iegūsiet jebko apmaiņā pret šo darījumu.</String>
         <String xml:lang="tr-TR">Envanterinizden (C){0}(/C) bir eşya verin.~n~~y~Uyarı:~s~ ~r~Riski size ait~s~ olmak üzere ticaret yapın, bu işlem karşılığında herhangi birşey alacağınızı garanti etmiyoruz.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_keys">
         <String xml:lang="en-US">Give keys</String>
         <String xml:lang="nl-NL">Geef sleutels</String>
@@ -2437,7 +2230,6 @@
         <String xml:lang="lv-LV">Iedot atslēgas</String>
         <String xml:lang="tr-TR">Anahtar ver</String>
     </Entry>
-
     <Entry Id="menu_playermenu_give_keys_description">
         <String xml:lang="en-US">Give this player keys to your property.</String>
         <String xml:lang="nl-NL">Geef deze speler sleutels tot je eigendom.</String>
@@ -2449,7 +2241,6 @@
         <String xml:lang="lv-LV">Iedodiet šim spēlētājam atslēgas no jūsu īpašuma.</String>
         <String xml:lang="tr-TR">Bu oyuncuya mülkünüzün anahtarlarını verin.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_offer_trade">
         <String xml:lang="en-US">Offer trade</String>
         <String xml:lang="nl-NL">Bied ruil aan</String>
@@ -2461,7 +2252,6 @@
         <String xml:lang="lv-LV">Piedāvāt darījumu</String>
         <String xml:lang="tr-TR">Ticaret teklif et</String>
     </Entry>
-
     <Entry Id="menu_playermenu_offer_trade_description">
         <String xml:lang="en-US">Offer this player a trade.</String>
         <String xml:lang="nl-NL">Bied deze speler een ruil aan.</String>
@@ -2473,7 +2263,6 @@
         <String xml:lang="lv-LV">Piedāvājiet šim spēlētājam darījumu.</String>
         <String xml:lang="tr-TR">Bu oyuncuya ticaret teklif et.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_no_actions">
         <String xml:lang="en-US">No actions :(</String>
         <String xml:lang="nl-NL">Geen acties :(</String>
@@ -2485,7 +2274,6 @@
         <String xml:lang="lv-LV">Nav darbību :(</String>
         <String xml:lang="tr-TR">Eylem yok :(</String>
     </Entry>
-
     <Entry Id="menu_playermenu_no_actions_description">
         <String xml:lang="en-US">There are no actions for this player.</String>
         <String xml:lang="nl-NL">Er zijn geen acties voor deze speler.</String>
@@ -2497,7 +2285,6 @@
         <String xml:lang="lv-LV">Šim spēlētājam nav nekādu darbību.</String>
         <String xml:lang="tr-TR">Bu oyuncu için herhangi bir eylem yok.</String>
     </Entry>
-
     <Entry Id="gave_antidote">
         <String xml:lang="en-US">You gave {0} the ~p~antidote ~s~and treated their ~r~drug overdose~s~.</String>
         <String xml:lang="nl-NL">Je hebt {0} ~p~tegengif ~s~gegeven en hun ~r~drug overdosis~s~ behandeld.</String>
@@ -2509,7 +2296,6 @@
         <String xml:lang="lv-LV">Jūs iedēvat {0} ~p~pretindi ~s~un izārstējāt viņa ~r~pārdozēšanos~s~.</String>
         <String xml:lang="tr-TR">{0} senin tarafından bir ~p~panzehir ~s~aldı ve ~r~aşırı dozda uyuşturucu~s~yu tedavi etti.</String>
     </Entry>
-
     <Entry Id="menu_playermenu_suggest_bribe_requested">
         <String xml:lang="en-US">REQUESTED</String>
         <String xml:lang="nl-NL">AANGEVRAAGD</String>
@@ -2521,7 +2307,6 @@
         <String xml:lang="lv-LV">PIEPRASĪTS</String>
         <String xml:lang="tr-TR">TALEP EDILDI</String>
     </Entry>
-
     <Entry Id="input_playermenu_give_cash">
         <String xml:lang="en-US">Give Cash</String>
         <String xml:lang="nl-NL">Geef contant geld</String>
@@ -2533,7 +2318,6 @@
         <String xml:lang="lv-LV">Iedot Naudu</String>
         <String xml:lang="tr-TR">Nakit para ver</String>
     </Entry>
-
     <Entry Id="input_playermenu_give_cash_text">
         <String xml:lang="en-US">Enter the amount of money to send {0}.</String>
         <String xml:lang="nl-NL">Voer het bedrag in dat je wilt verzenden {0}.</String>
@@ -2545,10 +2329,6 @@
         <String xml:lang="lv-LV">Ievadiet naudas summu, ko gribat nosūtīt {0}.</String>
         <String xml:lang="tr-TR">{0} kişisine gönderilecek para miktarını girin.</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!--Stats menu -->
-    <!-- ========================= -->
     <Entry Id="menu_stats_title">
         <String xml:lang="en-US">Statistics</String>
         <String xml:lang="nl-NL">Statistieken</String>
@@ -2565,7 +2345,6 @@
         <String xml:lang="lv-LV">Statistika</String>
         <String xml:lang="tr-TR">İstatistikler</String>
     </Entry>
-
     <Entry Id="menu_stats_subtitle">
         <String xml:lang="en-US">Stats</String>
         <String xml:lang="nl-NL">Stats</String>
@@ -2582,10 +2361,6 @@
         <String xml:lang="lv-LV">Statistika</String>
         <String xml:lang="tr-TR">Statüler</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Wardrobe menu -->
-    <!-- ========================= -->
     <Entry Id="menu_wardrobe_title">
         <String xml:lang="en-US">Wardrobe</String>
         <String xml:lang="nl-NL">Garderobe</String>
@@ -2602,7 +2377,6 @@
         <String xml:lang="lv-LV">Garderobe</String>
         <String xml:lang="tr-TR">Gardırop</String>
     </Entry>
-
     <Entry Id="menu_wardrobe_subtitle">
         <String xml:lang="en-US">Select a category</String>
         <String xml:lang="nl-NL">Selecteer een categorie</String>
@@ -2619,7 +2393,6 @@
         <String xml:lang="lv-LV">Izvēlieties kategoriju</String>
         <String xml:lang="tr-TR">Bir kategori seç</String>
     </Entry>
-
     <Entry Id="menu_wardrobe_clear_text">
         <String xml:lang="en-US">~b~Remove all</String>
         <String xml:lang="nl-NL">~b~Verwijder alles</String>
@@ -2629,9 +2402,7 @@
         <String xml:lang="id-ID">~b~Hilangkan semua</String>
         <String xml:lang="lv-LV">~b~Noņemt visu</String>
         <String xml:lang="tr-TR">~b~Hepsini çıkar</String>
-        <String xml:lang="hi-Latn">~b~Sab remove karo</String>
     </Entry>
-
     <Entry Id="menu_wardrobe_clear_description">
         <String xml:lang="en-US">Take all your ~b~clothes ~s~and ~b~makeup ~s~off your character.</String>
         <String xml:lang="nl-NL">Haal al je ~b~kleding ~s~en ~b~make-up ~s~van je karakter af.</String>
@@ -2641,9 +2412,7 @@
         <String xml:lang="id-ID">Hilangkan semua ~b~pakaian ~s~dan ~b~makeup ~s~dari karaktermu.</String>
         <String xml:lang="lv-LV">Noņemiet visus ~b~apģērbus ~s~un ~b~grimu ~s~no sava tēla.</String>
         <String xml:lang="tr-TR">Karakterinin tüm ~b~kıyafetlerini ~s~ve ~b~makyajını ~s~çıkart.</String>
-        <String xml:lang="hi-Latn">Apne character ke ~b~kapde ~s~aur ~b~makeup ~s~hatao.</String>
     </Entry>
-
     <Entry Id="btn_wardrobe_wear">
         <String xml:lang="en-US">Wear</String>
         <String xml:lang="nl-NL">Dragen</String>
@@ -2653,9 +2422,7 @@
         <String xml:lang="id-ID">Pakai</String>
         <String xml:lang="lv-LV">Valkāt</String>
         <String xml:lang="tr-TR">Giy</String>
-        <String xml:lang="hi-Latn">Pehno</String>
     </Entry>
-
     <Entry Id="btn_wardrobe_browse">
         <String xml:lang="en-US">Browse</String>
         <String xml:lang="nl-NL">Bladeren</String>
@@ -2665,9 +2432,7 @@
         <String xml:lang="id-ID">Telusuri</String>
         <String xml:lang="lv-LV">Pārlūkot</String>
         <String xml:lang="tr-TR">Göz at</String>
-        <String xml:lang="hi-Latn">Dekho</String>
     </Entry>
-
     <Entry Id="btn_wardrobe_remove">
         <String xml:lang="en-US">Remove</String>
         <String xml:lang="nl-NL">Verwijderen</String>
@@ -2677,9 +2442,7 @@
         <String xml:lang="id-ID">Lepaskan</String>
         <String xml:lang="lv-LV">Noņemt</String>
         <String xml:lang="tr-TR">Çıkart</String>
-        <String xml:lang="hi-Latn">Hatao</String>
     </Entry>
-
     <Entry Id="input_wardrobe_search_title">
         <String xml:lang="en-US">Search</String>
         <String xml:lang="nl-NL">Zoeken</String>
@@ -2689,9 +2452,7 @@
         <String xml:lang="id-ID">Mencari</String>
         <String xml:lang="lv-LV">Meklēt</String>
         <String xml:lang="tr-TR">Ara</String>
-        <String xml:lang="hi-Latn">Dhoondho</String>
     </Entry>
-
     <Entry Id="input_wardrobe_search_text">
         <String xml:lang="en-US">Enter an item's name or part of it</String>
         <String xml:lang="nl-NL">Voer de naam van een item in of een deel ervan</String>
@@ -2701,9 +2462,7 @@
         <String xml:lang="id-ID">Masukkan nama item atau bagian dari item.</String>
         <String xml:lang="lv-LV">Ievadiet priekšmeta nosaukumu vai tā daļu</String>
         <String xml:lang="tr-TR">Bir eşyanın adını veya bir kısmını gir</String>
-        <String xml:lang="hi-Latn">Item ka name ya uska kuch part daalo</String>
     </Entry>
-
     <Entry Id="menu_wardrobe_search_subtitle">
         <String xml:lang="en-US">Search: ''{0}''</String>
         <String xml:lang="nl-NL">Zoeken: ''{0}''</String>
@@ -2713,13 +2472,7 @@
         <String xml:lang="id-ID">Mencari: ''{0}''</String>
         <String xml:lang="lv-LV">Meklēt: ''{0}''</String>
         <String xml:lang="tr-TR">Ara: ''{0}''</String>
-        <String xml:lang="hi-Latn">Dhoondho: ''{0}''</String>
     </Entry>
-
-
-    <!-- ========================= -->
-    <!-- Trading System -->
-    <!-- ========================= -->
     <Entry Id="trading_state_started">
         <String xml:lang="en-US">Started</String>
         <String xml:lang="nl-NL">Gestart</String>
@@ -2731,7 +2484,6 @@
         <String xml:lang="lv-LV">Sākās</String>
         <String xml:lang="tr-TR">Başladı</String>
     </Entry>
-
     <Entry Id="trading_state_confirmed">
         <String xml:lang="en-US">Confirmed</String>
         <String xml:lang="nl-NL">Bevestigd</String>
@@ -2743,7 +2495,6 @@
         <String xml:lang="lv-LV">Apsiprināts</String>
         <String xml:lang="tr-TR">Onaylandı</String>
     </Entry>
-
     <Entry Id="trading_state_finalized">
         <String xml:lang="en-US">Finalized</String>
         <String xml:lang="nl-NL">Afgerond</String>
@@ -2755,7 +2506,6 @@
         <String xml:lang="lv-LV">Pabeigts</String>
         <String xml:lang="tr-TR">Kesinleşti</String>
     </Entry>
-
     <Entry Id="menu_trading_current_state">
         <String xml:lang="en-US">State: {0}</String>
         <String xml:lang="nl-NL">Status: {0}</String>
@@ -2767,7 +2517,6 @@
         <String xml:lang="lv-LV">Stāvoklis: {0}</String>
         <String xml:lang="tr-TR">Durum: {0}</String>
     </Entry>
-
     <Entry Id="menu_trading_title">
         <String xml:lang="en-US">Trading</String>
         <String xml:lang="nl-NL">Handelen</String>
@@ -2779,19 +2528,17 @@
         <String xml:lang="lv-LV">Tirgo</String>
         <String xml:lang="tr-TR">Ticaret</String>
     </Entry>
-
     <Entry Id="menu_trading_my_offer_text">
         <String xml:lang="en-US">My offer</String>
+        <String xml:lang="id-ID">Penawaran saya</String>
+        <String xml:lang="lv-LV">Mans piedāvājums</String>
         <String xml:lang="nl-NL">Mijn aanbod</String>
         <String xml:lang="hi-Latn">Mera offer</String>
         <String xml:lang="fr-FR">Mon offre</String>
         <String xml:lang="de-DE">Mein Angebot</String>
         <String xml:lang="it-IT">La mia offerta</String>
-        <String xml:lang="id-ID">Penawaran saya</String>
-        <String xml:lang="lv-LV">Mans piedāvājums</String>
         <String xml:lang="tr-TR">Benim teklifim</String>
     </Entry>
-
     <Entry Id="menu_trading_my_offer_title">
         <String xml:lang="en-US">Offer</String>
         <String xml:lang="nl-NL">Aanbod</String>
@@ -2803,7 +2550,6 @@
         <String xml:lang="lv-LV">Piedāvājums</String>
         <String xml:lang="tr-TR">Teklif et</String>
     </Entry>
-
     <Entry Id="menu_trading_my_offer_subtitle">
         <String xml:lang="en-US">My offer</String>
         <String xml:lang="nl-NL">Mijn aanbod</String>
@@ -2815,7 +2561,6 @@
         <String xml:lang="lv-LV">Mans piedāvājums</String>
         <String xml:lang="tr-TR">Benim teklifim</String>
     </Entry>
-
     <Entry Id="menu_trading_other_offer_text">
         <String xml:lang="en-US">Other player's offer</String>
         <String xml:lang="nl-NL">Andere speler's aanbod</String>
@@ -2827,7 +2572,6 @@
         <String xml:lang="lv-LV">Cita spēlētāja piedāvājums</String>
         <String xml:lang="tr-TR">Diğer oyuncunun teklifi</String>
     </Entry>
-
     <Entry Id="menu_trading_other_offer_title">
         <String xml:lang="en-US">Offer</String>
         <String xml:lang="nl-NL">Aanbod</String>
@@ -2839,7 +2583,6 @@
         <String xml:lang="lv-LV">Piedāvājums</String>
         <String xml:lang="tr-TR">Teklif et</String>
     </Entry>
-
     <Entry Id="menu_trading_other_offer_subtitle">
         <String xml:lang="en-US">Other player's offer</String>
         <String xml:lang="nl-NL">Andere speler's aanbod</String>
@@ -2851,7 +2594,6 @@
         <String xml:lang="lv-LV">Cita spēlētāja piedāvājums</String>
         <String xml:lang="tr-TR">Diğer oyuncunun teklifi</String>
     </Entry>
-
     <Entry Id="menu_trading_confirm_text">
         <String xml:lang="en-US">Confirm</String>
         <String xml:lang="nl-NL">Bevestigen</String>
@@ -2863,7 +2605,6 @@
         <String xml:lang="lv-LV">Apstiprināt</String>
         <String xml:lang="tr-TR">Onayla</String>
     </Entry>
-
     <Entry Id="menu_trading_confirm_description">
         <String xml:lang="en-US">Pressing this button will progress current state</String>
         <String xml:lang="nl-NL">Door deze knop in te drukken bevestig je de transactie</String>
@@ -2875,7 +2616,6 @@
         <String xml:lang="lv-LV">Nospiežot šo pogu, tiks virzīts pašreizējais stāvoklis</String>
         <String xml:lang="tr-TR">Bu düğmeye basmak mevcut durumu ilerletecektir</String>
     </Entry>
-
     <Entry Id="trading_changed_offer">
         <String xml:lang="en-US">{0} has changed their offer.</String>
         <String xml:lang="nl-NL">{0} heeft zijn aanbod aangepast.</String>
@@ -2887,7 +2627,6 @@
         <String xml:lang="lv-LV">{0} mainīja savu piedāvājumu.</String>
         <String xml:lang="tr-TR">{0} teklifini değiştirdi.</String>
     </Entry>
-
     <Entry Id="trading_offered">
         <String xml:lang="en-US">You've sent your ~y~trade request~s~ to {0}.</String>
         <String xml:lang="nl-NL">Je hebt een ~y~ruilverzoek~s~ gestuurd naar {0}.</String>
@@ -2899,9 +2638,6 @@
         <String xml:lang="lv-LV">Jūs nosūtījat {0} savu ~y~tirdzniecības pieprasījumu~s~.</String>
         <String xml:lang="tr-TR">~y~Takas talebi~s~nizi {0} kişisine gönderdiniz.</String>
     </Entry>
-
-    <!-- {0} = Player -->
-    <!-- {1} = Input instructions -->
     <Entry Id="trading_got_offer">
         <String xml:lang="en-US">{0} sent you a trade request. {1} to view trading menu.</String>
         <String xml:lang="nl-NL">{0} heeft je een ruilverzoek gestuurd. {1} om het menu te bekijken.</String>
@@ -2913,7 +2649,6 @@
         <String xml:lang="lv-LV">{0} nosūtīja jums savu tirdzniecības pieprasījumu. {1} lai aplūkotu tirdzniecības izvēlni.</String>
         <String xml:lang="tr-TR">{0} kişisi size bir takas talebi gönderdi. Ticaret menüsünü görüntülemek için {1}.</String>
     </Entry>
-
     <Entry Id="trading_other_confirmed">
         <String xml:lang="en-US">{0} has confirmed the trade.</String>
         <String xml:lang="nl-NL">{0} heeft de ruil bevestigd.</String>
@@ -2925,7 +2660,6 @@
         <String xml:lang="lv-LV">{0} apstiprināja darījumu.</String>
         <String xml:lang="tr-TR">{0} kişisi ticareti onayladı.</String>
     </Entry>
-
     <Entry Id="menu_trading_cash_label">
         <String xml:lang="en-US">Cash: {0}</String>
         <String xml:lang="nl-NL">Geld: {0}</String>
@@ -2937,7 +2671,6 @@
         <String xml:lang="lv-LV">Nauda: {0}</String>
         <String xml:lang="tr-TR">Nakit: {0}</String>
     </Entry>
-
     <Entry Id="menu_trading_cash_text">
         <String xml:lang="en-US">Cash</String>
         <String xml:lang="nl-NL">Geld</String>
@@ -2949,7 +2682,6 @@
         <String xml:lang="lv-LV">Nauda</String>
         <String xml:lang="tr-TR">Nakit</String>
     </Entry>
-
     <Entry Id="menu_trading_add_item">
         <String xml:lang="en-US">Add Item</String>
         <String xml:lang="nl-NL">Voorwerp Toevoegen</String>
@@ -2961,7 +2693,6 @@
         <String xml:lang="lv-LV">Pievienot Priekšmetu</String>
         <String xml:lang="tr-TR">Eşya ekle</String>
     </Entry>
-
     <Entry Id="menu_trading_add_purchaseable">
         <String xml:lang="en-US">Add Purchaseable</String>
         <String xml:lang="nl-NL">Tegoeden Toevoegen</String>
@@ -2973,7 +2704,6 @@
         <String xml:lang="lv-LV">Pievienot Nopērkamo</String>
         <String xml:lang="tr-TR">Satın alınabilir eşya ekle</String>
     </Entry>
-
     <Entry Id="trading_response_success">
         <String xml:lang="en-US">Trade completed.</String>
         <String xml:lang="nl-NL">Ruilen voltooid.</String>
@@ -2985,7 +2715,6 @@
         <String xml:lang="lv-LV">Darījums pabeigts.</String>
         <String xml:lang="tr-TR">Ticaret tamamlandı.</String>
     </Entry>
-
     <Entry Id="trading_response_amount">
         <String xml:lang="en-US">~r~Insufficient amount to complete the trade.</String>
         <String xml:lang="nl-NL">~r~Aantal onvoldoende om de transactie te voltooien.</String>
@@ -2997,7 +2726,6 @@
         <String xml:lang="lv-LV">~r~Nepietiekama summa lai pabeigtu darījumu.</String>
         <String xml:lang="tr-TR">~r~Ticarette tamamlamak için yetersiz miktar.</String>
     </Entry>
-
     <Entry Id="trading_response_item">
         <String xml:lang="en-US">~r~Invalid item was found in the trade.</String>
         <String xml:lang="nl-NL">~r~Ongeldig voorwerp gevonden in transactie.</String>
@@ -3009,7 +2737,6 @@
         <String xml:lang="lv-LV">~r~Nederīgs priekšmets tika atrasts darījumā.</String>
         <String xml:lang="tr-TR">~r~Ticarette geçersiz eşya bulundu.</String>
     </Entry>
-
     <Entry Id="trading_response_item_limit">
         <String xml:lang="en-US">~r~Item limit reached, cannot complete the trade.</String>
         <String xml:lang="nl-NL">~r~Voorwerp limiet bereikt, kan de transactie niet voltooien.</String>
@@ -3021,7 +2748,6 @@
         <String xml:lang="lv-LV">~r~Priekšmetu ierobežojums tika sasniegts, nevar pabeigt darījumu.</String>
         <String xml:lang="tr-TR">~r~Eşya sınırına ulaşıldı, ticaret tamamlanamıyor.</String>
     </Entry>
-
     <Entry Id="trading_response_not_transferable">
         <String xml:lang="en-US">~r~Item is not transferable.</String>
         <String xml:lang="nl-NL">~r~Dit voorwerp mag je niet ruilen.</String>
@@ -3033,7 +2759,6 @@
         <String xml:lang="lv-LV">~r~Priekšmets nav nododams.</String>
         <String xml:lang="tr-TR">~r~Eşyalar transfer edilemez.</String>
     </Entry>
-
     <Entry Id="trading_response_job">
         <String xml:lang="en-US">~r~Job not allowed to perform trade on this item.</String>
         <String xml:lang="nl-NL">~r~Je mag dit voorwerp niet ruilen met huidige baan.</String>
@@ -3045,7 +2770,6 @@
         <String xml:lang="lv-LV">~r~Nav atļauts nodot šo priekšmetu šajā darbā.</String>
         <String xml:lang="tr-TR">~r~Mesleğin bu eşya için ticaret yapılmasına izin vermiyor.</String>
     </Entry>
-
     <Entry Id="trading_response_no_space">
         <String xml:lang="en-US">~r~No space left to complete the trade.</String>
         <String xml:lang="nl-NL">~r~Geen ruimte meer om de transactie te voltooien.</String>
@@ -3057,7 +2781,6 @@
         <String xml:lang="lv-LV">~r~Nav vietas lai pabeigtu darījumu.</String>
         <String xml:lang="tr-TR">~r~Ticareti tamamlamak için alan kalmadı.</String>
     </Entry>
-
     <Entry Id="trading_response_transfer_limit">
         <String xml:lang="en-US">~r~Money transfer limit of {0} or cooldown has been reached.</String>
         <String xml:lang="nl-NL">~r~Geldoverdrachtlimiet van {0} bereikt of afkoelperiode is nog niet verstreken.</String>
@@ -3069,7 +2792,6 @@
         <String xml:lang="lv-LV">~r~Tika sasniegts maudas nodošanas ierobežojums {0} apmērā vai atdzišana.</String>
         <String xml:lang="tr-TR">~r~{0} tutarındaki para transfer limitine ulaşıldı veya bekleme süresine girildi.</String>
     </Entry>
-
     <Entry Id="trading_response_transaction">
         <String xml:lang="en-US">~r~Transaction error occurred.</String>
         <String xml:lang="nl-NL">~r~Transactiefout opgetreden.</String>
