@@ -52,7 +52,7 @@ jobs:
           else
             git commit -m "Update files from API"
             git pull --rebase --strategy-option theirs origin $BRANCH_NAME
-            git push origin $BRANCH_NAME
+            git push --force origin $BRANCH_NAME
             echo "changes=true" >> $GITHUB_ENV
           fi
 
