@@ -1608,6 +1608,6 @@
         <String xml:lang="sv-SE">Sälj din~b~{0} ~s~till servern för en del av ditt köps pris</String>
         <String xml:lang="tr-TR">~b~{0} ~s~isimli aracını satın aldığın fiyatının belirli bir yüzdesi karşılığında sunucuya sat.</String>
         <String xml:lang="zh-Hant">將你的 ~b~{0} ~s~賣給伺服器並獲取部分的退款.</String>
-        <String xml:lang="nl-NL">Verkoop je ~b~{0} ~s~aan de server voor een percentage van de koopprijs.</String>
+        <String xml:lang="nl-NL">Verkoop je ~b~{0} ~s~aan de server voor een percentage van de koopprijs. test</String>
     </Entry>
 </Entries>
