@@ -25,6 +25,14 @@ jobs:
           fi
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
 
+      - name: Rebase Before Making Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git fetch origin
+          git checkout $BRANCH_NAME
+          git pull --rebase --strategy-option theirs origin $BRANCH_NAME
+
       - name: Download ZIP from API
         run: |
           curl -o files.zip "https://translator.cnr.stijnjw.com/api/translations/retrieve/xml"
@@ -41,6 +49,11 @@ jobs:
         run: |
           rm files.zip
 
+      - name: Debug Git Changes
+        run: |
+          git status
+          git diff --stat
+
       - name: Commit and Push Changes
         id: commit-and-push
         run: |
@@ -51,10 +64,14 @@ jobs:
             echo "changes=false" >> $GITHUB_ENV
           else
             git commit -m "Update files from API"
-            git pull --rebase --strategy-option ours origin $BRANCH_NAME
-            git push --force origin $BRANCH_NAME
+            git push origin $BRANCH_NAME
             echo "changes=true" >> $GITHUB_ENV
           fi
+
+      - name: Debug Git Changes 2
+        run: |
+          git status
+          git diff --stat
 
       - name: Check for Existing Pull Request
         id: check-pr
