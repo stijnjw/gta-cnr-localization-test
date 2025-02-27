@@ -37,28 +37,6 @@
         <String xml:lang="ar-001">لقد ~r~حظرت ~s~{0}. </String>
     </Entry>
 
-    <Entry Id="unable_unblock_player">
-        <String xml:lang="en-US">Unable to ~r~unblock ~s~{0}.</String>
-        <String xml:lang="it-IT">Non è possible ~r~sbloccare ~s~{0}.</String>
-        <String xml:lang="nl-NL">Je kan {0} niet ~r~deblokkeren~s~.</String>
-        <String xml:lang="tr-TR">Kaldırılamıyor ~r~engelleme ~s~{0}.</String>
-        <String xml:lang="de-DE">{0} kann nicht ~r~freigegeben ~s~werden.</String>
-        <String xml:lang="es-ES">No se puede ~r~desbloquear ~s~{0}.</String>
-        <String xml:lang="fr-FR">Impossible de ~r~débloquer ~s~{0}.</String>
-        <String xml:lang="pl-PL">Nie można ~r~odblokować ~s~{0}.</String>
-        <String xml:lang="ar-001">غير قادر على ~r~رفع الحظر ~s~{0}.</String>
-        <String xml:lang="zh-Hant">無法 ~r~解鎖封鎖 ~s~{0}.</String>
-        <String xml:lang="zh-Hans">无法 ~r~解锁封锁 ~s~{0}.</String>
-        <String xml:lang="pt-BR">Não pode ser ~r~desbloqueado ~s~{0}.</String>
-        <String xml:lang="th-TH">ไม่สามารถที่จะ ~r~ปลดบล็อค ~s~{0}.</String>
-        <String xml:lang="id-ID">Tidak dapak ~r~membuka blokir ~s~{0}.</String>
-        <String xml:lang="vi-VN">Không thể ~r~gỡ chặn ~s~{0}.</String>
-        <String xml:lang="hi-Latn">nahi ~r~unblock ~s~ho pa rahe{0}.</String>
-        <String xml:lang="cs-CZ">Nemůžeš ~r~odblokovat ~s~{0}.</String>
-        <String xml:lang="lv-LV">Nevar ~r~atbloķēt ~s~{0}.</String>
-        <String xml:lang="sv-SE">Går ej att ~r~avblockera ~s~{0}.</String>
-    </Entry>
-
     <Entry Id="unable_block_player">
         <String xml:lang="en-US">~r~Unable to block ~s~{0}.</String>
         <String xml:lang="it-IT">~r~Impossibile bloccare ~s~{0}.</String>
@@ -181,5 +159,30 @@
         <String xml:lang="cs-CZ">~y~~h~Upozornění~h~~s~: Měl jsi {0} nepovolených zbraní, které ti zřejmě dal cheater, aby tě dostal do problémů. (C)CnR V Shield(/C) ~r~odebral ~s~tyto zbraně.</String>
         <String xml:lang="lv-LV">~y~~h~Brīdinājums~h~~s~: Jums bija {0} neatļauti ieroči, kurus, iespējams, radījis hakeris, lai jūs nonāktu nepatikšanās, bet (C)CnR V Shield(/C) ~r~noņēma ~s~tos priekš jums.</String>
         <String xml:lang="sv-SE">~y~~h~Varning~h~~s~: Du har {0} oberhöriga vapen, möjligtvist spawnat av en fuskare för att kunna få dig i trubbel, men (C)CnR V Shield(/C) ~r~tog bort ~s~dem för dig.</String>
+    </Entry>
+
+    <!-- When you are trying to unblock someone
+         {0} = Player name (for example: Sasino) 
+    -->
+    <Entry Id="unable_unblock_player">
+        <String xml:lang="en-US">Unable to ~r~unblock ~s~{0}.</String>
+        <String xml:lang="it-IT">Non è possible ~r~sbloccare ~s~{0}.</String>
+        <String xml:lang="nl-NL">Je kan {0} niet ~r~deblokkeren~s~.</String>
+        <String xml:lang="tr-TR">Kaldırılamıyor ~r~engelleme ~s~{0}.</String>
+        <String xml:lang="de-DE">{0} kann nicht ~r~freigegeben ~s~werden.</String>
+        <String xml:lang="es-ES">No se puede ~r~desbloquear ~s~{0}.</String>
+        <String xml:lang="fr-FR">Impossible de ~r~débloquer ~s~{0}.</String>
+        <String xml:lang="pl-PL">Nie można ~r~odblokować ~s~{0}.</String>
+        <String xml:lang="ar-001">غير قادر على ~r~رفع الحظر ~s~{0}.</String>
+        <String xml:lang="zh-Hant">無法 ~r~解鎖封鎖 ~s~{0}.</String>
+        <String xml:lang="zh-Hans">无法 ~r~解锁封锁 ~s~{0}.</String>
+        <String xml:lang="pt-BR">Não pode ser ~r~desbloqueado ~s~{0}.</String>
+        <String xml:lang="th-TH">ไม่สามารถที่จะ ~r~ปลดบล็อค ~s~{0}.</String>
+        <String xml:lang="id-ID">Tidak dapak ~r~membuka blokir ~s~{0}.</String>
+        <String xml:lang="vi-VN">Không thể ~r~gỡ chặn ~s~{0}.</String>
+        <String xml:lang="hi-Latn">nahi ~r~unblock ~s~ho pa rahe{0}.</String>
+        <String xml:lang="cs-CZ">Nemůžeš ~r~odblokovat ~s~{0}.</String>
+        <String xml:lang="lv-LV">Nevar ~r~atbloķēt ~s~{0}.</String>
+        <String xml:lang="sv-SE">Går ej att ~r~avblockera ~s~{0}.</String>
     </Entry>
 </Entries>
