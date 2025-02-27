@@ -51,7 +51,7 @@ jobs:
             echo "changes=false" >> $GITHUB_ENV
           else
             git commit -m "Update files from API"
-            git pull --rebase origin $BRANCH_NAME
+            git pull --rebase --strategy-option theirs origin $BRANCH_NAME
             git push origin $BRANCH_NAME
             echo "changes=true" >> $GITHUB_ENV
           fi
@@ -60,7 +60,7 @@ jobs:
         id: check-pr
         run: |
           PR_URL=$(gh pr list --head $BRANCH_NAME --json url --jq '.[0].url')
-          if [ -z "$PR_URL"; then
+          if [ -z "$PR_URL" ]; then
             echo "PR_EXISTS=false" >> $GITHUB_ENV
           else
             echo "PR_EXISTS=true" >> $GITHUB_ENV
