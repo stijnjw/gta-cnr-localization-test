@@ -59,11 +59,17 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+
           git add --all
           if git diff --cached --quiet; then
             echo "changes=false" >> $GITHUB_ENV
           else
             git commit -m "Update files from API"
+
+            # Pull remote changes before pushing
+            git pull --no-rebase origin $BRANCH_NAME
+
+            # Push changes
             git push origin $BRANCH_NAME
             echo "changes=true" >> $GITHUB_ENV
           fi
