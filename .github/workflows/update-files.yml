@@ -60,6 +60,10 @@ jobs:
             echo "changes=true" >> $GITHUB_ENV
           fi
 
+      - name: Echo changes 2
+        run: |
+          git status
+
       - name: Check for Existing Pull Request
         id: check-pr
         run: |
