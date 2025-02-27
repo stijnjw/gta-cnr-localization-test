@@ -41,9 +41,11 @@ jobs:
         run: |
           rm files.zip
 
-      - name: Echo changes
+      - name: Debug Git Changes
         run: |
           git status
+          git diff --stat
+
 
       - name: Commit and Push Changes
         id: commit-and-push
@@ -76,9 +78,10 @@ jobs:
             echo "changes=true" >> $GITHUB_ENV
           fi
 
-      - name: Echo changes 2
+      - name: Debug Git Changes 2
         run: |
           git status
+          git diff --stat
 
       - name: Check for Existing Pull Request
         id: check-pr
