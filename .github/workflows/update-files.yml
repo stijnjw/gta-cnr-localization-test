@@ -41,6 +41,10 @@ jobs:
         run: |
           rm files.zip
 
+      - name: Echo changes
+        run: |
+          git status
+
       - name: Commit and Push Changes
         id: commit-and-push
         run: |
