@@ -73,7 +73,7 @@ jobs:
             git commit -m "Update files from API"
 
             # Pull remote changes before pushing
-            git pull --no-rebase origin $BRANCH_NAME
+            git pull --no-rebase --allow-unrelated-histories origin $BRANCH_NAME
 
             # Push changes
             git push origin $BRANCH_NAME
