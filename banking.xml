@@ -630,7 +630,9 @@
         <String xml:lang="lv-LV">{0} uzlauza bankomātu un nozaga {1}.</String>
     </Entry>
 
-    <!-- test -->
+    <!-- test
+         {0} = test2 (for example: test34) 
+    -->
     <Entry Id="menu_atm_withdraw_descr">
         <String xml:lang="en-US">Withdraw your cash.~n~Fee: ~r~{0}</String>
         <String xml:lang="it-IT">Preleva il tuo contante dal conto.~n~Commissione: ~r~{0}</String>
