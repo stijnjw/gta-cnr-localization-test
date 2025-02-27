@@ -54,9 +54,24 @@ jobs:
           if git diff --cached --quiet; then
             echo "changes=false" >> $GITHUB_ENV
           else
+            echo "One"
+            git status
+
             git commit -m "Update files from API"
+
+            echo "Two"
+            git status
+
             git pull --rebase --strategy-option ours origin $BRANCH_NAME
+
+            echo "Three"
+            git status
+
             git push --force origin $BRANCH_NAME
+
+            echo "Four"
+            git status
+
             echo "changes=true" >> $GITHUB_ENV
           fi
 
