@@ -47,6 +47,12 @@ jobs:
           git diff --stat
 
 
+      - name: Rebase Before Making Changes
+        run: |
+          git fetch origin
+          git checkout $BRANCH_NAME
+          git pull --rebase origin $BRANCH_NAME
+
       - name: Commit and Push Changes
         id: commit-and-push
         run: |
@@ -56,25 +62,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "changes=false" >> $GITHUB_ENV
           else
-            echo "One"
-            git status
-
             git commit -m "Update files from API"
-
-            echo "Two"
-            git status
-
-            git fetch origin
-            git reset --hard origin/$BRANCH_NAME
-
-            echo "Three"
-            git status
-
-            git push --force origin $BRANCH_NAME
-
-            echo "Four"
-            git status
-
+            git push origin $BRANCH_NAME
             echo "changes=true" >> $GITHUB_ENV
           fi
 
