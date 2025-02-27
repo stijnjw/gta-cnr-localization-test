@@ -105,27 +105,6 @@
         <String xml:lang="lv-LV">Izņemt</String>
     </Entry>
 
-    <Entry Id="menu_atm_withdraw_descr">
-        <String xml:lang="en-US">Withdraw your cash.~n~Fee: ~r~{0}</String>
-        <String xml:lang="it-IT">Preleva il tuo contante dal conto.~n~Commissione: ~r~{0}</String>
-        <String xml:lang="de-DE">Hebe dein Bargeld ab.~n~Gebühr: ~r~{0}</String>
-        <String xml:lang="nl-NL">Neem geld op.~n~Tarief: ~r~{0}</String>
-        <String xml:lang="fr-FR">Retirer en espèces.~n~Frais: ~r~{0}</String>
-        <String xml:lang="pl-PL">Wypłać swoją gotówkę.~n~Opłata: ~r~{0}</String>
-        <String xml:lang="tr-TR">Paranızı çekin.~n~Ücret: ~r~{0}</String>
-        <String xml:lang="zh-Hant">提領你的餘額.~n~手續費: ~r~{0}</String>
-        <String xml:lang="zh-Hans">提领你的余额.~n~手续费: ~r~{0}</String>
-        <String xml:lang="es-ES">Retire su dinero.~n~Tarifa: ~r~{0}</String>
-        <String xml:lang="ar-001">اسحب أموالك.~n~مصاريف: ~r~{0}</String>
-        <String xml:lang="pt-BR">Retirar seu dinheiro.~n~Comissão: ~r~{0}</String>
-        <String xml:lang="th-TH">ถอนเงินของคุฌ.~n~ค่าธรรมเนียม: ~r~{0}</String>
-        <String xml:lang="vi-VN">Rút tiền của bạn.~n~Phí: ~r~{0}</String>
-        <String xml:lang="id-ID">Anda akan menarik dana sejumlah. ~n~Pajak: ~r~{0}</String>
-        <String xml:lang="hi-Latn">Cash withdraw kare~n~Fees: ~r~{0}</String>
-        <String xml:lang="cs-CZ">Vyber své peníze.~n~Poplatek: ~r~{0}</String>
-        <String xml:lang="lv-LV">Izņemiet savu naudu.~n~Komisija: ~r~{0}</String>
-    </Entry>
-
     <Entry Id="menu_atm_deposit_text">
         <String xml:lang="en-US">Deposit</String>
         <String xml:lang="it-IT">Deposita</String>
@@ -649,5 +628,27 @@
         <String xml:lang="id-ID">{0} berhasil meretas ATM dan mencuri {1}!</String>
         <String xml:lang="cs-CZ">{0} hacknul bankomat a ukradl {1}.</String>
         <String xml:lang="lv-LV">{0} uzlauza bankomātu un nozaga {1}.</String>
+    </Entry>
+
+    <!-- test -->
+    <Entry Id="menu_atm_withdraw_descr">
+        <String xml:lang="en-US">Withdraw your cash.~n~Fee: ~r~{0}</String>
+        <String xml:lang="it-IT">Preleva il tuo contante dal conto.~n~Commissione: ~r~{0}</String>
+        <String xml:lang="de-DE">Hebe dein Bargeld ab.~n~Gebühr: ~r~{0}</String>
+        <String xml:lang="nl-NL">Neem geld op.~n~Tarief: ~r~{0}</String>
+        <String xml:lang="fr-FR">Retirer en espèces.~n~Frais: ~r~{0}</String>
+        <String xml:lang="pl-PL">Wypłać swoją gotówkę.~n~Opłata: ~r~{0}</String>
+        <String xml:lang="tr-TR">Paranızı çekin.~n~Ücret: ~r~{0}</String>
+        <String xml:lang="zh-Hant">提領你的餘額.~n~手續費: ~r~{0}</String>
+        <String xml:lang="zh-Hans">提领你的余额.~n~手续费: ~r~{0}</String>
+        <String xml:lang="es-ES">Retire su dinero.~n~Tarifa: ~r~{0}</String>
+        <String xml:lang="ar-001">اسحب أموالك.~n~مصاريف: ~r~{0}</String>
+        <String xml:lang="pt-BR">Retirar seu dinheiro.~n~Comissão: ~r~{0}</String>
+        <String xml:lang="th-TH">ถอนเงินของคุฌ.~n~ค่าธรรมเนียม: ~r~{0}</String>
+        <String xml:lang="vi-VN">Rút tiền của bạn.~n~Phí: ~r~{0}</String>
+        <String xml:lang="id-ID">Anda akan menarik dana sejumlah. ~n~Pajak: ~r~{0}</String>
+        <String xml:lang="hi-Latn">Cash withdraw kare~n~Fees: ~r~{0}</String>
+        <String xml:lang="cs-CZ">Vyber své peníze.~n~Poplatek: ~r~{0}</String>
+        <String xml:lang="lv-LV">Izņemiet savu naudu.~n~Komisija: ~r~{0}</String>
     </Entry>
 </Entries>
