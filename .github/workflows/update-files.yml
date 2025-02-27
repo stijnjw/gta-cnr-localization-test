@@ -35,7 +35,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git fetch --allow-unrelated-histories origin
+          git fetch origin
           git checkout --allow-unrelated-histories $BRANCH_NAME
           git merge origin/main --strategy-option --allow-unrelated-histories theirs
 
