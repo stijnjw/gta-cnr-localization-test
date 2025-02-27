@@ -31,7 +31,6 @@ jobs:
 
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
 
-
       - name: Merge Main into Branch
         run: |
           git config --global user.name "GitHub Actions"
@@ -105,7 +104,7 @@ jobs:
           gh pr create \
             --base main \
             --head ${{ env.BRANCH_NAME }} \
-            --title "Upload updated XML files - up to $(date +"%Y-%m-%d %H:%M:%S")" \
+            --title "Upload updated XML files - up to $(date +"%Y-%m-%d %H:%M:%S") UTC" \
             --body "This PR contains updated files from the translator website." \
             --label "automated"
         env:
@@ -115,6 +114,6 @@ jobs:
         if: env.changes == 'true' && env.PR_EXISTS == 'true'
         run: |
           gh pr comment ${{ env.PR_URL }} --body "Updated files from the translator website."
-          gh pr edit ${{ env.PR_URL }} --title "Upload updated XML files - up to $(date +"%Y-%m-%d %H:%M:%S")"
+          gh pr edit ${{ env.PR_URL }} --title "Upload updated XML files - up to $(date +"%Y-%m-%d %H:%M:%S") UTC"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
