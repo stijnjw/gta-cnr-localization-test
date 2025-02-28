@@ -167,7 +167,6 @@
     <Entry Id="unable_unblock_player">
         <String xml:lang="en-US">Unable to ~r~unblock ~s~{0}.</String>
         <String xml:lang="it-IT">Non è possible ~r~sbloccare ~s~{0}.</String>
-        <String xml:lang="nl-NL">Je kan {0} niet ~r~deblokkeren~s~.</String>
         <String xml:lang="tr-TR">Kaldırılamıyor ~r~engelleme ~s~{0}.</String>
         <String xml:lang="de-DE">{0} kann nicht ~r~freigegeben ~s~werden.</String>
         <String xml:lang="es-ES">No se puede ~r~desbloquear ~s~{0}.</String>
@@ -184,5 +183,6 @@
         <String xml:lang="cs-CZ">Nemůžeš ~r~odblokovat ~s~{0}.</String>
         <String xml:lang="lv-LV">Nevar ~r~atbloķēt ~s~{0}.</String>
         <String xml:lang="sv-SE">Går ej att ~r~avblockera ~s~{0}.</String>
+        <String xml:lang="nl-NL">Je kan {0} niet ~r~deblokkeren~s~.</String>
     </Entry>
 </Entries>
