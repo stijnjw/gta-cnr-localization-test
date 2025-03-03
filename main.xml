@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <Entries>
-    <!-- ========================= -->
-    <!-- Errors -->
-    <!-- ========================= -->
     <Entry Id="unexpected_error">
         <String xml:lang="en-US">~r~An unexpected error has occurred.</String>
         <String xml:lang="it-IT">~r~Si è verificato un errore imprevisto.</String>
@@ -136,14 +132,11 @@
         <String xml:lang="nl-NL">Fout tijdens het laden van je aankoop gegevens.</String>
         <String xml:lang="fr-FR">Impossible de charger tes données d'achat.</String>
         <String xml:lang="hi-Latn">Aapka purchase data load nahi ho pa raha hai.</String>
-        <String xml:lang="es-ES">No se han podido cargar los datos de su compra.</String>
-        <String xml:lang="pt-BR">Não foi possível fazer o upload dos detalhes de sua compra.</String>
         <String xml:lang="de-DE">Die Details zum Kauf konnten nicht geladen werden.</String>
         <String xml:lang="cs-CZ">Nelze načíst data o tvých nákupech.</String>
         <String xml:lang="it-IT">Impossibile caricare i dati di acquisto.</String>
         <String xml:lang="id-ID">Tidak dapat memuat data pembelian.</String>
         <String xml:lang="lv-LV">Neizdevās ielādēt jūsu pirkumu datus.</String>
-
     </Entry>
 
     <Entry Id="error_loading_subscription_data">
@@ -151,8 +144,6 @@
         <String xml:lang="nl-NL">Fout tijdens het laden van je abonnement gegevens.</String>
         <String xml:lang="fr-FR">Impossible de charger tes données d'abonnement.</String>
         <String xml:lang="hi-Latn">Aapka subscription data load nahi ho pa raha hai.</String>
-        <String xml:lang="es-ES">No se han podido cargar sus datos de suscripción.</String>
-        <String xml:lang="pt-BR">Não foi possível fazer o upload dos dados de sua assinatura.</String>
         <String xml:lang="de-DE">Die Details zu deinem Abonnement konnten nicht geladen werden.</String>
         <String xml:lang="cs-CZ">Nelze načíst data o tvém předplatném.</String>
         <String xml:lang="it-IT">Impossibile caricare i dati di abbonamento.</String>
@@ -165,8 +156,6 @@
         <String xml:lang="nl-NL">~r~Fout!</String>
         <String xml:lang="fr-FR">~r~Erreur!</String>
         <String xml:lang="hi-Latn">~r~Error!</String>
-        <String xml:lang="es-ES">~r~Error!</String>
-        <String xml:lang="pt-BR">~r~Erro!</String>
         <String xml:lang="de-DE">~r~Fehler!</String>
         <String xml:lang="cs-CZ">~r~Chyba!</String>
         <String xml:lang="it-IT">~r~Errore!</String>
@@ -174,12 +163,12 @@
         <String xml:lang="lv-LV">~r~Kļūda!</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- Generic Messages -->
-    <!-- ========================= -->
-    <!-- "Alert" or "Attention", this is shown in important full-screen messages, usually in yellow -->
     <Entry Id="alert">
         <String xml:lang="en-US">Alert</String>
+        <String xml:lang="lv-LV">Brīdinājums</String>
+        <String xml:lang="th-TH">เตือน</String>
+        <String xml:lang="hi-Latn">Alert</String>
+        <String xml:lang="cs-CZ">Upozornění</String>
         <String xml:lang="it-IT">Attenzione</String>
         <String xml:lang="de-DE">Achtung</String>
         <String xml:lang="nl-NL">Melding</String>
@@ -192,10 +181,6 @@
         <String xml:lang="pt-BR">Alerta</String>
         <String xml:lang="ar-001">تحذير</String>
         <String xml:lang="id-ID">Perhatian</String>
-        <String xml:lang="th-TH">เตือน</String>
-        <String xml:lang="hi-Latn">Alert</String>
-        <String xml:lang="cs-CZ">Upozornění</String>
-        <String xml:lang="lv-LV">Brīdinājums</String>
     </Entry>
 
     <Entry Id="attention">
@@ -261,8 +246,6 @@
         <String xml:lang="fr-FR">~r~Désolé, cette fonctionnalité n'a pas encore été implémentée pour cet objet!</String>
         <String xml:lang="nl-NL">~r~Sorry, de functie van dit voorwerp is nog niet geïmplementeerd!</String>
         <String xml:lang="hi-Latn">~r~Sorry, ye feature abhi tak implemented nahi hua is item ke liye!</String>
-        <String xml:lang="es-ES">~r~Lo sentimos, esta función aún no se ha implementado para este artículo.</String>
-        <String xml:lang="pt-BR">~r~Desculpe, mas essa função ainda não foi implementada para este artigo.</String>
         <String xml:lang="de-DE">~r~Sorry, die Funktion für diesen Gegenstand wurde noch nicht eingefügt!</String>
         <String xml:lang="cs-CZ">~r~Omlouváme se, tato funkce ještě nebyla pro tento předmět implementována!</String>
         <String xml:lang="it-IT">~r~Spiacente, questa funzionalità non è ancora stata implementata per questo oggetto!</String>
@@ -329,8 +312,6 @@
         <String xml:lang="nl-NL">~r~Je kan niet meer {0} vasthouden!</String>
         <String xml:lang="hi-Latn">~r~Aap aur nahi rakh sakte {0}!</String>
         <String xml:lang="fr-FR">~r~Tu ne peux pas détenir plus de {0}!</String>
-        <String xml:lang="es-ES">~r~No puedes llevar mas {0}!</String>
-        <String xml:lang="pt-BR">~r~Você não pode ter mais {0}!</String>
         <String xml:lang="de-DE">~r~Du nicht mehr von {0} tragen!</String>
         <String xml:lang="cs-CZ">~r~Už nemůžeš nést další {0}!</String>
         <String xml:lang="it-IT">~r~Non puoi reggere più di {0}!</String>
@@ -343,8 +324,6 @@
         <String xml:lang="nl-NL">Gebruik, drop of geef spullen weg om ruimte te maken.</String>
         <String xml:lang="fr-FR">Utilise, dépose ou donne certains objets pour faire de la place.</String>
         <String xml:lang="hi-Latn">Use kare, drop kare ya give karde kuch items space banane ke liye.</String>
-        <String xml:lang="es-ES">Usa, tira o regala algunos objetos para hacer espacio.</String>
-        <String xml:lang="pt-BR">Use, jogue fora ou doe alguns objetos para liberar espaço.</String>
         <String xml:lang="de-DE">Verwende, verschenke, oder lasse einige Gegenstände fallen, um Platz zu schaffen!</String>
         <String xml:lang="cs-CZ">Použij, vyhoď nebo dej některé předměty pryč, abys uvolnil místo.</String>
         <String xml:lang="it-IT">Usa, getta o dai via alcuni oggetti per fare spazio.</String>
@@ -442,12 +421,6 @@
         <String xml:lang="lv-LV">~r~Atvainojiet, šī funkcija vēl nav ieviesta!</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- Common instructional buttons -->
-    <!-- ========================= -->
-
-    <!-- Example: Offer (hold) -->
-    <!-- {0} = Label -->
     <Entry Id="btn_hold">
         <String xml:lang="en-US">{0} (hold)</String>
         <String xml:lang="nl-NL">{0} (vasthouden)</String>
@@ -501,7 +474,6 @@
 
     <Entry Id="btn_search">
         <String xml:lang="en-US">Search</String>
-        <String xml:lang="hi-Latn">Search</String>
         <String xml:lang="it-IT">Cerca</String>
         <String xml:lang="nl-NL">Zoeken</String>
         <String xml:lang="pl-PL">Wyszukaj</String>
@@ -521,6 +493,7 @@
 
     <Entry Id="btn_refresh">
         <String xml:lang="en-US">Refresh</String>
+        <String xml:lang="pt-BR">Atualizar</String>
         <String xml:lang="it-IT">Aggiorna</String>
         <String xml:lang="nl-NL">Verversen</String>
         <String xml:lang="pl-PL">Odśwież</String>
@@ -530,7 +503,6 @@
         <String xml:lang="zh-Hant">刷新</String>
         <String xml:lang="zh-Hans">刷新</String>
         <String xml:lang="es-ES">Actualizar</String>
-        <String xml:lang="pt-BR">Atualizar</String>
         <String xml:lang="ar-001">اعادة تحميل</String>
         <String xml:lang="id-ID">Muat ulang</String>
         <String xml:lang="th-TH">รีเฟรช</String>
@@ -541,7 +513,6 @@
 
     <Entry Id="btn_sort">
         <String xml:lang="en-US">Sort</String>
-        <String xml:lang="hi-Latn">Sort</String>
         <String xml:lang="nl-NL">Sorteren</String>
         <String xml:lang="fr-FR">Trier</String>
         <String xml:lang="id-ID">Urutkan</String>
@@ -555,8 +526,6 @@
         <String xml:lang="nl-NL">Toevoegen</String>
         <String xml:lang="fr-FR">Ajouter</String>
         <String xml:lang="hi-Latn">Add</String>
-        <String xml:lang="es-ES">Añadir</String>
-        <String xml:lang="pt-BR">Adicionar</String>
         <String xml:lang="de-DE">Hinzufügen</String>
         <String xml:lang="cs-CZ">Přidat</String>
         <String xml:lang="it-IT">Aggiungi</String>
@@ -569,8 +538,6 @@
         <String xml:lang="nl-NL">Interacties</String>
         <String xml:lang="hi-Latn">Interact Kare</String>
         <String xml:lang="fr-FR">Interagir</String>
-        <String xml:lang="es-ES">Interactuar</String>
-        <String xml:lang="pt-BR">Interação</String>
         <String xml:lang="de-DE">Interagieren</String>
         <String xml:lang="cs-CZ">Interakce</String>
         <String xml:lang="it-IT">Interagisci</String>
@@ -580,7 +547,6 @@
 
     <Entry Id="btn_use">
         <String xml:lang="en-US">Use</String>
-        <String xml:lang="hi-Latn">Use</String>
         <String xml:lang="nl-NL">Gebruik</String>
         <String xml:lang="fr-FR">Utiliser</String>
         <String xml:lang="id-ID">Gunakan</String>
@@ -589,9 +555,6 @@
         <String xml:lang="lv-LV">Lietot</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- General menu text -->
-    <!-- ========================= -->
     <Entry Id="menu_choose_option">
         <String xml:lang="en-US">Select an option</String>
         <String xml:lang="nl-NL">Selecteer een optie</String>
@@ -610,9 +573,6 @@
         <String xml:lang="lv-LV">Izvēlieties opciju</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- Money -->
-    <!-- ========================= -->
     <Entry Id="free">
         <String xml:lang="en-US">~g~FREE</String>
         <String xml:lang="it-IT">~g~GRATIS</String>
@@ -633,12 +593,6 @@
         <String xml:lang="lv-LV">~g~BEZMAKSAS</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- Bans -->
-    <!-- ========================= -->
-    <!-- {0} = Player name -->
-    <!-- {1} = Players' job -->
-    <!-- {2} = Duration -->
     <Entry Id="ac_job_ban">
         <String xml:lang="en-US">🛡️ ~b~CnR V Shield ~s~banned {0} from the {1} job for {2} days.</String>
         <String xml:lang="nl-NL">🛡️ ~b~CnR V Shield ~s~heeft {0} verbannen van de {1} baan voor {2} dagen.</String>
@@ -657,10 +611,6 @@
         <String xml:lang="lv-LV">🛡️ ~b~CnR V Shield ~s~nobloķēja {0} no {1} darba uz {2} dienām.</String>
     </Entry>
 
-    <!-- {0} = Player name -->
-    <!-- {1} = Duration -->
-    <!-- {2} = Reason -->
-    <!-- {3} = Count -->
     <Entry Id="ac_server_ban">
         <String xml:lang="en-US">🛡️ ~b~CnR V Shield ~s~banned {0} for {1} for ~r~{2}~s~. Total players banned: {3}</String>
         <String xml:lang="nl-NL">🛡️ ~b~CnR V Shield ~s~heeft {0} verbannen voor {1} voor ~r~{2}~s~. Totaal spelers banned: {3}</String>
@@ -753,6 +703,7 @@
 
     <Entry Id="language_changed">
         <String xml:lang="en-US">Language changed to ~b~{0}~s~</String>
+        <String xml:lang="zh-Hant">語言切換至 ~b~{0}~s~</String>
         <String xml:lang="nl-NL">Taal aangepast naar ~b~{0}~s~</String>
         <String xml:lang="fr-FR">Langue modifiée en ~b~{0}~s~</String>
         <String xml:lang="it-IT">Lingua cambiata a ~b~{0}~s~</String>
@@ -763,7 +714,6 @@
         <String xml:lang="ar-001">تم تغيير اللغة إلى ~b~{0}~s~</String>
         <String xml:lang="id-ID">Bahasa telah diubah menjadi ~b~{0}~s~</String>
         <String xml:lang="th-TH">ภาษาเปลี่ยนเป็น ~b~{0}~s~</String>
-        <String xml:lang="zh-Hant">語言切換至 ~b~{0}~s~</String>
         <String xml:lang="hi-Latn">Language change kar di gayi ~b~{0}~s~</String>
         <String xml:lang="cs-CZ">Jazyk změněn na ~b~{0}~s~</String>
         <String xml:lang="lv-LV">Valoda nomainīta uz ~b~{0}~s~</String>
@@ -792,8 +742,6 @@
         <String xml:lang="nl-NL">Deblokkeer</String>
         <String xml:lang="fr-FR">Débloquer</String>
         <String xml:lang="hi-Latn">Unblock</String>
-        <String xml:lang="es-ES">Desbloquear</String>
-        <String xml:lang="pt-BR">Desbloquear</String>
         <String xml:lang="de-DE">Freigeben</String>
         <String xml:lang="cs-CZ">Odblokovat</String>
         <String xml:lang="it-IT">Sblocca</String>
@@ -806,8 +754,6 @@
         <String xml:lang="nl-NL">Blokeer een speler. Je zult geen berichten van hen zien totdat je ze deblokkeert. Voer geen id in om de lijst met geblokkeerde spelers te zien.</String>
         <String xml:lang="fr-FR">Bloquer un joueur. Tu ne verras aucun message de sa part tant que tu ne l'auras pas débloqué. Ne pas entrer pas d'identifiant pour voir la liste des joueurs bloqués.</String>
         <String xml:lang="hi-Latn">Block karta hai ek player ko. Aap koi message nahi dekh payenge unke jab tak aap unhe unblock naa kare. Koi id enter nahi karna blocked players ki list dekhne ke liye.</String>
-        <String xml:lang="es-ES">Bloquea a un jugador. No verás ningún mensaje suyo hasta que lo desbloquees. No introduzcas un id para ver la lista de jugadores bloqueados.</String>
-        <String xml:lang="pt-BR">Bloqueia um jogador. Você não verá nenhuma mensagem dele até que o desbloqueie. Não digite um ID para ver a lista de jogadores bloqueados.</String>
         <String xml:lang="de-DE">Blockiert. Du wirst keine Nachrichten vom Spieler sehen, solange du ihn nicht freigibst. Um die Liste der blockierten Spieler zu sehen, gib keine ID ein.</String>
         <String xml:lang="cs-CZ">Zablokuje hráče. Dokud ho neodblokuješ, neuvidíš od něj žádnou zprávu. Nezadávej ID, abys viděl seznam blokovaných hráčů.</String>
         <String xml:lang="it-IT">Blocca un giocatore. Non vedrai nessun messaggio da parte loro finché non li sblocchi. Non inserire un id per vedere l'elenco dei giocatori bloccati.</String>
@@ -820,8 +766,6 @@
         <String xml:lang="nl-NL">speler id</String>
         <String xml:lang="fr-FR">ID du joueur</String>
         <String xml:lang="hi-Latn">player ki id</String>
-        <String xml:lang="es-ES">jugador id</String>
-        <String xml:lang="pt-BR">player id</String>
         <String xml:lang="de-DE">Spieler-ID</String>
         <String xml:lang="cs-CZ">ID hráče</String>
         <String xml:lang="it-IT">id giocatore</String>
@@ -834,8 +778,6 @@
         <String xml:lang="nl-NL">Huidige id van de speler die je wilt blokkeren.</String>
         <String xml:lang="fr-FR">L'ID actuel du joueur que tu souhaites bloquer.</String>
         <String xml:lang="hi-Latn">Us player ki current id jise aap block karna chahte hain.</String>
-        <String xml:lang="es-ES"> El id actual del jugador que quieres bloquear.</String>
-        <String xml:lang="pt-BR">O ID atual do jogador que você deseja bloquear.</String>
         <String xml:lang="de-DE">Die aktuelle ID des Spielers, den du blockieren willst.</String>
         <String xml:lang="cs-CZ">Aktuální ID hráče kterého chceš zablokovat</String>
         <String xml:lang="it-IT">L'id attuale del giocatore che vuoi bloccare.</String>
@@ -848,8 +790,6 @@
         <String xml:lang="nl-NL">De gespecificeerde speler is al geblokkeerd. Gebruik /unblock om een speler te deblokkeren.</String>
         <String xml:lang="fr-FR">Le joueur indiqué est déjà bloqué. Utilise /unblock pour débloquer un joueur.</String>
         <String xml:lang="hi-Latn">Ye player pehle se hi blocked hain. Use kare /unblock kisi player ko unblock karne ke liye.</String>
-        <String xml:lang="es-ES">El jugador especificado ya está bloqueado. Utiliza /unblock para desbloquear a un jugador.</String>
-        <String xml:lang="pt-BR">O jogador especificado já está bloqueado. Use /unblock para desbloquear um jogador.</String>
         <String xml:lang="de-DE">Der angegebene Spieler wurde bereits blockiert. Verwende /unblock um einen Spieler freizugeben.</String>
         <String xml:lang="cs-CZ">Zadaný hráč je již zablokován. Pro odblokování hráče použij příkaz /unblock.</String>
         <String xml:lang="it-IT">Il giocatore specificato è già bloccato. Usa /unblock per sbloccare un giocatore.</String>
@@ -857,15 +797,12 @@
         <String xml:lang="lv-LV">Norādītais spēlētājs jau ir bloķēts. Izmantojiet /unblock lai atbloķētu spēlētāju.</String>
     </Entry>
 
-    <!-- {0} = player name -->
     <Entry Id="block_cmd_success">
         <String xml:lang="en-US">You have blocked {0}. Manage your block list in M &gt; Help &gt; Blocked players.</String>
         <String xml:lang="nl-NL">Je hebt {0} geblokkeerd. Beheer je blokkeerlijst in M &gt; Help &gt; Geblokkeerde spelers.</String>
         <String xml:lang="fr-FR">Tu as bloqué {0}. Gère ta liste de blocage dans M &gt; Aide &gt; Joueurs bloqués.</String>
         <String xml:lang="hi-Latn">Aapne block kiya hai {0}. Manage kare apni block list in M &gt; Help &gt; Blocked players.</String>
-        <String xml:lang="es-ES">Has bloqueado a {0}. Gestiona tu lista de bloqueados en M &gt; Ayuda &gt; Jugadores bloqueados.</String>
-        <String xml:lang="pt-BR">Você bloqueou {0}. Gerencie sua lista de bloqueados em M &gt; Ajuda &gt; Jogadores bloqueados</String>
-        <String xml:lang="de-DE">Du hast {0} blockiert. v</String>d
+        <String xml:lang="de-DE">Du hast {0} blockiert. v</String>
         <String xml:lang="cs-CZ">Zablokoval jsi {0}. Spravuj zablokované hráče přes M &gt; Pomoc &gt; Zablokovaní hráči.</String>
         <String xml:lang="it-IT">Hai bloccato {0}. Gestisci la tua lista di blocco in M &gt; Aiuto &gt; Giocatori bloccati.</String>
         <String xml:lang="id-ID">Kamu telah memblokir {0}. Kelola daftar blokir anda di M&gt; Bantuan&gt; Pemain yang di blokir.</String>
@@ -877,8 +814,6 @@
         <String xml:lang="nl-NL">Deblokkeert een speler.</String>
         <String xml:lang="fr-FR">Débloquer un joueur.</String>
         <String xml:lang="hi-Latn">Unblock karta hai ek player ko.</String>
-        <String xml:lang="es-ES">Desbloquea un jugador.</String>
-        <String xml:lang="pt-BR">Desbloquear um jogador.</String>
         <String xml:lang="de-DE">Gibt einen Spieler frei.</String>
         <String xml:lang="cs-CZ">Odblokuje hráče.</String>
         <String xml:lang="it-IT">Sblocca un giocatore.</String>
@@ -891,8 +826,6 @@
         <String xml:lang="nl-NL">Huidige id van de speler die je wilt deblokkeren.</String>
         <String xml:lang="fr-FR">L'ID actuel du joueur que tu souhaites débloquer.</String>
         <String xml:lang="hi-Latn">Us player ki current id jise aap unblock karna chahte hain.</String>
-        <String xml:lang="es-ES">El id actual del jugador que quieres desbloquear.</String>
-        <String xml:lang="pt-BR">O ID atual do jogador que você deseja desbloquear.</String>
         <String xml:lang="de-DE">Die aktuelle ID des Spielers, den du freigeben willst.</String>
         <String xml:lang="cs-CZ">Aktuální ID hráče kterého chceš odblokovat</String>
         <String xml:lang="it-IT">L'id attuale del giocatore che vuoi sbloccare.</String>
@@ -905,8 +838,6 @@
         <String xml:lang="nl-NL">De gespecificeerde speler is niet geblokkeerd.</String>
         <String xml:lang="fr-FR">Le joueur spécifié n'est pas bloqué.</String>
         <String xml:lang="hi-Latn">Ye player blocked nahi hain.</String>
-        <String xml:lang="es-ES">El jugador indicado no está bloqueado.</String>
-        <String xml:lang="pt-BR">O jogador indicado não está bloqueado.</String>
         <String xml:lang="de-DE">Der angegebene Spieler ist nicht blockiert.</String>
         <String xml:lang="cs-CZ">Hráč s tímto ID není blokovaný.</String>
         <String xml:lang="it-IT">Il giocatore specificato non è bloccato.</String>
@@ -914,14 +845,11 @@
         <String xml:lang="lv-LV">Norādīts spēlētājs nav bloķēts.</String>
     </Entry>
 
-    <!-- {0} = player name -->
     <Entry Id="unblock_cmd_success">
         <String xml:lang="en-US">You have unblocked {0}. Manage your block list in M &gt; Help &gt; Blocked players.</String>
         <String xml:lang="nl-NL">Je hebt {0} gedeblokkeerd. Beheer je blokkeerlijst in M &gt; Help &gt; Geblokkeerde spelers.</String>
         <String xml:lang="fr-FR">Tu as débloqué {0}. Gère ta liste de blocage dans M &gt; Aide &gt; Joueurs bloqués.</String>
         <String xml:lang="hi-Latn">Aapne unblock kiya {0}. Manage kare apni block list in M &gt; Help &gt; Blocked players.</String>
-        <String xml:lang="es-ES">Has desbloqueado a {0}. Gestiona tu lista de bloqueados en M &gt; Ayuda &gt; Jugadores bloqueados.</String>
-        <String xml:lang="pt-BR">Você desbloqueou {0}. Gerencie sua lista de bloqueados em M &gt; Ajuda &gt; Jogadores bloqueados.</String>
         <String xml:lang="de-DE">Du hast {0} freigegeben. Verwalte deine Block-List über M &gt; Hilfe &gt; Blockierte Spieler.</String>
         <String xml:lang="cs-CZ">Odblokoval jsi{0}. Spravuj zablokované hráče přes M &gt; Pomoc &gt; Zablokovaní hráči.</String>
         <String xml:lang="it-IT">Hai sbloccato {0}. Gestisci la tua lista di giocatori bloccati in M &gt; Aiuto &gt; Giocatori bloccati.</String>
@@ -929,26 +857,20 @@
         <String xml:lang="lv-LV">Jūs east abloķējusi {0}. Pārvaldiet savu bloķēto spēlētāju sarakstu: M &gt; Palīdzība &gt; Bloķētie spēlētāji.</String>
     </Entry>
 
-    <!-- {0} = command + parameters -->
-    <!-- Example: Usage: /block [player id] -->
     <Entry Id="cmd_usage">
         <String xml:lang="en-US">Usage: {0}</String>
         <String xml:lang="nl-NL">Gebruik: {0}</String>
         <String xml:lang="fr-FR">Utilisation: {0}</String>
-        <String xml:lang="de-DE">Verwende: {0}</String>
         <String xml:lang="hi-Latn">Usage: {0}</String>
-        <String xml:lang="es-ES">Utiliza: {0}</String>
-        <String xml:lang="pt-BR">Usar: {0}</String>
+        <String xml:lang="de-DE">Verwende: {0}</String>
         <String xml:lang="cs-CZ">Použití: {0}</String>
         <String xml:lang="it-IT">Uso: {0}</String>
         <String xml:lang="id-ID">Penggunaan: {0}</String>
         <String xml:lang="lv-LV">Lietošana: {0}</String>
     </Entry>
 
-    <!-- {0} = the id of the player -->
     <Entry Id="cmd_player_not_connected">
         <String xml:lang="en-US">Player id {0} is not connected.</String>
-        <String xml:lang="hi-Latn">Player id {0} connected nahi hai.</String>
         <String xml:lang="nl-NL">Speler ID {0} is niet verbonden.</String>
         <String xml:lang="de-DE">Spieler-ID {0} ist nicht verbunden.</String>
         <String xml:lang="fr-FR">Le joueur avec l'ID {0} n'est pas connecté.</String>
@@ -965,13 +887,8 @@
         <String xml:lang="it-IT">L'ID del giocatore deve essere un numero.</String>
         <String xml:lang="id-ID">Id pemain harus berupa angka.</String>
         <String xml:lang="lv-LV">Spēlētāja ID ir jābut skaitlim.</String>
-        <String xml:lang="hi-Latn">Player id ek number hona chahiye.</String>
     </Entry>
 
-    <!-- 
-    This is shown when a command can't be done on yourself, 
-    for example, typing "/party-invite 25" while you yourself are id 25 
-    -->
     <Entry Id="cmd_player_self">
         <String xml:lang="en-US">The target player can't be yourself.</String>
         <String xml:lang="nl-NL">De speler waarop je deze opdracht wilt uitvoeren kan niet jezelf zijn.</String>
@@ -980,7 +897,6 @@
         <String xml:lang="it-IT">Il giocatore bersagliato non può essere te stesso.</String>
         <String xml:lang="id-ID">Anda tidak bisa menargetkan diri sendiri.</String>
         <String xml:lang="lv-LV">Merķa spēlētājs nevar būt jūs pats.</String>
-        <String xml:lang="hi-Latn">Aap khud hi target player nahi ho sakte.</String>
     </Entry>
 
     <Entry Id="input_enter_id">
@@ -988,8 +904,6 @@
         <String xml:lang="nl-NL">Voer het id van de speler in.</String>
         <String xml:lang="fr-FR">Saisir l'ID du joueur.</String>
         <String xml:lang="hi-Latn">Enter kare player ki id.</String>
-        <String xml:lang="es-ES">Introduce el id del jugador.</String>
-        <String xml:lang="pt-BR">Digite o ID do jogador.</String>
         <String xml:lang="de-DE">Gib die ID des Spielers ein.</String>
         <String xml:lang="cs-CZ">Zadej ID hráče</String>
         <String xml:lang="it-IT">Inserisci l'ID del giocatore.</String>
@@ -1005,7 +919,6 @@
         <String xml:lang="it-IT">Crea una party: un gruppo temporaneo di persone. I membri dello stesso party possono comunicare su un canale radio dedicato, vedersi sulla mappa a grandi distanze e vedere i marker di ping degli altri. Inoltre, alcuni crimini minori e vendette tra loro sono disabilitati.</String>
         <String xml:lang="id-ID">Buat party: grup sementara. Anggota dari grup tersebut dapat saling berkomunikasi dengan chanel radio khusus, melihat satu sama lain di map walau jarak jauh, dapat melihat penanda satu dengan lainnya. Selain itu, sebagian kejahatan kecil dan dendam sesama anggota grup ditiadakan.</String>
         <String xml:lang="lv-LV">Izveido komandu: pagaidu cilvēku grupu. Vienas un tās pašas komandas dalībnieki var sazināties pa īpašu radio kanālu, redzēt viens otry kartē uz lieliem attālumiem, un redzēt citu dalībnieku ping marķierus. Papildus tam, daži sīkāki noziegumi un atriebība starp viņiem ir atslēgti.</String>
-        <String xml:lang="hi-Latn">Ek party banata hai: ek temporary logon ka group. Ek hi party ke members ek dedicated radio channel par baat kar sakte hain, door se map par ek-dusre ko dekh sakte hain, aur ek-dusre ke ping markers dekh sakte hain. Iske alawa, kuch chote-mote crimes aur revenge wagera disable ho jata hai.</String>
     </Entry>
 
     <Entry Id="party_invite_desc">
@@ -1016,7 +929,6 @@
         <String xml:lang="it-IT">Invita un giocatore nel tuo party.</String>
         <String xml:lang="id-ID">Undang pemain untuk bergabung dengan partymu.</String>
         <String xml:lang="lv-LV">Uzaicina spēlētāju pievienoties jūsu komandai.</String>
-        <String xml:lang="hi-Latn">Ek player ko aapki party mein bulata hai.</String>
     </Entry>
 
     <Entry Id="party_invite_param_player_desc">
@@ -1027,7 +939,6 @@
         <String xml:lang="it-IT">L'ID del giocatore che vuoi invitare.</String>
         <String xml:lang="id-ID">Id dari pemain yang akan kamu undang.</String>
         <String xml:lang="lv-LV">Spēlētāja ID, kuru jūs gribat uzaicināt.</String>
-        <String xml:lang="hi-Latn">Woh player id jise aap invite karna chahte hain.</String>
     </Entry>
 
     <Entry Id="party_join_desc">
@@ -1038,7 +949,6 @@
         <String xml:lang="it-IT">Richiedi di unirti a un party di un giocatore.</String>
         <String xml:lang="id-ID">Permintaan untuk bergabung dengan party pemain lain.</String>
         <String xml:lang="lv-LV">Pieprasa pievienoties spēlētāja komandai.</String>
-        <String xml:lang="hi-Latn">Ek player ki party join karne ki request bhejta hai.</String>
     </Entry>
 
     <Entry Id="party_join_param_player_desc">
@@ -1049,7 +959,6 @@
         <String xml:lang="it-IT">L'ID del giocatore del party al quale vuoi unirti.</String>
         <String xml:lang="id-ID">Id dari pemain yang partnya mau kamu ikuti.</String>
         <String xml:lang="lv-LV">Spēlētāja ID, kura komandai vēlaties pievienoties.</String>
-        <String xml:lang="hi-Latn">Woh player id jiski party aap join karna chahte hain.</String>
     </Entry>
 
     <Entry Id="party_leave_desc">
@@ -1060,7 +969,6 @@
         <String xml:lang="it-IT">Esci dal party attuale.</String>
         <String xml:lang="id-ID">Tinggalkan party saat ini.</String>
         <String xml:lang="lv-LV">Pametis jūsu pašreizējo komandu.</String>
-        <String xml:lang="hi-Latn">Aapki current party se leave karta hai.</String>
     </Entry>
 
     <Entry Id="party_kick_desc">
@@ -1071,7 +979,6 @@
         <String xml:lang="it-IT">Rimuovi un giocatore dal tuo party. Devi essere il leader del party per usare questo comando.</String>
         <String xml:lang="id-ID">Keluarkan pemain dari partymu. Kamu harus menjadi Ketua party untuk menggunakan perintah ini.</String>
         <String xml:lang="lv-LV">Noņem spēlētāju no jūsu komandas. Lai izmantotu šo komandu, jums ir jābut komandas līderim.</String>
-        <String xml:lang="hi-Latn">Ek player ko aapki party se nikalta hai. Iss command ko use karne ke liye aapko party leader hona zaroori hai.</String>
     </Entry>
 
     <Entry Id="party_kick_param_player_desc">
@@ -1082,7 +989,6 @@
         <String xml:lang="it-IT">L'ID del giocatore da espellere dal tuo party.</String>
         <String xml:lang="id-ID">Id player yang akan kamu keluarkan dari partymu.</String>
         <String xml:lang="lv-LV">Spēlētāja ID, kuru vēlaties noņemt no jūsu komandas.</String>
-        <String xml:lang="hi-Latn">Woh player id jise aap apni party se nikalna chahte hain.</String>
     </Entry>
 
     <Entry Id="party_list_desc">
@@ -1091,8 +997,6 @@
         <String xml:lang="fr-FR">Liste tous les membres de ton groupe, y compris le chef actuel.</String>
         <String xml:lang="lv-LV">Rāda visus jūsu komandas locekļus, tostarp pašreizējo līderi.</String>
         <String xml:lang="de-DE">Listet alle Mitglieder deiner Party, inklusive den aktuellen Partyleiter.</String>
-        <String xml:lang="it-IT">Elenca tutti i membri del tuo party, inclusi il leader attuale.</String>
-        <String xml:lang="hi-Latn">Aapki party ke sabhi members ki list dikhata hai, current leader ke saath.</String>
     </Entry>
 
     <Entry Id="party_leader_desc">
@@ -1101,16 +1005,14 @@
         <String xml:lang="fr-FR">Transfère la direction du groupe à un autre joueur. Tu dois être le chef du groupe pour utiliser cette commande.</String>
         <String xml:lang="lv-LV">Nodod komandas vadību citam spēlētājam. Lai izmantotu šo komandu, jums ir jābut komandas līderim.</String>
         <String xml:lang="de-DE">Übertrage die Leitung der Party an einen anderen Spieler. Du musst der Partyleiter sein, um diesen Befehl auszuführen.</String>
-        <String xml:lang="hi-Latn">Party leadership kisi aur player ko transfer karta hai. Iss command ka use karne ke liye aapko party leader hona zaroori hai.</String>
     </Entry>
 
     <Entry Id="party_leader_param_player_desc">
         <String xml:lang="en-US">The id of the player to whom you want to transfer leadership.</String>
+        <String xml:lang="de-DE">Die ID des Spielers, an welchen du die Leitung der Party übertragen willst.</String>
         <String xml:lang="nl-NL">Het ID van de speler aan wie je het party-leiderschap wilt overdragen.</String>
         <String xml:lang="fr-FR">L'ID du joueur à qui tu souhaites transférer la direction.</String>
         <String xml:lang="lv-LV">Spēlētāja ID, kuram vēlaties nodot komandas vadību.</String>
-        <String xml:lang="de-DE">Die ID des Spielers, an welchen du die Leitung der Party übertragen willst.</String>
-        <String xml:lang="hi-Latn">Woh player id jise aap leadership transfer karna chahte hain.</String>
     </Entry>
 
     <Entry Id="party_create_already_in">
@@ -1121,7 +1023,6 @@
         <String xml:lang="it-IT">Sei già in un party. Esci dal party attuale prima di crearne uno nuovo.</String>
         <String xml:lang="id-ID">Kamu sudah berada di party. Tinggalkan partymu saat ini sebelum membuat yang baru.</String>
         <String xml:lang="lv-LV">Jūs jau esat komandā. Izstājieties no esošās komandas pirms jaunas izveidošanas.</String>
-        <String xml:lang="hi-Latn">Aap pehle se hi ek party mein hain. New party banane se pehle current party leave kariye.</String>
     </Entry>
 
     <Entry Id="party_create_success">
@@ -1132,7 +1033,6 @@
         <String xml:lang="it-IT">Hai creato un party. Usa /party-invite per invitare i giocatori.</String>
         <String xml:lang="id-ID">Kamu telah membuat party. Gunakan /party-invite untuk mengundang pemain lain.</String>
         <String xml:lang="lv-LV">Jūs izveidojat komandu. Izmantojiet /party-invite lai uzaicinātu spēlētājus.</String>
-        <String xml:lang="hi-Latn">Aapne ek party banayi hai. Players ko invite karne ke liye /party-invite ka use karein.</String>
     </Entry>
 
     <Entry Id="party_join_already_in">
@@ -1143,7 +1043,6 @@
         <String xml:lang="it-IT">Sei già in un party. Esci dal party attuale prima di poter richiedere di unirti a un'altro.</String>
         <String xml:lang="id-ID">Kamu sudah berada di dalam party. Tinggalkan party saat ini sebelum meminta bergabung dengan party lain.</String>
         <String xml:lang="lv-LV">Jūs jau esat komandā. Izstājieties no esošās komandas pirms pieprasāt pievienoties citai.</String>
-        <String xml:lang="hi-Latn">Aap pehle se hi ek party mein hain. New party join karne ke liye pehle current party leave kariye.</String>
     </Entry>
 
     <Entry Id="party_join_cooldown">
@@ -1154,10 +1053,8 @@
         <String xml:lang="it-IT">Attendi prima di richiedere nuovamente di unirti a un party.</String>
         <String xml:lang="id-ID">Mohon tunggu sebelum meminta untuk bergabung dengan party lagi.</String>
         <String xml:lang="lv-LV">Lūdzu, uzgaidiet, pirms atkārtoti pieprasāt pievienoties komandai.</String>
-        <String xml:lang="hi-Latn">Please wait karein dubara party join request bhejne se pehle.</String>
     </Entry>
 
-    <!-- {0} = name and id of the target player -->
     <Entry Id="party_target_not_in_party">
         <String xml:lang="en-US">{0} is not in a party.</String>
         <String xml:lang="nl-NL">{0} zit niet in een party.</String>
@@ -1166,10 +1063,8 @@
         <String xml:lang="it-IT">{0} non è in un party.</String>
         <String xml:lang="id-ID">{0} tidak berada didalam party.</String>
         <String xml:lang="lv-LV">{0} nav komandā.</String>
-        <String xml:lang="hi-Latn">{0} kisi party mein nahi hai.</String>
     </Entry>
 
-    <!-- {0} = name and id of the party leader -->
     <Entry Id="party_join_leader_not_connected">
         <String xml:lang="en-US">Party leader {0} is not connected.</String>
         <String xml:lang="nl-NL">Party-leider {0} is niet verbonden.</String>
@@ -1178,10 +1073,8 @@
         <String xml:lang="it-IT">Il leader del party {0} non è connesso.</String>
         <String xml:lang="id-ID">Ketua party {0} sedang tidak online.</String>
         <String xml:lang="lv-LV">Komandas līderis {0} nav pieslēgts.</String>
-        <String xml:lang="hi-Latn">Party leader {0} connected nahi hai.</String>
     </Entry>
 
-    <!-- {0} = name and id of the party leader -->
     <Entry Id="party_joined">
         <String xml:lang="en-US">You have joined {0}'s party.</String>
         <String xml:lang="nl-NL">Je hebt je aangesloten bij de party van {0}.</String>
@@ -1190,10 +1083,8 @@
         <String xml:lang="it-IT">Ti sei unito al party di {0}.</String>
         <String xml:lang="id-ID">Kamu bergabung dengan party {0}.</String>
         <String xml:lang="lv-LV">Jūs pievienojāties {0} komandai.</String>
-        <String xml:lang="hi-Latn">Aap join kare {0} ki party.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player who joined the party -->
     <Entry Id="party_player_joined">
         <String xml:lang="en-US">{0} has joined your party.</String>
         <String xml:lang="nl-NL">{0} heeft zich aangesloten bij je party.</String>
@@ -1202,11 +1093,8 @@
         <String xml:lang="it-IT">{0} si è unito al tuo party.</String>
         <String xml:lang="id-ID">{0} telah bergabung ke party.</String>
         <String xml:lang="lv-LV">{0} ir pievienojies jūsu komandai.</String>
-        <String xml:lang="hi-Latn">{0} ne aapki party join ki hai.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player who wants to join the party -->
-    <!-- {1} = just the id -->
     <Entry Id="party_join_request_incoming">
         <String xml:lang="en-US">{0} wants to join your ~y~party~s~. Type ~b~/party-invite {1} ~s~to accept.</String>
         <String xml:lang="nl-NL">{0} wil zich aansluiten bij je ~y~party~s~. Typ ~b~/party-invite {1} ~s~om het verzoek te accepteren.</String>
@@ -1215,11 +1103,8 @@
         <String xml:lang="it-IT">{0} vuole unirsi al tuo ~y~party~s~. Digita ~b~/party-invite {1} ~s~per accettare.</String>
         <String xml:lang="id-ID">{0} ingin bergaunb dengan ~y~partymu~s~. Ketika ~b~/party-invite {1} ~s~untuk menerima.</String>
         <String xml:lang="lv-LV">{0} vēlas pievienoties jūsu ~y~komandai~s~. Ierakstiet ~b~/party-invite {1} ~s~lai pieņemtu.</String>
-        <String xml:lang="hi-Latn">{0} aapki ~y~party~s~ join karna chahta hai. Accept karne ke liye ~b~/party-invite {1} ~s~type karein.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player whose party you requested to join -->
-    <!-- {1} = string id "party_join_requested_leader", only added if the member you entered is not the party leader -->
     <Entry Id="party_join_requested">
         <String xml:lang="en-US">You have requested to join {0}'s party. {1}</String>
         <String xml:lang="nl-NL">Je hebt een verzoek ingediend om lid te worden van {0}'s party. {1}</String>
@@ -1228,7 +1113,6 @@
         <String xml:lang="it-IT">Hai richiesto di unirti al party di {0}. {1}</String>
         <String xml:lang="id-ID">Anda telah meminta untuk bergabung dengan party {0}. {1}</String>
         <String xml:lang="lv-LV">Jūs esat pieprasījusi pievienoties {0} komandai. {1}</String>
-        <String xml:lang="hi-Latn">Aapne {0} ki party join karne ki request bheji hai. {1}</String>
     </Entry>
 
     <Entry Id="party_join_requested_leader">
@@ -1239,7 +1123,6 @@
         <String xml:lang="it-IT">Il leader del party {0} dovrà accettare la richiesta.</String>
         <String xml:lang="id-ID">Ketua party {0} harus menerima permintaan.</String>
         <String xml:lang="lv-LV">Partijas līderim {0} būs jāpieņem jūsu pieprasījums.</String>
-        <String xml:lang="hi-Latn">Party leader {0} ko request accept karni hogi.</String>
     </Entry>
 
     <Entry Id="party_not_in_party">
@@ -1250,7 +1133,6 @@
         <String xml:lang="it-IT">Non sei in un party.</String>
         <String xml:lang="id-ID">Kamu berlum bergabung di party.</String>
         <String xml:lang="lv-LV">Jūs neesat komandā.</String>
-        <String xml:lang="hi-Latn">Aap kisi party mein nahi hain.</String>
     </Entry>
 
     <Entry Id="party_not_leader">
@@ -1261,10 +1143,8 @@
         <String xml:lang="it-IT">Non sei il leader del party.</String>
         <String xml:lang="id-ID">Kamu bukan ketua party.</String>
         <String xml:lang="lv-LV">Jūs neesat komandas līderis.</String>
-        <String xml:lang="hi-Latn">Aap party ke leader nahi hain.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player -->
     <Entry Id="party_invite_target_already_in_party">
         <String xml:lang="en-US">{0} is already in a party.</String>
         <String xml:lang="nl-NL">{0} zit al in een party.</String>
@@ -1273,10 +1153,8 @@
         <String xml:lang="it-IT">{0} è già in un party.</String>
         <String xml:lang="id-ID">{0} sudah bergabung dengan party.</String>
         <String xml:lang="lv-LV">{0} jau atrodas komandā.</String>
-        <String xml:lang="hi-Latn">{0} pehle se hi ek party mein hain.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player -->
     <Entry Id="party_invite_request_incoming">
         <String xml:lang="en-US">{0} has invited you to join their ~y~party~s~. Type ~b~/party-join {1} ~s~to accept.</String>
         <String xml:lang="nl-NL">{0} heeft je uitgenodigd om lid te worden van hun ~y~party~s~. Typ ~b~/party-join {1} ~s~om de uitnodiging te accepteren.</String>
@@ -1285,10 +1163,8 @@
         <String xml:lang="it-IT">{0} ti ha invitato a unirti al loro ~y~party~s~. Digita ~b~/party-join {1} ~s~per accettare.</String>
         <String xml:lang="id-ID">{0} mengundangmu untuk bergabung ~y~partynya~s~. Ketika ~b~/party-join {1} ~s~untuk menerima undangan.</String>
         <String xml:lang="lv-LV">{0} uzaicināja jūs pievienoties viņa ~y~komandai~s~. Ierakstiet ~b~/party-join {1} ~s~lai pieņemtu.</String>
-        <String xml:lang="hi-Latn">{0} ne aapko apni ~y~party~s~ join karne ka invitation diya hai. Accept karne ke liye ~b~/party-join {1} ~s~type karein.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player -->
     <Entry Id="party_invite_sent">
         <String xml:lang="en-US">You have invited {0} to join your party.</String>
         <String xml:lang="nl-NL">Je hebt {0} uitgenodigd om lid te worden van je party.</String>
@@ -1297,7 +1173,6 @@
         <String xml:lang="it-IT">Hai invitato {0} a unirsi al tuo party.</String>
         <String xml:lang="id-ID">Kamu telah mengundang {0} untuk bergabung dengan partymu.</String>
         <String xml:lang="lv-LV">Jūs uzaicinājat {0} savā komandā.</String>
-        <String xml:lang="hi-Latn">Aapne {0} ko apni party join karne ke liye invite kiya hai.</String>
     </Entry>
 
     <Entry Id="party_left">
@@ -1308,11 +1183,8 @@
         <String xml:lang="it-IT">Hai lasciato il party.</String>
         <String xml:lang="id-ID">Kamu telah meninggalkan party.</String>
         <String xml:lang="lv-LV">Jūs esat pametis savu komandu.</String>
-        <String xml:lang="hi-Latn">Aapne party left kardi.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player -->
-    <!-- {1} = possible party_leader_you/party_leader_x added if the leader left -->
     <Entry Id="party_player_left">
         <String xml:lang="en-US">{0} has left your party. {1}</String>
         <String xml:lang="nl-NL">{0} heeft de party verlaten. {1}</String>
@@ -1321,7 +1193,6 @@
         <String xml:lang="it-IT">{0} ha lasciato il tuo party. {1}</String>
         <String xml:lang="id-ID">{0} Telah meninggalkan partymu. {1}</String>
         <String xml:lang="lv-LV">{0} pameta jūsu komandu. {1}</String>
-        <String xml:lang="hi-Latn">{0} ne aapki party left kardi. {1}</String>
     </Entry>
 
     <Entry Id="party_got_kicked">
@@ -1332,10 +1203,8 @@
         <String xml:lang="it-IT">Sei stato espulso dal party.</String>
         <String xml:lang="id-ID">Kamu telah dikeluarkan dari party.</String>
         <String xml:lang="lv-LV">Jūs tikāt noņemts no komandas.</String>
-        <String xml:lang="hi-Latn">Aapko party se nikaal diya gaya hai.</String>
     </Entry>
 
-    <!-- {0} = name and id of the player -->
     <Entry Id="party_player_got_kicked">
         <String xml:lang="en-US">{0} has been kicked from your party.</String>
         <String xml:lang="nl-NL">{0} is uit je party getrapt.</String>
@@ -1344,7 +1213,6 @@
         <String xml:lang="it-IT">{0} è stato espulso dal tuo party.</String>
         <String xml:lang="id-ID">{0} telah dikeluar dari partymu.</String>
         <String xml:lang="lv-LV">{0} tika noņemts no jūsu komandas.</String>
-        <String xml:lang="hi-Latn">{0} ko aapki party se nikaal diya gaya hai.</String>
     </Entry>
 
     <Entry Id="party_leader_you">
@@ -1355,7 +1223,6 @@
         <String xml:lang="it-IT">Ora sei il leader del party.</String>
         <String xml:lang="id-ID">Kamu sekarang menjadi ketua party.</String>
         <String xml:lang="lv-LV">Tagad jūs esat komandas līderis.</String>
-        <String xml:lang="hi-Latn">Ab aap leader hain.</String>
     </Entry>
 
     <Entry Id="party_leader_x">
@@ -1366,7 +1233,6 @@
         <String xml:lang="it-IT">{0} è ora il leader del party.</String>
         <String xml:lang="id-ID">{0} telah menjadi ketua party.</String>
         <String xml:lang="lv-LV">{0} tagad ir komandas līderis.</String>
-        <String xml:lang="hi-Latn">{0} ab leader hain.</String>
     </Entry>
 
     <Entry Id="party_no_other_members">
@@ -1376,7 +1242,6 @@
         <String xml:lang="fr-FR">Il n'y a pas d'autres membres dans le groupe.</String>
         <String xml:lang="de-DE">Es gibt keine anderen Party-Mitglieder</String>
         <String xml:lang="lv-LV">Nav citu komandas biedru.</String>
-        <String xml:lang="hi-Latn">Koi aur party member nahi hai.</String>
     </Entry>
 
     <Entry Id="party_sendgps_desc">
@@ -1386,7 +1251,6 @@
         <String xml:lang="fr-FR">Envoie ta position GPS aux autres membres du groupe.</String>
         <String xml:lang="de-DE">Sende deine GPS-Position zu anderen Party-Mitgliedern.</String>
         <String xml:lang="lv-LV">Nosūta jūsu GPS lokāciju citiem komandas biedriem.</String>
-        <String xml:lang="hi-Latn">Aapki GPS location ko dusre party members ko bhejta hai.</String>
     </Entry>
 
     <Entry Id="party_sendwaypoint_desc">
@@ -1396,10 +1260,8 @@
         <String xml:lang="fr-FR">Envoie ton point de repère aux autres membres du groupe.</String>
         <String xml:lang="de-DE">Sende deinen Wegpunkt an andere Party-Mitglieder.</String>
         <String xml:lang="lv-LV">Nosūta jūsu waypoint citiem komandas biedriem.</String>
-        <String xml:lang="hi-Latn">Aapka waypoint dusre party members ko bhejta hai.</String>
     </Entry>
 
-    <!-- For bottom-left info boxes (timers etc..) (all upper case please)-->
     <Entry Id="mission_time_left">
         <String xml:lang="en-US">TIME LEFT</String>
         <String xml:lang="nl-NL">RESTERENDE TIJD</String>
@@ -1408,7 +1270,6 @@
         <String xml:lang="it-IT">TEMPO RIMANENTE</String>
         <String xml:lang="de-DE">ZEIT VERBLEIBEND</String>
         <String xml:lang="lv-LV">ATLIKUŠAIS LAIKS</String>
-        <String xml:lang="hi-Latn">BACHA HUA TIME</String>
     </Entry>
 
     <Entry Id="mission_late">
@@ -1419,7 +1280,6 @@
         <String xml:lang="it-IT">IN RITARDO</String>
         <String xml:lang="de-DE">ZU SPÄT</String>
         <String xml:lang="lv-LV">PA VĒLU</String>
-        <String xml:lang="hi-Latn">LATE</String>
     </Entry>
 
     <Entry Id="mission_payout">
@@ -1430,7 +1290,6 @@
         <String xml:lang="it-IT">GUADAGNO</String>
         <String xml:lang="de-DE">AUSZAHLUNG</String>
         <String xml:lang="lv-LV">IZMAKSA</String>
-        <String xml:lang="hi-Latn">PAYOUT</String>
     </Entry>
 
     <Entry Id="menu_playerlist_title">
@@ -1441,7 +1300,6 @@
         <String xml:lang="it-IT">Giocatori</String>
         <String xml:lang="de-DE">Spieler</String>
         <String xml:lang="lv-LV">Spēlētāji</String>
-        <String xml:lang="hi-Latn">Players</String>
     </Entry>
 
     <Entry Id="menu_playerlist_no_players_text">
@@ -1452,7 +1310,6 @@
         <String xml:lang="it-IT">Nessun giocatore trovato</String>
         <String xml:lang="de-DE">Keine Spieler gefunden</String>
         <String xml:lang="lv-LV">Nav atrasts neviens spēlētājs</String>
-        <String xml:lang="hi-Latn">Koi player nahi mile</String>
     </Entry>
 
     <Entry Id="menu_playerlist_no_players_description">
@@ -1463,7 +1320,6 @@
         <String xml:lang="it-IT">Non ci sono giocatori disponibili.</String>
         <String xml:lang="de-DE">Es sind keine Spieler verfügbar.</String>
         <String xml:lang="lv-LV">Nav pieejams neviens spēlētājs.</String>
-        <String xml:lang="hi-Latn">Koi player available nahi hai.</String>
     </Entry>
 
     <Entry Id="cleargps_desc">
@@ -1473,7 +1329,6 @@
         <String xml:lang="fr-FR">Retire la destination GPS.</String>
         <String xml:lang="de-DE">Setzt das GPS-Ziel zurück.</String>
         <String xml:lang="lv-LV">Notīra GPS galamērķi.</String>
-        <String xml:lang="hi-Latn">GPS destination clear karta hai.</String>
     </Entry>
 
     <Entry Id="cleargps_active_mission">
@@ -1483,7 +1338,6 @@
         <String xml:lang="fr-FR">Une mission en cours empêche le retrait de la destination GPS.</String>
         <String xml:lang="de-DE">Eine laufende Mission verhindert das Löschen des GPS-Ziels.</String>
         <String xml:lang="lv-LV">Aktīva misija neļauj iztirīt GPS galamērķi.</String>
-        <String xml:lang="hi-Latn">Ek active mission GPS ki destination clear karne se rok rahi hai.</String>
     </Entry>
 
     <Entry Id="cleargps_success">
@@ -1493,7 +1347,6 @@
         <String xml:lang="fr-FR">La destination GPS a été retirée.</String>
         <String xml:lang="de-DE">Das GPS-Ziel wurde gelöscht.</String>
         <String xml:lang="lv-LV">GPS galamērķis tika notīrīts.</String>
-        <String xml:lang="hi-Latn">GPS destination clear ho gayi.</String>
     </Entry>
 
     <Entry Id="cleargps_not_set">
@@ -1503,7 +1356,6 @@
         <String xml:lang="fr-FR">Le GPS n'est pas activé.</String>
         <String xml:lang="de-DE">Kein GPS gesetzt.</String>
         <String xml:lang="lv-LV">GPS nav iestatīts.</String>
-        <String xml:lang="hi-Latn">GPS set nahi hai.</String>
     </Entry>
 
     <Entry Id="sendgps_desc">
@@ -1513,7 +1365,6 @@
         <String xml:lang="fr-FR">Envoie ta position GPS à un autre joueur.</String>
         <String xml:lang="de-DE">Sende deine GPS-Position an einen anderen Spieler.</String>
         <String xml:lang="lv-LV">Nosūta jūsu GPS lokāciju citam spēlētājam.</String>
-        <String xml:lang="hi-Latn">Aapki GPS location dusre player ko bhejta hai.</String>
     </Entry>
 
     <Entry Id="sendgps_param_player_desc">
@@ -1523,7 +1374,6 @@
         <String xml:lang="fr-FR">Le joueur avec lequel tu souhaites partager ta position.</String>
         <String xml:lang="de-DE">Der Spieler, mit dem du deine Position teilen willst.</String>
         <String xml:lang="lv-LV">Spēlētājs, kuram jūs gribat nosūtīt savu lokāciju.</String>
-        <String xml:lang="hi-Latn">Player jisse aap apni location share karna chahte hain.</String>
     </Entry>
 
     <Entry Id="sendwaypoint_desc">
@@ -1533,7 +1383,6 @@
         <String xml:lang="fr-FR">Envoie ton point de repère à un autre joueur.</String>
         <String xml:lang="de-DE">Sendet deinen Wegpunkt an einen anderen Spieler.</String>
         <String xml:lang="lv-LV">Nosūta jūsu waypoint citam spēlētājam.</String>
-        <String xml:lang="hi-Latn">Aapka waypoint dusre player ko bhejta hai.</String>
     </Entry>
 
     <Entry Id="sendwaypoint_param_player_desc">
@@ -1543,7 +1392,6 @@
         <String xml:lang="fr-FR">Le joueur avec lequel tu souhaites partager ton point de repère.</String>
         <String xml:lang="de-DE">Der Spieler, mit dem du deinen Wegpunkt teilen willst.</String>
         <String xml:lang="lv-LV">Spēlētājs, kuram jūs gribat nosūtīt savu waypoint.</String>
-        <String xml:lang="hi-Latn">Player jisse aap apna waypoint share karna chahte hain.</String>
     </Entry>
 
     <Entry Id="sendwaypoint_not_selected">
@@ -1553,7 +1401,6 @@
         <String xml:lang="fr-FR">Tu dois sélectionner un point de repère sur la carte avant d'envoyer cette commande.</String>
         <String xml:lang="de-DE">Du musst einen Wegpunkt auf der Karte setzen, bevor du diesen Command ausführen kannst.</String>
         <String xml:lang="lv-LV">Pirms šīs komandas lietošanas kartē ir jāizvēlas waypoint.</String>
-        <String xml:lang="hi-Latn">Iss command ko use karne se pehle map par ek waypoint select karna hoga.</String>
     </Entry>
 
     <Entry Id="gps_shared_prompt">
@@ -1563,7 +1410,6 @@
         <String xml:lang="fr-FR">{0} souhaite partager sa position avec toi.</String>
         <String xml:lang="de-DE">{0} will seine Position mit dir teilen.</String>
         <String xml:lang="lv-LV">{0} grib dalīties ar savu pozīciju.</String>
-        <String xml:lang="hi-Latn">{0} apni location aapke saath share karna chahte hain.</String>
     </Entry>
 
     <Entry Id="waypoint_shared_prompt">
@@ -1573,7 +1419,6 @@
         <String xml:lang="fr-FR">{0} souhaite partager son point de repère avec toi.</String>
         <String xml:lang="de-DE">{0} will seinen Wegpunkt mit dir teilen.</String>
         <String xml:lang="lv-LV">{0} grib dalīties ar savu waypoint.</String>
-        <String xml:lang="hi-Latn">{0} apna waypoint aapke saath share karna chahte hain.</String>
     </Entry>
 
     <Entry Id="gps_nobody_received">
@@ -1583,7 +1428,6 @@
         <String xml:lang="fr-FR">~r~Personne ~s~n'a reçu ta ~y~position~s~.</String>
         <String xml:lang="de-DE">~r~Niemand ~s~hat deine ~y~Position~s~ erhalten.</String>
         <String xml:lang="lv-LV">~r~Neviens ~s~nesaņēma jūsu ~y~pozīciju~s~.</String>
-        <String xml:lang="hi-Latn">~r~Kisi ko bhi ~s~aapki ~y~location~s~ nahi mili hai.</String>
     </Entry>
 
     <Entry Id="sendgps_player_received">
@@ -1593,7 +1437,6 @@
         <String xml:lang="fr-FR">Tu as partagé ta ~y~position ~s~avec {0}.</String>
         <String xml:lang="de-DE">Du hast deine ~y~Position ~s~mit {0} geteilt.</String>
         <String xml:lang="lv-LV">Jūs dalījāties ar savu ~y~pozīciju ~s~ar {0}.</String>
-        <String xml:lang="hi-Latn">Aapne apni ~y~location ~s~{0} ke saath share kari.</String>
     </Entry>
 
     <Entry Id="sendwaypoint_player_received">
@@ -1603,7 +1446,6 @@
         <String xml:lang="fr-FR">Tu as partagé ton ~p~point de repère ~s~avec {0}.</String>
         <String xml:lang="de-DE">Du hast deinen ~p~Wegpunkt ~s~mit {0} geteilt."</String>
         <String xml:lang="lv-LV">Jūs dalījāties ar savu ~p~waypoint ~s~ar {0}.</String>
-        <String xml:lang="hi-Latn">Aapne apna ~p~waypoint ~s~{0} ke saath share kiya.</String>
     </Entry>
 
     <Entry Id="sendgps_group_received">
@@ -1613,7 +1455,6 @@
         <String xml:lang="fr-FR">Tu as partagé ta ~y~position ~s~avec ~y~{0} joueurs~s~.</String>
         <String xml:lang="de-DE">Du hast deine ~y~Position ~s~mit ~y~{0} Spielern~s~ geteilt.</String>
         <String xml:lang="lv-LV">Jūs dalījāties ar savu ~y~pozīciju ~s~ar ~y~{0} spēlētājiem~s~.</String>
-        <String xml:lang="hi-Latn">Aapne apni ~y~location ~s~{0} players ke saath share ki.</String>
     </Entry>
 
     <Entry Id="sendwaypoint_group_received">
@@ -1623,7 +1464,6 @@
         <String xml:lang="fr-FR">Tu as partagé ton ~p~point de repère ~s~avec ~y~{0} joueurs~s~.</String>
         <String xml:lang="de-DE">Du hast deinen ~p~Wegpunkt ~s~mit ~y~{0} Spielern~s~ geteilt.</String>
         <String xml:lang="lv-LV">Jūs dalījāties ar savu ~p~waypoint ~s~ar ~y~{0} spēlētājiem~s~.</String>
-        <String xml:lang="hi-Latn">Aapne apna ~p~waypoint ~y~{0} players ~s~ke saath share kiya.</String>
     </Entry>
 
     <Entry Id="gps_ignored">
@@ -1633,7 +1473,6 @@
         <String xml:lang="fr-FR">{0} n'a pas accepté le partage de ta ~r~position~s~.</String>
         <String xml:lang="de-DE">{0} hat deine geteilte ~r~Position~s~ nicht angenommen.</String>
         <String xml:lang="lv-LV">{0} nepieņēma jūsu nosūtīto ~r~pozīciju~s~.</String>
-        <String xml:lang="hi-Latn">{0} ne aapki ~r~location~s~ accept nahi ki.</String>
     </Entry>
 
     <Entry Id="gps_accepted">
@@ -1643,6 +1482,5 @@
         <String xml:lang="fr-FR">{0} a accepté le partage de ta ~y~position~s~!</String>
         <String xml:lang="de-DE">{0} hat deine geteilte ~y~Position~s~ angenommen!</String>
         <String xml:lang="lv-LV">{0} pieņēma jūsu nosūtīto ~y~pozīciju~s~!</String>
-        <String xml:lang="hi-Latn">{0} ne aapki ~y~location~s~ accept ki!</String>
     </Entry>
 </Entries>
