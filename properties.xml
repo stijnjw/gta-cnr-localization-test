@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <Entries>
-
     <Entry Id="warehouse">
         <String xml:lang="en-US">Warehouse</String>
         <String xml:lang="pl-PL">Magazyn</String>
@@ -50,11 +48,6 @@
         <String xml:lang="pt-BR">Proprietários</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- Warehouse -->
-    <!-- ========================= -->
-    <!-- {0} = amount -->
-    <!-- {1} = item name -->
     <Entry Id="warehouse_cant_move_in">
         <String xml:lang="en-US">You cannot ~r~move ~s~this item into a warehouse.</String>
         <String xml:lang="nl-NL">Je kan dit voorwerp niet in een warenhuis ~r~leggen~s~.</String>
@@ -242,7 +235,6 @@
         <String xml:lang="lv-LV">~r~Jūms nav pietiekama līmeņa, lai nopirktu doto noliktavu.</String>
     </Entry>
 
-    <!-- {0} = Player name -->
     <Entry Id="warehouse_knocked_wait_answer">
         <String xml:lang="en-US">You knocked at {0}'s warehouse. Wait for them to answer.</String>
         <String xml:lang="pl-PL">Zapukałeś do magazynu {0}. Poczekaj aż odpowiedzą.</String>
@@ -345,11 +337,6 @@
         <String xml:lang="lv-LV">Jūs izkritat no īpašuma interjera, tāpēc jūs tikat teleportēti atpakaļ.</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- Garage -->
-    <!-- ========================= -->
-    <!-- {0} = Player name -->
-    <!-- {1} = Garage name -->
     <Entry Id="garage_player_enter">
         <String xml:lang="en-US">(C){0}(/C) entered ~y~{1}~s~.</String>
         <String xml:lang="nl-NL">(C){0}(/C) is ~y~{1}~s~ binnengetreden.</String>
@@ -384,9 +371,9 @@
 
     <Entry Id="garage_dont_have_required_membership_tier">
         <String xml:lang="en-US">~r~You don't have the required membership tier to purchase this garage.</String>
+        <String xml:lang="it-IT">~r~Non hai l'iscrizione all'abbonamento richiesto per acquistare questo garage.</String>
         <String xml:lang="pl-PL">~r~Nie masz wymaganego poziomu członkostwa na zakup tego garażu.</String>
         <String xml:lang="nl-NL">~r~Je hebt niet het vereiste abonnement om deze garage te kopen!</String>
-        <String xml:lang="it-IT">~r~Non hai l'iscrizione all'abbonamento richiesto per acquistare questo garage.</String>
         <String xml:lang="es-ES">~r~No tienes el nivel de afiliación necesario para comprar este garaje.</String>
         <String xml:lang="pt-BR">~r~Você não tem o nível de associação necessário para comprar essa garagem.</String>
         <String xml:lang="de-DE">~r~Du besitzt nicht die benötigte Mitgliedschaftsstufe, um diese Garage zu kaufen.</String>
@@ -459,7 +446,6 @@
         <String xml:lang="th-TH">~b~ยานพาหนะส่วนตัว ~s~นี้ถูกย้ายไปที่ ~y~โรงรถ~s~ แล้ว</String>
         <String xml:lang="fr-FR">Ce ~b~véhicule personnel ~s~a été déplacé dans ce ~y~garage~s~.</String>
         <String xml:lang="hi-Latn">Ye ~b~personal vehicle ~s~move kar di gayi hai aapke ~y~garage ~s~mein.</String>
-
         <String xml:lang="lv-LV">Šīs ~b~personīgais transportlīdzeklis ~s~tika pārvietots uz šo ~y~garāžu~s~.</String>
     </Entry>
 
@@ -529,11 +515,11 @@
 
     <Entry Id="vehicle_gps_set">
         <String xml:lang="en-US">~r~You have to be in a vehicle to set the GPS.</String>
+        <String xml:lang="es-ES">~r~Tienes que estar en un vehículo para ajustar el GPS.</String>
+        <String xml:lang="pt-BR">~r~É preciso estar em um veículo para ajustar o GPS.</String>
         <String xml:lang="pl-PL">~r~Musisz być w pojeździe by ustawić GPS.</String>
         <String xml:lang="nl-NL">~r~Je moet in een voertuig zitten om de GPS te zetten.</String>
         <String xml:lang="it-IT">~r~Devi essere in un veicolo per poter impostare il GPS.</String>
-        <String xml:lang="es-ES">~r~Tienes que estar en un vehículo para ajustar el GPS.</String>
-        <String xml:lang="pt-BR">~r~É preciso estar em um veículo para ajustar o GPS.</String>
         <String xml:lang="de-DE">~r~Du musst dich in einem Fahrzeug befinden, um eine GPS zu setzen.</String>
         <String xml:lang="ar-001">~r~يجب أن تكون في السيارة لتتمكن من ضبط نظام تحديد المواقع العالمي (GPS).</String>
         <String xml:lang="id-ID">~r~Anda harus berada didalam kendaran untuk menandai di GPS</String>
@@ -543,7 +529,6 @@
         <String xml:lang="lv-LV">~r~Jums ir jābūt transportlīdzeklī lai iestātītu GPS.</String>
     </Entry>
 
-    <!-- {0} = Property name (warehouse; garage; ...) -->
     <Entry Id="property_navigating">
         <String xml:lang="en-US">Navigating to ~y~{0}~s~.</String>
         <String xml:lang="pl-PL">Nawigowanie do ~y~{0}~s~.</String>
@@ -576,7 +561,6 @@
         <String xml:lang="lv-LV">Jūs nopērkat ~y~{0} ~s~par ~g~{1}~s~.</String>
     </Entry>
 
-    <!-- {0} = Property name (warehouse; garage; ...) -->
     <Entry Id="property_not_authorized_enter">
         <String xml:lang="en-US">~r~You're not authorized to enter this {0}.</String>
         <String xml:lang="pl-PL">~r~Nie jesteś autoryzowany by wejść do tego {0}.</String>
@@ -609,8 +593,6 @@
         <String xml:lang="lv-LV">~r~Šī {0} īpašnieks ir offline.</String>
     </Entry>
 
-    <!-- {0} = Player's name -->
-    <!-- {0} = Property name -->
     <Entry Id="property_player_knocking_at">
         <String xml:lang="en-US">{0} ~s~is knocking at ~y~{1}~s~.</String>
         <String xml:lang="pl-PL">{0} ~s~puka do drzwi ~y~{1}~s~.</String>
@@ -627,14 +609,13 @@
         <String xml:lang="lv-LV">{0} ~s~klauvē pie jūsu ~y~{1}~s~.</String>
     </Entry>
 
-    <!-- {0} = Player's name -->
     <Entry Id="property_answered">
         <String xml:lang="en-US">You answered {0}~s~.</String>
+        <String xml:lang="pt-BR">Você respondeu a {0}~s~.</String>
         <String xml:lang="pl-PL">Odpowiedziałeś {0}~s~.</String>
         <String xml:lang="nl-NL">Je hebt {0}~s~ beantwoord.</String>
         <String xml:lang="it-IT">Hai risposto a {0}~s~.</String>
         <String xml:lang="es-ES">Usted respondió a {0}~s~.</String>
-        <String xml:lang="pt-BR">Você respondeu a {0}~s~.</String>
         <String xml:lang="de-DE">Du hast {0}~s~ geantwortet.</String>
         <String xml:lang="ar-001">لقد أجبت {0}~s~.</String>
         <String xml:lang="id-ID">Anda telah menjawab {0}~s~.</String>
@@ -644,9 +625,6 @@
         <String xml:lang="lv-LV">Jūs atvērāt durvis {0}~s~.</String>
     </Entry>
 
-    <!-- ========================= -->
-    <!-- Properties Menu -->
-    <!-- ========================= -->
     <Entry Id="menu_properties_title">
         <String xml:lang="en-US">Properties</String>
         <String xml:lang="pl-PL">Posiadłości</String>
@@ -692,8 +670,6 @@
         <String xml:lang="pt-BR">Definir GPS</String>
     </Entry>
 
-    <!-- 0 = vehicle count -->
-    <!-- 1 = parking spots -->
     <Entry Id="menu_properties_garage_occupancy">
         <String xml:lang="en-US">Occupancy: {0} ~b~of {1}</String>
         <String xml:lang="nl-NL">Bezetting: {0} ~b~van {1}</String>
@@ -771,8 +747,4 @@
         <String xml:lang="es-ES">{0} propiedad</String>
         <String xml:lang="pt-BR">{0} propriedade</String>
     </Entry>
-
-    <!-- ========================= -->
-    <!-- Garage Menu -->
-    <!-- ========================= -->
 </Entries>
