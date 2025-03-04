@@ -44,6 +44,8 @@
         <String xml:lang="it-IT">Proprietari</String>
         <String xml:lang="id-ID">Pemilik</String>
         <String xml:lang="lv-LV">Īpašnieki</String>
+        <String xml:lang="es-ES">Propietarios</String>
+        <String xml:lang="pt-BR">Proprietários</String>
     </Entry>
 
     <Entry Id="warehouse_cant_move_in">
@@ -664,6 +666,8 @@
         <String xml:lang="it-IT">Imposta GPS</String>
         <String xml:lang="id-ID">Tandai dengan GPS</String>
         <String xml:lang="lv-LV">Iestātīt GPS</String>
+        <String xml:lang="es-ES">Establecer GPS</String>
+        <String xml:lang="pt-BR">Definir GPS</String>
     </Entry>
 
     <Entry Id="menu_properties_garage_occupancy">
@@ -675,6 +679,8 @@
         <String xml:lang="it-IT">Occupazione: {0} ~b~di {1}</String>
         <String xml:lang="id-ID">Lahan yang kosong : {0} ~b~dari {1}</String>
         <String xml:lang="lv-LV">Noslogojums: {0} ~b~no {1}</String>
+        <String xml:lang="es-ES">Ocupación: {0} ~b~de {1}</String>
+        <String xml:lang="pt-BR">Ocupação: {0} ~b~de {1}</String>
     </Entry>
 
     <Entry Id="menu_properties_warehouse_capacity">
@@ -686,6 +692,8 @@
         <String xml:lang="it-IT">Capacità: ~b~{0}</String>
         <String xml:lang="id-ID">Kapasitas: ~b~{0}</String>
         <String xml:lang="lv-LV">Ietilpība: ~b~{0}</String>
+        <String xml:lang="es-ES">Capacidad: ~b~{0}</String>
+        <String xml:lang="pt-BR">Capacidade: ~b~{0}</String>
     </Entry>
 
     <Entry Id="menu_properties_empty">
@@ -697,6 +705,8 @@
         <String xml:lang="it-IT">Non possiedi nessuna proprietà :(</String>
         <String xml:lang="id-ID">Kamu tidak memiliki properti apapun :(</String>
         <String xml:lang="lv-LV">Jums nav neviena īpašuma :(</String>
+        <String xml:lang="es-ES">Usted no posee ninguna propiedad :(</String>
+        <String xml:lang="pt-BR">Você não possui nenhuma propriedade :(</String>
     </Entry>
 
     <Entry Id="menu_properties_empty_description">
@@ -708,6 +718,8 @@
         <String xml:lang="it-IT">Acquisisci proprietà e saranno mostrate in questo menu.</String>
         <String xml:lang="id-ID">Beli properti dan properti tersebut akan tampil dimenu ini.</String>
         <String xml:lang="lv-LV">Iegādājieties īpašumus, un tie tiks rādīti šajā izvelnē.</String>
+        <String xml:lang="es-ES">Adquirire propiedades y se mostrarán en este menú.</String>
+        <String xml:lang="pt-BR">Vou adquirir propriedades e elas serão exibidas neste menu.</String>
     </Entry>
 
     <Entry Id="menu_properties_pretext">
@@ -719,6 +731,8 @@
         <String xml:lang="it-IT">{0} proprietà</String>
         <String xml:lang="id-ID">{0} properti</String>
         <String xml:lang="lv-LV">{0} īpašumi</String>
+        <String xml:lang="es-ES">{0} propiedades</String>
+        <String xml:lang="pt-BR">{0} propriedades</String>
     </Entry>
 
     <Entry Id="menu_properties_pretext_singular">
@@ -730,5 +744,7 @@
         <String xml:lang="it-IT">{0} proprietà</String>
         <String xml:lang="id-ID">{0} Properti</String>
         <String xml:lang="lv-LV">{0} īpašums</String>
+        <String xml:lang="es-ES">{0} propiedad</String>
+        <String xml:lang="pt-BR">{0} propriedade</String>
     </Entry>
 </Entries>

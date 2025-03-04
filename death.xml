@@ -282,6 +282,7 @@
         <String xml:lang="de-DE">{0} ~s~ist durch eine ~r~Erkrankung~s~ gestorben.</String>
         <String xml:lang="sv-SE">{0} ~s~har dött av en ~r~sjukdom~s~.</String>
         <String xml:lang="ar-001">{0} ~s~لقد مات من ~r~مرض~s~.</String>
+        <String xml:lang="tr-TR">{0} ~r~hastalıktan ~s~öldü.</String>
     </Entry>
 
     <Entry Id="drowned">
@@ -1039,6 +1040,9 @@
         <String xml:lang="sv-SE">Läkaren {0} återupplivade dig.</String>
         <String xml:lang="de-DE">Der Arzt {0} hat dich wiederbelebt.</String>
         <String xml:lang="ar-001">الطبيب {0} احياك</String>
+        <String xml:lang="tr-TR">Tıp Doktoru {0} seni hayata döndürdü.</String>
+        <String xml:lang="es-ES">El médico {0} te revivió.</String>
+        <String xml:lang="pt-BR">O médico {0} o reanimou.</String>
     </Entry>
 
     <Entry Id="doctor_failed">
@@ -1048,6 +1052,9 @@
         <String xml:lang="lv-LV">~y~Dakterim ~r~nesanāca ~s~jūs atdzivināt un jūs tika nogādāts uz ~r~slimnīcu~s~.</String>
         <String xml:lang="de-DE">Der ~y~Doktor ~s~hat es ~r~nicht geschafft ~s~dich wiederzubeleben und du wurdest in ein ~r~Krankenhaus~s~ gebracht.</String>
         <String xml:lang="ar-001">~y~الطبيب ~s~قد ~r~فشل ~s~في احياك وتم نقلك الي ~r~المستشفي~s~.</String>
+        <String xml:lang="tr-TR">~y~Doktor ~s~seni hayata ~r~döndüremedi ~s~ve ~r~hastaneye ~s~sevk edildin.</String>
+        <String xml:lang="es-ES">El ~y~médico ~s~ha ~r~fallado ~s~en reanimarte y te han trasladado a un ~r~hospital~s~.</String>
+        <String xml:lang="pt-BR">O ~y~médico ~s~~r~não conseguiu~s~ ressuscitá-lo e você foi levado ao ~r~hospital.~s~.</String>
     </Entry>
 
     <Entry Id="sugg_revenge">
@@ -1210,6 +1217,8 @@
         <String xml:lang="lv-LV">Atriebības nodošana</String>
         <String xml:lang="sv-SE">Hämnd överföringar</String>
         <String xml:lang="ar-001">تحويلات الانتقام</String>
+        <String xml:lang="es-ES">Transferencia de venganza</String>
+        <String xml:lang="pt-BR">Transferência de vingança</String>
     </Entry>
 
     <Entry Id="menu_revenge_transfers_descr">
@@ -1225,6 +1234,8 @@
         <String xml:lang="lv-LV">Ļaujiet citiem spēlētājiem nodot savas atriebības prasības jums, kad ir iespējots.</String>
         <String xml:lang="sv-SE">Tillåt andra spelare att överföra deras hämnd till dig när det är aktiverat.</String>
         <String xml:lang="ar-001">سماح اللاعبين الآخرين بنقل مطالباتهم الانتقامية إليك عند تمكينها.</String>
+        <String xml:lang="es-ES">Esto permite que otros jugadores te transfieran sus reclamos de venganza cuando está habilitado.</String>
+        <String xml:lang="pt-BR">Isso permite que outros jogadores transfiram suas reivindicações de vingança para você quando ativado.</String>
     </Entry>
 
     <Entry Id="menu_revenge_no_targets_text">
@@ -1338,6 +1349,9 @@
         <String xml:lang="de-DE">Zielmarkierungen</String>
         <String xml:lang="lv-LV">Atriebības mērķu markeri</String>
         <String xml:lang="ar-001">علامة الهدف</String>
+        <String xml:lang="tr-TR">Hedef işaretleyici</String>
+        <String xml:lang="es-ES">Marcadores de objetivos</String>
+        <String xml:lang="pt-BR">Marcadores de alvo</String>
     </Entry>
 
     <Entry Id="menu_revenge_target_markers_descr">
@@ -1350,6 +1364,9 @@
         <String xml:lang="de-DE">Aktiviere den ~r~roten Kreis ~s~um Blips und ~r~roten Totenkopf ~s~neben dem Gamertag deiner Racheziele.</String>
         <String xml:lang="lv-LV">Rāda ~r~sarkano apli ~s~ap radara blipiem un ~r~sarkano galvaskausu ~s~blakus spēlētāja segvārdam jūsu atriebības mērķiem.</String>
         <String xml:lang="ar-001">قم بتفعيل ~r~الدائرة الحمراء ~s~حول النقاط و ~r~الرأس الاحمر ~s~بجوار علامة اللاعب الخاصة بأهدافك الانتقامية</String>
+        <String xml:lang="tr-TR">İntikam alabileceğin oyuncuların etiketinin yanındaki ~r~kırmızı daireyi ~s~ve ~r~kırmızı kafatasını ~s~etkinleştir.</String>
+        <String xml:lang="es-ES">Activa el ~r~círculo rojo ~s~alrededor de los blips y ~r~calavera roja ~s~junto al gamertag de tus objetivos de venganza.</String>
+        <String xml:lang="pt-BR">Ative o ~r~círculo vermelho ~s~ao redor dos blips e a ~r~caveira vermelha ~s~ao lado do gamertag de seus alvos de vingança.</String>
     </Entry>
 
     <Entry Id="menu_revenge_claimant_markers">
@@ -1362,6 +1379,8 @@
         <String xml:lang="de-DE">Auftraggeber Markierungen</String>
         <String xml:lang="lv-LV">Atriebības meklētāju markeri</String>
         <String xml:lang="ar-001">علامات المطالبين</String>
+        <String xml:lang="es-ES">Marca reclamada</String>
+        <String xml:lang="pt-BR">Marcadores do reclamante</String>
     </Entry>
 
     <Entry Id="menu_revenge_claimant_markers_descr">
@@ -1374,6 +1393,9 @@
         <String xml:lang="de-DE">Aktiviere den ~y~gelben Kreis ~s~um Blips und den ~y~gelben Totenkopf ~s~neben dem Gamertag deiner Rache-Auftraggeber.</String>
         <String xml:lang="lv-LV">Rāda ~y~dzelteno apli ~s~ap radara blipiem un ~y~dzelteno galvaskausu ~s~blakus spēlētāja segvārdam jūsu atriebības meklētājiem.</String>
         <String xml:lang="ar-001">قم بتفعيل ~y~الدائرة الحمراء ~s~حول النقاط و ~y~الرأس الاصفر ~s~بجوار علامة اللاعب الخاصة بأهدافك الانتقامية</String>
+        <String xml:lang="tr-TR">İntikam alabilecek oyuncuların etiketinin yanındaki ~y~sarı daireyi ~s~ve ~y~sarı kafatasını ~s~etkinleştir.</String>
+        <String xml:lang="es-ES">Activar el ~y~círculo amarillo ~s~alrededor de los blips y ~y~calavera amarilla ~s~junto al gamertag de tus reclamantes de venganza.</String>
+        <String xml:lang="pt-BR">Ative o ~y~círculo amarelo ~s~ao redor dos blips e a ~y~caveira amarela ~s~ao lado do gamertag de seus requerentes de vingança.</String>
     </Entry>
 
     <Entry Id="hospital_bill">
@@ -1426,6 +1448,9 @@
         <String xml:lang="de-DE">Die ~b~Versicherung ~s~hat deinen Antrag abgelehnt.</String>
         <String xml:lang="lv-LV">~b~Apdrošināsanas kompānija ~s~noraidīja jūsu prasību</String>
         <String xml:lang="ar-001">~b~شركة التأمين ~s~رفضت طلبك</String>
+        <String xml:lang="tr-TR">~b~Sigorta şirketi ~s~talebinizi reddetti.</String>
+        <String xml:lang="es-ES">La ~b~compañía de seguros ~s~ha rechazado su reclamación.</String>
+        <String xml:lang="pt-BR">A ~b~companhia de seguros ~s~rejeitou seu pedido de indenização.</String>
     </Entry>
 
     <Entry Id="covered_by_insurance">

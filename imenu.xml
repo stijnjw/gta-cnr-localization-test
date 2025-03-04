@@ -411,6 +411,8 @@
         <String xml:lang="hi-Latn">Help Center</String>
         <String xml:lang="lv-LV">Palīdzības centrs</String>
         <String xml:lang="ar-001">مركز المساعدة</String>
+        <String xml:lang="es-ES">Centro de ayuda</String>
+        <String xml:lang="pt-BR">Central de Ajuda</String>
     </Entry>
 
     <Entry Id="imenu_help_subtitle">
@@ -425,6 +427,8 @@
         <String xml:lang="hi-Latn">CNR V ka Help Center</String>
         <String xml:lang="lv-LV">CNR V Palīdzības centrs</String>
         <String xml:lang="ar-001">مركز مساعدة CNR V</String>
+        <String xml:lang="es-ES">CNR V Centro de ayuda</String>
+        <String xml:lang="pt-BR">CNR V Central de Ajuda</String>
     </Entry>
 
     <Entry Id="imenu_help_block_title">
@@ -439,6 +443,8 @@
         <String xml:lang="hi-Latn">Player ko block karein</String>
         <String xml:lang="lv-LV">Nobloķēt spēlētāju</String>
         <String xml:lang="ar-001">حظر اللاعب</String>
+        <String xml:lang="es-ES">Bloquear a un jugador</String>
+        <String xml:lang="pt-BR">Bloquear um jogador</String>
     </Entry>
 
     <Entry Id="imenu_help_block_description">
@@ -453,6 +459,8 @@
         <String xml:lang="id-ID">Blokir seorang ~r~pemain~s~. Kamu tidak akan melihat pesan teks dari pemain yang diblokir. Anda juga dapat menggunakan perintah ~b~/block (id) ~s~dichat.</String>
         <String xml:lang="lv-LV">Bloķē ~r~spēlētāju~s~. Jūs neredzēsiet nevienu īsziņu no viņiem. Jūs arī varat izmantot ~b~/block (ID) ~s~čata komandu.</String>
         <String xml:lang="ar-001">حظر ~r~اللاعب~s~.ولن تري اي رسائل نصية من اللاعبين المحظورين ,ويمكنك ايضا استخدام الامر~b~/block (id) ~s~امر شات</String>
+        <String xml:lang="es-ES">Bloquear a un ~r~jugador~s~. No verás mensajes de texto de jugadores bloqueados. También puedes usar el comando ~b~/block (id) ~s~en el chat.</String>
+        <String xml:lang="pt-BR">Bloquear um ~r~jogador~s~. Você não verá mensagens de texto de jogadores bloqueados. Você também pode usar o comando ~b~/block (id) ~s~no chat.</String>
     </Entry>
 
     <Entry Id="imenu_help_report_title">
@@ -467,6 +475,8 @@
         <String xml:lang="hi-Latn">Player ki report karein</String>
         <String xml:lang="lv-LV">Ziņojiet par spēlētāju</String>
         <String xml:lang="ar-001">الابلاغ عن اللاعب</String>
+        <String xml:lang="pt-BR">Denunciar jogador</String>
+        <String xml:lang="es-ES">Reportar jugador</String>
     </Entry>
 
     <Entry Id="imenu_help_report_description">
@@ -481,6 +491,8 @@
         <String xml:lang="id-ID">Laporkan ~r~pemain ~s~yang melanggar aturan server atau ketentuan layanan. Kamu juga bisa menggunakan perintah ~b~/report (id) ~s~dichat.</String>
         <String xml:lang="lv-LV">Ziņojiet par ~r~spēlētāju ~s~kas pārkāpj server noteikumus vai pakalpojumu sniegšanas noteikumus. Jūs arī varat izmantot ~b~/report (ID) ~s~čata komandu.</String>
         <String xml:lang="ar-001">قم بالإبلاغ عن ~r~اللاعب ~s~لانتهاك قواعد الخادم أو شروط الخدمة. يمكنك أيضًا استخدام الأمر~b~/report (id)~s~امر الشات.</String>
+        <String xml:lang="es-ES">Reporta a un ~r~jugador ~s~por violar las reglas del servidor o los términos del servicio. También puedes usar el comando ~b~/report (id) ~s~en el chat.</String>
+        <String xml:lang="pt-BR">Denunciar um ~r~jogador ~s~por violar as regras do servidor ou os termos de serviço. Você também pode usar o comando ~b~/report (id) ~s~no chat.</String>
     </Entry>
 
     <Entry Id="imenu_help_blocked_players_description">
@@ -495,6 +507,8 @@
         <String xml:lang="id-ID">Cek daftar ~r~pemain ~s~yang kamu blokir.</String>
         <String xml:lang="lv-LV">Pārbaudiet ~r~spēlētāju ~s~sarakstu, kurus jūs nobloķējat.</String>
         <String xml:lang="ar-001">تحقق من قائمة~r~اللاعبين ~s~التي قمت بحظرها.</String>
+        <String xml:lang="es-ES">Revisa la lista de ~r~jugadores ~s~que has bloqueado.</String>
+        <String xml:lang="pt-BR">Revise a lista de ~r~jogadores ~s~que você bloqueou.</String>
     </Entry>
 
     <Entry Id="imenu_help_report_list_title">
@@ -509,6 +523,8 @@
         <String xml:lang="hi-Latn">Aapki reports</String>
         <String xml:lang="lv-LV">Jūsu ziņojumi</String>
         <String xml:lang="ar-001">بلاغاتك</String>
+        <String xml:lang="es-ES">Sus Reportes</String>
+        <String xml:lang="pt-BR">Suas denuncias</String>
     </Entry>
 
     <Entry Id="imenu_help_report_list_description">
@@ -523,6 +539,8 @@
         <String xml:lang="hi-Latn">Apni pichli ~r~reports ~s~dekhein.</String>
         <String xml:lang="lv-LV">Apskatiet savus iepriekšejos ~r~ziņojumus~s~.</String>
         <String xml:lang="ar-001">عرض ~r~بلاغاتك~s~ السابقة</String>
+        <String xml:lang="es-ES">Ver tus ~r~reportes~s~ anteriores.</String>
+        <String xml:lang="pt-BR">Veja seu ~r~denuncia~s~anteriores.</String>
     </Entry>
 
     <Entry Id="imenu_help_wiki_title">
@@ -537,6 +555,8 @@
         <String xml:lang="hi-Latn">Wiki</String>
         <String xml:lang="lv-LV">Wiki</String>
         <String xml:lang="ar-001">Wiki</String>
+        <String xml:lang="es-ES">Wiki</String>
+        <String xml:lang="pt-BR">Wiki</String>
     </Entry>
 
     <Entry Id="imenu_help_support_title">
@@ -551,6 +571,8 @@
         <String xml:lang="hi-Latn">Support</String>
         <String xml:lang="lv-LV">Atbalsts</String>
         <String xml:lang="ar-001">الدعم</String>
+        <String xml:lang="es-ES">Suporte</String>
+        <String xml:lang="pt-BR">Suporte</String>
     </Entry>
 
     <Entry Id="imenu_help_support_description">
@@ -565,6 +587,8 @@
         <String xml:lang="id-ID">Kamu bisa mendapatkan bantuan dari staf kami di server Discord kami: ~b~discord.gg/cnr</String>
         <String xml:lang="lv-LV">Jūs varat iegūt atbalstu no mūsu personāla mūsu Discord serverī: ~b~discord.gg/cnr</String>
         <String xml:lang="ar-001">يمكنك الحصول على الدعم من طاقم السيرفر من الدسكورد الخاص بنا: ~b~discord.gg/cnr</String>
+        <String xml:lang="es-ES">Puede obtener soporte de nuestro equipo de staff en nuestro servidor de Discord: ~b~discord.gg/cnr</String>
+        <String xml:lang="pt-BR">Você pode obter suporte de nossa staff em nosso servidor Discord: ~b~discord.gg/cnr</String>
     </Entry>
 
     <Entry Id="imenu_help_rules_title">
@@ -579,6 +603,8 @@
         <String xml:lang="it-IT">Regole e Termini</String>
         <String xml:lang="id-ID">Aturan dan Ketentuan</String>
         <String xml:lang="hi-Latn">Niyam aur Shartein</String>
+        <String xml:lang="es-ES">Reglas y condiciones</String>
+        <String xml:lang="pt-BR">Regras e condições</String>
     </Entry>
 
     <Entry Id="imenu_help_rules_description">
@@ -593,6 +619,8 @@
         <String xml:lang="id-ID">Kamu bisa membaca aturan game kami di ~b~gtacnr.net/rules ~s~dan perjanjian pengguna kami di ~b~sasinosoft.com/agreement</String>
         <String xml:lang="lv-LV">Jūs varat izlasīt mūsu spēles noteikumus vietnē ~b~gtacnr.net/rules ~s~un mūsu Lietotāja Līgumu vietnē ~b~sasinosoft.com/agreement</String>
         <String xml:lang="ar-001">يمكنك قراءة قواعد لعبتنا على ~b~gtacnr.net/rules ~s~واتفاقية المستخدم الخاصة بنا على ~b~sasinosoft.com/agreement</String>
+        <String xml:lang="es-ES">Lee nuestras reglas de juego en ~b~gtacnr.net/rules ~s~y nuestro Acuerdo de Usuario en ~b~sasinosoft.com/agreement</String>
+        <String xml:lang="pt-BR">Leia nossas regras do jogo em ~b~gtacnr.net/rules ~s~e nosso Contrato de Usuário em ~b~sasinosoft.com/agreement</String>
     </Entry>
 
     <Entry Id="imenu_help_privacy_title">
@@ -607,6 +635,8 @@
         <String xml:lang="hi-Latn">Privacy</String>
         <String xml:lang="lv-LV">Privātums</String>
         <String xml:lang="ar-001">الخصوصية</String>
+        <String xml:lang="es-ES">Privacidad</String>
+        <String xml:lang="pt-BR">Privacidade</String>
     </Entry>
 
     <Entry Id="imenu_help_privacy_description">
@@ -621,6 +651,8 @@
         <String xml:lang="id-ID">Kamu bisa membaca kebijakan privasi kami di: ~b~sasinosoft.com/privacy </String>
         <String xml:lang="lv-LV">Jūs varat izlasīt mūsu Privātuma Politiku šeit: ~b~sasinosoft.com/privacy</String>
         <String xml:lang="ar-001">يمكنك قراءة سياسة الخصوصية الخاصة بنا هنا: ~b~sasinosoft.com/privacy</String>
+        <String xml:lang="es-ES">Lee nuestra política de privacidad aquí: ~b~sasinosoft.com/privacy</String>
+        <String xml:lang="pt-BR">Leia nossa política de privacidade aqui: ~b~sasinosoft.com/privacy</String>
     </Entry>
 
     <Entry Id="imenu_help_descr">
@@ -696,6 +728,8 @@
         <String xml:lang="id-ID">Kamu ~r~membatalkan ~s~pemblokiran.</String>
         <String xml:lang="lv-LV">Jūs ~r~atcēlāt ~s~bloķējumu.</String>
         <String xml:lang="ar-001">لقد ~r~الغيت ~s~الحظر</String>
+        <String xml:lang="es-ES">~r~Cancelaste ~s~el bloqueo.</String>
+        <String xml:lang="pt-BR">Você ~r~cancelou ~s~o bloqueio.</String>
     </Entry>
 
     <Entry Id="imenu_help_block_input_title">
@@ -710,6 +744,8 @@
         <String xml:lang="hi-Latn">Block</String>
         <String xml:lang="lv-LV">Bloķēt</String>
         <String xml:lang="ar-001">حظر</String>
+        <String xml:lang="es-ES">Bloquear</String>
+        <String xml:lang="pt-BR">Bloquear</String>
     </Entry>
 
     <Entry Id="imenu_blocked_players_pretext">
@@ -724,6 +760,8 @@
         <String xml:lang="id-ID">{0} Pemain yang diblokir</String>
         <String xml:lang="lv-LV">{0} bloķēto spēlētāju</String>
         <String xml:lang="ar-001">{0} المستخدمين المحظورين</String>
+        <String xml:lang="es-ES">{0} usuarios bloqueados</String>
+        <String xml:lang="pt-BR">{0} usuários bloqueados</String>
     </Entry>
 
     <Entry Id="imenu_blocked_players_menuitem_description">
@@ -738,6 +776,8 @@
         <String xml:lang="id-ID">Kamu ~r~tidak akan ~s~menerima pesan teks/suara dan ping apapun dari ~y~{0}~s~.</String>
         <String xml:lang="lv-LV">Jūs ~r~nesaņemat ~s~nekādas teksta/balss īsziņas un pings no ~y~{0}~s~.</String>
         <String xml:lang="ar-001">انت ~r~لا ~s~تتلقي اي زسائل نصيه او صوتيه او اشعارات من ~y~{0}~s~</String>
+        <String xml:lang="es-ES">~r~No ~s~estás recibiendo ningún mensaje de texto/voz ni pings de ~y~{0}~s~.</String>
+        <String xml:lang="pt-BR">Você ~r~não ~s~está recebendo mensagens de texto/voz ou pings de ~y~{0}~s~.</String>
     </Entry>
 
     <Entry Id="imenu_blocked_players_empty_menuitem_text">
@@ -752,6 +792,8 @@
         <String xml:lang="id-ID">Tidak ada pemain yang di blokir :)</String>
         <String xml:lang="lv-LV">Nav bloķēto spēlētāju :)</String>
         <String xml:lang="ar-001">لا يوجد لاعبين محظورين :)</String>
+        <String xml:lang="es-ES">No hay jugadores bloqueados :)</String>
+        <String xml:lang="pt-BR">Não há jogadores bloqueados :)</String>
     </Entry>
 
     <Entry Id="imenu_blocked_players_empty_menuitem_description">
@@ -766,6 +808,8 @@
         <String xml:lang="id-ID">Ketika ~y~/block [id pemain] ~s~untuk memblokir seseorang.</String>
         <String xml:lang="lv-LV">Ierakstiet ~y~/block [spēlētāja ID] ~s~lai nobloķētu kādu.</String>
         <String xml:lang="ar-001">اكتب ~y~/block [رقم اللاعب]~s~حتي تحظر احدا</String>
+        <String xml:lang="es-ES">Escribe ~y~/block [player id] ~s~para bloquear a alguien.</String>
+        <String xml:lang="pt-BR">Escreve ~y~/block [player id] ~s~para bloquear alguém.</String>
     </Entry>
 
     <Entry Id="imenu_help_report_input_title">
@@ -780,6 +824,8 @@
         <String xml:lang="hi-Latn">Report</String>
         <String xml:lang="lv-LV">Ziņot</String>
         <String xml:lang="ar-001">ابلاغ</String>
+        <String xml:lang="es-ES">Reporte</String>
+        <String xml:lang="pt-BR">Denuncia</String>
     </Entry>
 
     <Entry Id="imenu_help_report_not_submitted">
@@ -873,6 +919,8 @@
         <String xml:lang="hi-Latn">~r~Iss job ka koi menu nahi hai.</String>
         <String xml:lang="lv-LV">Šim darbam nav izvēlnes.</String>
         <String xml:lang="ar-001">~r~هذه الوظيفة لا تمتلك قائمة.</String>
+        <String xml:lang="es-ES">~r~Este trabajo no tiene menú.</String>
+        <String xml:lang="pt-BR">~r~Esta obra não tem menu.</String>
     </Entry>
 
     <Entry Id="imenu_job_descr_drug_dealer">
@@ -927,6 +975,8 @@
         <String xml:lang="hi-Latn">Abhi ki available aur past deliveries ki list dekhein.</String>
         <String xml:lang="lv-LV">Skatiet pieejamo un iepriekšējo piegāžu sarakstus.</String>
         <String xml:lang="ar-001">عرض قوائم التسليمات المتاحة والماضية</String>
+        <String xml:lang="es-ES">Ver las listas de entregas disponibles y pasadas.</String>
+        <String xml:lang="pt-BR">Exibir listas de entregas disponíveis e anteriores.</String>
     </Entry>
 
     <Entry Id="imenu_job_descr_police">
@@ -981,6 +1031,8 @@
         <String xml:lang="hi-Latn">Recent kill contracts dekhein.</String>
         <String xml:lang="lv-LV">Skatiet nesenos slepkavības kontraktus.</String>
         <String xml:lang="ar-001">عرض عقود القتل الأخيرة</String>
+        <String xml:lang="es-ES">Ver los contratos de asesinato recientes.</String>
+        <String xml:lang="pt-BR">Ver contratos de assassinato recentes.</String>
     </Entry>
 
     <Entry Id="imenu_job_descr_private_medic">
@@ -990,6 +1042,8 @@
         <String xml:lang="de-DE">Verwalte die Dienstleistungen und Gegenstände, die du verkaufst, aktuelle Anrufe und vergangene Verkäufe.</String>
         <String xml:lang="lv-LV">Pārvaldiet pakalpojumus un priekšmetus jūs pārdodat, skatiet nesenos zvanus un iepriekšējas pārdošanās.</String>
         <String xml:lang="ar-001">إدارة الخدمات والعناصر التي تبيعها، وعرض الندائات الأخيرة والمبيعات السابقة</String>
+        <String xml:lang="es-ES">Gestione los servicios y artículos que vende, vea las llamadas recientes y las ventas anteriores.</String>
+        <String xml:lang="pt-BR">Gerencie os serviços e itens que você vende, visualize chamadas recentes e vendas anteriores.</String>
     </Entry>
 
     <Entry Id="imenu_job_descr_arms_dealer">
@@ -999,6 +1053,8 @@
         <String xml:lang="de-DE">Verwalte die Waffen und Gegenstände, die du verkaufst, aktuelle Anrufe und vergangene Verkäufe.</String>
         <String xml:lang="lv-LV">Pārvaldiet ieročus un priekšmetus jūs pārdodat, skatiet nesenos zvanus un iepriekšējas pārdošanās.</String>
         <String xml:lang="ar-001">إدارة الأسلحة والعناصر التي تبيعها، وعرض الندائات الأخيرة والمبيعات السابقة.</String>
+        <String xml:lang="es-ES">Gestione las armas y los artículos que vende, vea las llamadas recientes y las ventas anteriores.</String>
+        <String xml:lang="pt-BR">Gerencie as armas e os itens que você vende, veja as chamadas recentes e as vendas anteriores.</String>
     </Entry>
 
     <Entry Id="imenu_job_no_calls_text">
@@ -1011,6 +1067,8 @@
         <String xml:lang="hi-Latn">Koi calls nahi hain :(</String>
         <String xml:lang="lv-LV">Zvanu nav :(</String>
         <String xml:lang="ar-001">لا يوجد ندائات</String>
+        <String xml:lang="es-ES">No hay llamadas :(</String>
+        <String xml:lang="pt-BR">Sem chamadas :(</String>
     </Entry>
 
     <Entry Id="imenu_job_no_calls_description">
@@ -1023,6 +1081,8 @@
         <String xml:lang="hi-Latn">Filhaal dikhane ke liye koi calls nahi hain.</String>
         <String xml:lang="lv-LV">Pašlaik nav neviena zvana, ko parādīt.</String>
         <String xml:lang="ar-001">لا يوجد اي ندائات لعرضه</String>
+        <String xml:lang="es-ES">Actualmente no hay llamadas para mostrar.</String>
+        <String xml:lang="pt-BR">No momento, não há chamadas para exibir.</String>
     </Entry>
 
     <Entry Id="imenu_job_no_contracts_text">
@@ -1035,6 +1095,8 @@
         <String xml:lang="hi-Latn">Koi contracts nahi hain :(</String>
         <String xml:lang="lv-LV">Kontraktu nav :(</String>
         <String xml:lang="ar-001">لا يوجد عقود</String>
+        <String xml:lang="es-ES">Sin contratos :(</String>
+        <String xml:lang="pt-BR">Sem contratos :(</String>
     </Entry>
 
     <Entry Id="imenu_job_no_contracts_description">
@@ -1047,6 +1109,8 @@
         <String xml:lang="hi-Latn">Filhaal dikhane ke liye koi contracts nahi hain.</String>
         <String xml:lang="lv-LV">Pašlaik nav neviena kontrakta, ko parādīt.</String>
         <String xml:lang="ar-001">لا يوجد اي عقود لعرضه</String>
+        <String xml:lang="es-ES">Actualmente no hay contratos que mostrar.</String>
+        <String xml:lang="pt-BR">No momento, não há contratos para mostrar.</String>
     </Entry>
 
     <Entry Id="imenu_inventory_subtitle">
@@ -1144,6 +1208,8 @@
         <String xml:lang="hi-Latn">Uthaye</String>
         <String xml:lang="lv-LV">Pacelt</String>
         <String xml:lang="ar-001">التقط</String>
+        <String xml:lang="es-ES">Levantar</String>
+        <String xml:lang="pt-BR">Levantar</String>
     </Entry>
 
     <Entry Id="imenu_inventory_stock">
@@ -1493,6 +1559,8 @@
         <String xml:lang="hi-Latn">{0} ne aapko ~y~{1}{2} {3}~s~ diya.</String>
         <String xml:lang="lv-LV">{0} iedeva jums ~y~{1}{2} {3}~s~.</String>
         <String xml:lang="ar-001">{0} أعطاك ~y~{1}{2} {3}~s~</String>
+        <String xml:lang="es-ES">{0} te dio ~y~{1}{2} {3}~s~.</String>
+        <String xml:lang="pt-BR">{0} te deu ~y~{1}{2} {3}~s~.</String>
     </Entry>
 
     <Entry Id="imenu_inventory_no_items_in_category">
@@ -1590,6 +1658,8 @@
         <String xml:lang="id-ID">Barang ini tidak bisa ~r~Dijatuhkan~s~.</String>
         <String xml:lang="ar-001">.~r~سقوط~s~لا يمكنك اسقاط هذا العنصر</String>
         <String xml:lang="lv-LV">Šis priekšmets nevar būt ~r~nomests~s~.</String>
+        <String xml:lang="es-ES">Este objeto no se puede ~r~dropear~s~.</String>
+        <String xml:lang="pt-BR">Este item não pode ser ~r~descartado~s~.</String>
     </Entry>
 
     <Entry Id="imenu_inventory_drop_invalid_position">
@@ -1603,6 +1673,8 @@
         <String xml:lang="id-ID">Kamu tidak bisa menjatuhkan barang ~r~disini~s~.</String>
         <String xml:lang="lv-LV">Jūs nevarat nomest priekšmetu ~r~šeit~s~.</String>
         <String xml:lang="ar-001">لا يمكنك إسقاط عنصر ~r~هنا~s~</String>
+        <String xml:lang="es-ES">No puedes dejar caer un objeto ~r~aquí~s~.</String>
+        <String xml:lang="pt-BR">Você não pode soltar um item ~r~aqui~s~.</String>
     </Entry>
 
     <Entry Id="imenu_inventory_drop_too_many">
@@ -1616,6 +1688,8 @@
         <String xml:lang="id-ID">Ada terlalu ~r~banyak barang ditanah diserver ini~s~.</String>
         <String xml:lang="lv-LV">Serverī ir ~r~pārāk daudz nomesto priekšmetu~s~.</String>
         <String xml:lang="ar-001">يوجد ~r~الكثير من القطرات في السيرفر~s~ </String>
+        <String xml:lang="es-ES">Hay ~r~demasiados objetos tirados en el servidor~s~.</String>
+        <String xml:lang="pt-BR">Há ~r~muitos items espalhados no servidor~s~.</String>
     </Entry>
 
     <Entry Id="imenu_inventory_pickup_concurrent">
@@ -1629,6 +1703,8 @@
         <String xml:lang="id-ID">~r~barang ini sedang diambil oleh orang lain!</String>
         <String xml:lang="lv-LV">~r~Šo priekšmetu paceļ kāds cits!</String>
         <String xml:lang="ar-001">~r~يتم التقاط هذا العنصر من قبل شخص آخر!</String>
+        <String xml:lang="es-ES">~r~¡Este artículo está siendo recogido por otra persona!</String>
+        <String xml:lang="pt-BR">~r~Este item está sendo adquirido por outra pessoa!</String>
     </Entry>
 
     <Entry Id="imenu_inventory_pickup_success">
@@ -1642,6 +1718,8 @@
         <String xml:lang="id-ID">Kamu mengambil {0}{1} {2}~b~{3}~s~.</String>
         <String xml:lang="lv-LV">Jūs pacēlat {0}{1} {2}~b~{3}~s~.</String>
         <String xml:lang="ar-001">لقد التقطت {0}{1} {2}~b~{3}~s~</String>
+        <String xml:lang="es-ES">Recogiste {0}{1} {2}~b~{3}~s~.</String>
+        <String xml:lang="pt-BR">Você agarrou {0}{1} {2}~b~{3}~s~.</String>
     </Entry>
 
     <Entry Id="imenu_inventory_drop_success">
@@ -1655,6 +1733,8 @@
         <String xml:lang="id-ID">Kamu menjatuhkan ~p~{0}{1}~s~ {2}~y~{3}~s~.</String>
         <String xml:lang="lv-LV">Jūs nometāt ~p~{0}{1}~s~ {2}~y~{3}~s~.</String>
         <String xml:lang="ar-001">لقد أسقطت ~p~{0}{1}~s~ {2}~y~{3}~s~</String>
+        <String xml:lang="es-ES">Soltaste ~p~{0}{1}~s~ {2}~y~{3}~s~.</String>
+        <String xml:lang="pt-BR">Você lançou ~p~{0}{1}~s~ {2}~y~{3}~s~.</String>
     </Entry>
 
     <Entry Id="input_imenu_inventory_drop">
@@ -1668,6 +1748,8 @@
         <String xml:lang="id-ID">Jatuhkan {0}</String>
         <String xml:lang="lv-LV">Nomest {0}</String>
         <String xml:lang="ar-001">اسقاط {0}</String>
+        <String xml:lang="es-ES">Soltar {0}</String>
+        <String xml:lang="pt-BR">Lançar {0}</String>
     </Entry>
 
     <Entry Id="input_imenu_inventory_drop_text">
@@ -1681,6 +1763,8 @@
         <String xml:lang="id-ID">Kamu mempunyai {0}{1} {2}{3}. Masukkan jumlah barang yang akan di jatuhkan:</String>
         <String xml:lang="lv-LV">Jums ir {0}{1} {2}{3}. Ievadiet daudzumu, ko gribat nomest:</String>
         <String xml:lang="ar-001">لديك {0}{1} {2}{3} أدخل الكميه الذي تريد إسقاطه:</String>
+        <String xml:lang="es-ES">Tienes {0}{1} {2}{3}. Ingresa la cantidad que deseas soltar:</String>
+        <String xml:lang="pt-BR">Você tem {0}{1} {2}{3}. Digite o valor que deseja lançar</String>
     </Entry>
 
     <Entry Id="item_name_preposition">
@@ -1692,6 +1776,8 @@
         <String xml:lang="it-IT">di</String>
         <String xml:lang="id-ID">dari</String>
         <String xml:lang="ar-001">من</String>
+        <String xml:lang="es-ES">de</String>
+        <String xml:lang="pt-BR">de</String>
     </Entry>
 
     <Entry Id="imenu_inventory_search">
@@ -1705,6 +1791,8 @@
         <String xml:lang="id-ID">Mencari</String>
         <String xml:lang="lv-LV">Meklēt</String>
         <String xml:lang="ar-001">ابحث</String>
+        <String xml:lang="es-ES">Buscar</String>
+        <String xml:lang="pt-BR">Pesquisa</String>
     </Entry>
 
     <Entry Id="imenu_inventory_search_text">
@@ -1718,6 +1806,8 @@
         <String xml:lang="id-ID">Masukan nama item atau sebagian dari nama itu</String>
         <String xml:lang="lv-LV">Ievadiet priekšmeta nosaukumu vai daļu no tā.</String>
         <String xml:lang="ar-001">أدخل اسم العنصر أو جزء منه</String>
+        <String xml:lang="es-ES">Introduzca el nombre de un objeto o parte de él</String>
+        <String xml:lang="pt-BR">Digite o nome de um item ou parte dele</String>
     </Entry>
 
     <Entry Id="imenu_inventory_search_subtitle">
@@ -1731,6 +1821,8 @@
         <String xml:lang="it-IT">Cerca: {0}</String>
         <String xml:lang="id-ID">Mencari: {0}</String>
         <String xml:lang="ar-001">ابحث: {0}</String>
+        <String xml:lang="es-ES">Buscar: {0}</String>
+        <String xml:lang="pt-BR">Pesquisa: {0}</String>
     </Entry>
 
     <Entry Id="imenu_jobmenu_mechanic_changes">
@@ -2227,6 +2319,8 @@
         <String xml:lang="id-ID">Anda dapat mengatur persediaan barang kerja didalam {0} ~b~Menu ~s~&gt; ~b~Menu pekerjaan ~s~&gt; ~b~Stok</String>
         <String xml:lang="lv-LV">Jūs varat pārvaldīt jūsu darba materialus jūsu {0} ~b~Izvēlne ~s~&gt; ~b~Darba Izvēlne ~s~&gt; ~b~Materiāli.</String>
         <String xml:lang="ar-001">يمكنك إدارة مستلزمات العمل الخاصة بك في {0} ~b~القائمة ~s~&gt; ~b~قائمةالعمل ~s~&gt; ~b~المخزون.</String>
+        <String xml:lang="es-ES">Tu puedes administrar los suministros de tu trabajo en {0} ~b~Menu ~s~&gt; ~b~Job Menu ~s~&gt; ~b~Stock.</String>
+        <String xml:lang="pt-BR">Você pode gerenciar os suprimentos do seu trabalho em {0} ~b~Menu ~s~&gt; ~b~Menu do Trabalho ~s~&gt; ~b~Estoque.</String>
     </Entry>
 
     <Entry Id="menu_access_inventory">
@@ -2300,6 +2394,8 @@
         <String xml:lang="hi-Latn">Services</String>
         <String xml:lang="lv-LV">Dienesti/Pakalpojumi</String>
         <String xml:lang="ar-001">الخدمات</String>
+        <String xml:lang="es-ES">Servicios</String>
+        <String xml:lang="pt-BR">Serviços</String>
     </Entry>
 
     <Entry Id="imenu_services_subtitle">
@@ -2312,6 +2408,8 @@
         <String xml:lang="hi-Latn">Service request kare</String>
         <String xml:lang="lv-LV">Pieprasiet dienestu vai pakalpojumu</String>
         <String xml:lang="ar-001">اطلب خدمة</String>
+        <String xml:lang="es-ES">Solicitar un servicio</String>
+        <String xml:lang="pt-BR">Solicitar um serviço</String>
     </Entry>
 
     <Entry Id="imenu_services_err_public">
@@ -2324,6 +2422,8 @@
         <String xml:lang="hi-Latn">Aap duty par hone se is service ko request nahi kar sakte.</String>
         <String xml:lang="lv-LV">Jūs nevarat pieprasīt doto dienestu/pakalpojumu kāmēr esat dežūrā.</String>
         <String xml:lang="ar-001">لا يمكنك طلب هذه الخدمة عندما تكون في الخدمة.</String>
+        <String xml:lang="es-ES">No puede solicitar este servicio cuando está de servicio.</String>
+        <String xml:lang="pt-BR">Você não pode solicitar esse serviço quando estiver em serviço.</String>
     </Entry>
 
     <Entry Id="imenu_services_police_text">
@@ -2336,6 +2436,8 @@
         <String xml:lang="hi-Latn">Police</String>
         <String xml:lang="lv-LV">Policija</String>
         <String xml:lang="ar-001">الشرطه</String>
+        <String xml:lang="es-ES">Policía</String>
+        <String xml:lang="pt-BR">Polícia</String>
     </Entry>
 
     <Entry Id="imenu_services_police_description">
@@ -2348,6 +2450,8 @@
         <String xml:lang="hi-Latn">911 dial karein aur ~b~police ~s~ko apne location par bulayein.</String>
         <String xml:lang="lv-LV">Uzzvaniet 911 un pieprasiet, lai ~b~policija ~s~ierodas jūsu lokācijā.</String>
         <String xml:lang="ar-001">اتصل بي 911 واطلب ~b~الشرطه ~s~الي موقعك</String>
+        <String xml:lang="es-ES">Marque al 911 y solicite a la ~b~policía ~s~a su ubicación.</String>
+        <String xml:lang="pt-BR">Disque 911 e solicite que a ~b~polícia ~s~vá até o seu local.</String>
     </Entry>
 
     <Entry Id="imenu_services_ems_text">
@@ -2360,6 +2464,8 @@
         <String xml:lang="hi-Latn">EMS</String>
         <String xml:lang="lv-LV">Ārsti</String>
         <String xml:lang="ar-001">الاسعاف</String>
+        <String xml:lang="es-ES">EMS</String>
+        <String xml:lang="pt-BR">EMS</String>
     </Entry>
 
     <Entry Id="imenu_services_ems_description">
@@ -2372,6 +2478,8 @@
         <String xml:lang="hi-Latn">911 dial karein aur ~p~emergency medical services ~s~ko apne location par bulayein.</String>
         <String xml:lang="lv-LV">Uzzvaniet 911 un pieprasiet, lai ~p~ārsti ~s~ierodas jūsu lokācijā.</String>
         <String xml:lang="ar-001">اتصل بي 911واطلب~p~الخدمات الطبية الطارئة~s~الي موقعك</String>
+        <String xml:lang="es-ES">Marque al 911 y solicite ~p~servicios médicos de emergencia ~s~a su ubicación.</String>
+        <String xml:lang="pt-BR">Disque 911 e solicite ~p~serviços médicos de emergência ~s~para sua localização.</String>
     </Entry>
 
     <Entry Id="imenu_services_fire_text">
@@ -2384,6 +2492,8 @@
         <String xml:lang="hi-Latn">Fire department</String>
         <String xml:lang="lv-LV">Ugunsdzēsēji</String>
         <String xml:lang="ar-001">قسم الاطفاء</String>
+        <String xml:lang="es-ES">Departamento de bomberos</String>
+        <String xml:lang="pt-BR">Departamento de Bombeiros</String>
     </Entry>
 
     <Entry Id="imenu_services_fire_description">
@@ -2396,6 +2506,8 @@
         <String xml:lang="hi-Latn">911 dial karein aur ~HUD_COLOUR_NET_PLAYER1~rescue squad ~s~ko apne location par bulayein.</String>
         <String xml:lang="lv-LV">Uzzvaniet 911 un pieprasiet, lai ~HUD_COLOUR_NET_PLAYER1~ugunsdzēsēji ~s~ierodas jūsu lokācijā.</String>
         <String xml:lang="ar-001">اتصل بي 911 واطلب ~HUD_COLOUR_NET_PLAYER1~فرقة الإنقاذ ~s~الي موقعك</String>
+        <String xml:lang="es-ES">Marque al 911 y solicitar un ~HUD_COLOUR_NET_PLAYER1~ escuadrón de rescate ~s~a su ubicación.</String>
+        <String xml:lang="pt-BR">Disque 911 e solicite uma ~HUD_COLOUR_NET_PLAYER1~ equipe de resgate para ~s~o seu local.</String>
     </Entry>
 
     <Entry Id="imenu_services_taxi_text">
@@ -2408,6 +2520,8 @@
         <String xml:lang="hi-Latn">Taxi</String>
         <String xml:lang="lv-LV">Taksometrs</String>
         <String xml:lang="ar-001">سيارة أجرة</String>
+        <String xml:lang="es-ES">Taxi</String>
+        <String xml:lang="pt-BR">Táxi</String>
     </Entry>
 
     <Entry Id="imenu_services_taxi_description">
@@ -2420,6 +2534,8 @@
         <String xml:lang="hi-Latn">Taxi bulaayein.</String>
         <String xml:lang="lv-LV">Izsauciet taksometru.</String>
         <String xml:lang="ar-001">استدعاء سيارة أجرة</String>
+        <String xml:lang="es-ES">Pedir un taxi.</String>
+        <String xml:lang="pt-BR">Pedir um táxi.</String>
     </Entry>
 
     <Entry Id="imenu_services_mech_text">
@@ -2432,6 +2548,8 @@
         <String xml:lang="hi-Latn">Mechanic</String>
         <String xml:lang="lv-LV">Mehāniķis</String>
         <String xml:lang="ar-001">ميكانيكي</String>
+        <String xml:lang="es-ES">Mecánico</String>
+        <String xml:lang="pt-BR">Mecânico</String>
     </Entry>
 
     <Entry Id="imenu_services_mech_description">
@@ -2444,6 +2562,8 @@
         <String xml:lang="hi-Latn">Apne location par mechanic ko bulaayein.</String>
         <String xml:lang="lv-LV">Izsauciet mehāniķi uz jūsu lokāciju.</String>
         <String xml:lang="ar-001">استدعاء ميكانيكي الي موقعك.</String>
+        <String xml:lang="es-ES">Llama a un mecánico.</String>
+        <String xml:lang="pt-BR">Chamar um mecânico.</String>
     </Entry>
 
     <Entry Id="imenu_services_drugs_text">
@@ -2456,6 +2576,8 @@
         <String xml:lang="hi-Latn">Drugs</String>
         <String xml:lang="lv-LV">Narkotikas</String>
         <String xml:lang="ar-001">مخدرات</String>
+        <String xml:lang="es-ES">Drogas</String>
+        <String xml:lang="pt-BR">Drogas</String>
     </Entry>
 
     <Entry Id="imenu_services_drugs_description">
@@ -2468,6 +2590,8 @@
         <String xml:lang="hi-Latn">Illegal drugs khareedne ke liye ~r~drug dealer ~s~ko bulaayein.</String>
         <String xml:lang="lv-LV">Izsauciet ~r~narkotiku tirgotāju~s~, lai nopērktu nelegālas narkotikas.</String>
         <String xml:lang="ar-001">اتصل ~r~بتاجر المخدرات ~s~لشراء المخدرات غير القانونيه</String>
+        <String xml:lang="es-ES">Llamar a un ~r~camello ~s~para comprar drogas ilegales.</String>
+        <String xml:lang="pt-BR">Ligar para um ~r~traficante ~s~para comprar drogas ilegais.</String>
     </Entry>
 
     <Entry Id="imenu_services_hitman_text">
@@ -2480,6 +2604,8 @@
         <String xml:lang="hi-Latn">Hitman</String>
         <String xml:lang="lv-LV">Killers</String>
         <String xml:lang="ar-001">قاتل محترف</String>
+        <String xml:lang="es-ES">Sicario</String>
+        <String xml:lang="pt-BR">Sicário</String>
     </Entry>
 
     <Entry Id="imenu_services_hitman_description">
@@ -2492,5 +2618,15 @@
         <String xml:lang="hi-Latn">Kisi se chutkaara paane ke liye ~r~hitman ~s~ko bulaayein.</String>
         <String xml:lang="lv-LV">Izsauciet ~r~killeru~s~, lai no kāda tiktu vaļā.</String>
         <String xml:lang="ar-001">اتصل ~r~بقاتل محترف ~s~للتخلوص من شخص ما</String>
+        <String xml:lang="es-ES">Llama a un ~r~sicario ~s~para deshacerte de alguien.</String>
+        <String xml:lang="pt-BR">Chamar um ~r~assassino ~s~para se livrar de alguém.</String>
+    </Entry>
+
+    <Entry Id="imenu_services_arms_dealer_text">
+        <String xml:lang="en-US">Arms Dealer</String>
+    </Entry>
+
+    <Entry Id="imenu_services_arms_dealer_description">
+        <String xml:lang="en-US">Call an ~r~arms dealer ~s~to buy illegal weapons and ammo.</String>
     </Entry>
 </Entries>

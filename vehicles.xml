@@ -30,6 +30,8 @@
         <String xml:lang="cs-CZ">vozidlo</String>
         <String xml:lang="lv-LV">transportlīdzeklis</String>
         <String xml:lang="tr-TR">araç</String>
+        <String xml:lang="es-ES">vehículo</String>
+        <String xml:lang="pt-BR">veículo</String>
     </Entry>
 
     <Entry Id="cant_do_when_cuffed">
@@ -62,6 +64,8 @@
         <String xml:lang="cs-CZ">~r~Vlastní vozidlo nelze přivolat, pokud jsi mrtvý!</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat pasūtīt personīgo transportlīdzekli, kamēr esat miris!</String>
         <String xml:lang="tr-TR">~r~Ölüyken aracınızı çağıramazsınız!</String>
+        <String xml:lang="es-ES">~r~No puedes invocar un vehículo personal cuando estás muerto!</String>
+        <String xml:lang="pt-BR">~r~Não é possível chamar um veículo pessoal quando você está morto.!</String>
     </Entry>
 
     <Entry Id="cant_store_when_dead">
@@ -75,6 +79,8 @@
         <String xml:lang="cs-CZ">~r~Vlastní vozidlo nelze vrátit do garáže, pokud jsi mrtvý!</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat atgriezt savu personīgo transportlīdzekli, kamēr esat miris!</String>
         <String xml:lang="tr-TR">~r~Ölüyken aracını geri gönderemezsin!</String>
+        <String xml:lang="es-ES">~r~No puedes guardar tu vehículo personal cuando estás muerto!</String>
+        <String xml:lang="pt-BR">~r~Você não pode guardar seu veículo pessoal quando estiver morto!</String>
     </Entry>
 
     <Entry Id="cant_store_when_cuffed">
@@ -88,6 +94,8 @@
         <String xml:lang="cs-CZ">~r~Vlastní vozidlo nelze vrátit do garáže, pokud jsi spoutaný</String>
         <String xml:lang="lv-LV">~r~Jūs nevarat atgriezt savu personīgo transportlīdzekli, kamēr esat rokudzelžos!</String>
         <String xml:lang="tr-TR">~r~Kelepçeliyken aracını geri gönderemezsin!</String>
+        <String xml:lang="es-ES">~r~No puedes guardar tu vehículo personal cuando estás esposado!</String>
+        <String xml:lang="pt-BR">~r~Você não pode guardar seu veículo pessoal quando estiver algemado.!</String>
     </Entry>
 
     <Entry Id="cant_send_personal_vehicle_to_maintenance_when_inside">
@@ -158,6 +166,8 @@
         <String xml:lang="cs-CZ">Doručení vozidla již probíhá.</String>
         <String xml:lang="lv-LV">Jau notiek transportlīdzekļa piegāde.</String>
         <String xml:lang="tr-TR">Zaten devam eden bir araç teslimatı var.</String>
+        <String xml:lang="es-ES">Ya hay una entrega de vehículo en curso.</String>
+        <String xml:lang="pt-BR">A entrega de um veículo já está em andamento.</String>
     </Entry>
 
     <Entry Id="vehicle_delivered">
@@ -171,6 +181,8 @@
         <String xml:lang="cs-CZ">Tvé vozidlo ~b~{0} ~s~bylo doručeno!</String>
         <String xml:lang="lv-LV">Jūsu ~b~{0} ~s~tika piegādāts!</String>
         <String xml:lang="tr-TR">~b~{0} ~s~isimli aracın teslim edildi!</String>
+        <String xml:lang="es-ES">Tu ~b~{0} ~s~se ha entregado!</String>
+        <String xml:lang="pt-BR">Your ~b~{0} ~s~foi entregue!</String>
     </Entry>
 
     <Entry Id="vehicle_delivered_prank">
@@ -184,6 +196,7 @@
         <String xml:lang="cs-CZ">~b~Né pokaždé dostaneme to co chceme.</String>
         <String xml:lang="lv-LV">~b~Dažreiz mēs nesaņemam to, ko vēlamies.</String>
         <String xml:lang="tr-TR">~b~Bazen istediğimizi alamayız.</String>
+        <String xml:lang="pt-BR">~b~Às vezes, não conseguimos o que queremos.</String>
     </Entry>
 
     <Entry Id="vehicle_completed_maintenance">
@@ -330,6 +343,8 @@
         <String xml:lang="cs-CZ">palivo</String>
         <String xml:lang="lv-LV">degviela</String>
         <String xml:lang="tr-TR">benzin</String>
+        <String xml:lang="es-ES">combustible</String>
+        <String xml:lang="pt-BR">combustível</String>
     </Entry>
 
     <Entry Id="running_low_battery_unit">
@@ -343,6 +358,8 @@
         <String xml:lang="cs-CZ">baterie</String>
         <String xml:lang="lv-LV">uzlāde</String>
         <String xml:lang="tr-TR">batarya</String>
+        <String xml:lang="es-ES">batería</String>
+        <String xml:lang="pt-BR">bateria</String>
     </Entry>
 
     <Entry Id="fuel_bar">
@@ -356,6 +373,8 @@
         <String xml:lang="cs-CZ">PALIVO</String>
         <String xml:lang="lv-LV">DEGVIELA</String>
         <String xml:lang="tr-TR">BENZİN</String>
+        <String xml:lang="es-ES">COMBUSTIBLE</String>
+        <String xml:lang="pt-BR">COMBUSTÍVEL</String>
     </Entry>
 
     <Entry Id="battery_bar">
@@ -369,6 +388,8 @@
         <String xml:lang="cs-CZ">BATERIE</String>
         <String xml:lang="lv-LV">UZLĀDE</String>
         <String xml:lang="tr-TR">BATARYA</String>
+        <String xml:lang="es-ES">BATERÍA</String>
+        <String xml:lang="pt-BR">BATERIA</String>
     </Entry>
 
     <Entry Id="on_foot_to_use_fuel_pump">
@@ -401,6 +422,8 @@
         <String xml:lang="cs-CZ">Nesmíš být ~r~ve vozidle ~s~abys mohl použít ~g~nabíječkur~s~.</String>
         <String xml:lang="lv-LV">Jums ir jābūt ~r~kājām~s~, lai izmantotu ~g~uzlādes staciju~s~.</String>
         <String xml:lang="tr-TR">Bir ~g~elektrikli araç şarj istasyonunu ~s~kullanmak için ~r~yaya ~s~olmalısınız.</String>
+        <String xml:lang="es-ES">Debe ir a ~r~pie ~s~para utilizar ~g~un cargador EV~s~.</String>
+        <String xml:lang="pt-BR">É preciso ir a ~r~pé ~s~para usar um ~g~carregador de EV~s~.</String>
     </Entry>
 
     <Entry Id="vehicle_in_maintenance">
@@ -530,6 +553,8 @@
         <String xml:lang="lv-LV">~g~aizslēdzat</String>
         <String xml:lang="sv-SE">~g~låst</String>
         <String xml:lang="tr-TR">~g~kilitlendi</String>
+        <String xml:lang="es-ES">~g~bloqueado</String>
+        <String xml:lang="pt-BR">~g~bloqueado</String>
     </Entry>
 
     <Entry Id="vehicle_option_unlocked">
@@ -544,6 +569,8 @@
         <String xml:lang="lv-LV">~r~atslēdzat</String>
         <String xml:lang="sv-SE">~r~olåst</String>
         <String xml:lang="tr-TR">~r~açıldı</String>
+        <String xml:lang="es-ES">~r~desbloqueado</String>
+        <String xml:lang="pt-BR">~r~desbloqueado</String>
     </Entry>
 
     <Entry Id="vehicle_ejecting_passenger_cooldown">
@@ -690,6 +717,8 @@
         <String xml:lang="cs-CZ">Spravovat</String>
         <String xml:lang="lv-LV">Pārvaldīt</String>
         <String xml:lang="tr-TR">Yönet</String>
+        <String xml:lang="es-ES">Gestionar</String>
+        <String xml:lang="pt-BR">Gerenciar</String>
     </Entry>
 
     <Entry Id="menu_vehicles_favorite_button">
@@ -703,6 +732,8 @@
         <String xml:lang="cs-CZ">Oblíbené</String>
         <String xml:lang="lv-LV">Izlase</String>
         <String xml:lang="tr-TR">Favori</String>
+        <String xml:lang="es-ES">Favoritos</String>
+        <String xml:lang="pt-BR">Favoritos</String>
     </Entry>
 
     <Entry Id="menu_vehicles_manage_subtitle">
@@ -735,6 +766,8 @@
         <String xml:lang="cs-CZ">Spravuj své vozidlo {0}</String>
         <String xml:lang="lv-LV">Pārvaldiet jūsu {0}</String>
         <String xml:lang="tr-TR">{0}larını yönet</String>
+        <String xml:lang="es-ES">Gestione su {0}</String>
+        <String xml:lang="pt-BR">Gerencie seu {0}</String>
     </Entry>
 
     <Entry Id="menu_vehicles_manage_subtitle_var_rented">
@@ -748,6 +781,8 @@
         <String xml:lang="cs-CZ">Spravuj své pronajaté vozidlo {0}</String>
         <String xml:lang="lv-LV">Pārvaldiet jūsu nomāto {0}</String>
         <String xml:lang="tr-TR">Kiralık {0}larını yönet</String>
+        <String xml:lang="es-ES">Gestione su {0} alquilado</String>
+        <String xml:lang="pt-BR">Gerencie sua {0} alugada</String>
     </Entry>
 
     <Entry Id="menu_vehicles_ownershiphist_subtitle">
@@ -766,6 +801,7 @@
         <String xml:lang="cs-CZ">Historie vlastnictví</String>
         <String xml:lang="lv-LV">Īpašumtiesību vēsture</String>
         <String xml:lang="tr-TR">Sahiplik geçmişi</String>
+        <String xml:lang="hi-Latn">Ownership history</String>
     </Entry>
 
     <Entry Id="error_creating_vehicle">
@@ -779,6 +815,8 @@
         <String xml:lang="cs-CZ">~r~Nelze vytvořit vozidlo.</String>
         <String xml:lang="lv-LV">~r~Nav iespējams izveidot transportlīdzekli.</String>
         <String xml:lang="tr-TR">~r~Araç oluşturulamıyor.</String>
+        <String xml:lang="es-ES">~r~No se puede crear un vehículo.</String>
+        <String xml:lang="pt-BR">~r~Não é possível criar um veículo.</String>
     </Entry>
 
     <Entry Id="menu_vehicles_favorite_removed">
@@ -792,6 +830,8 @@
         <String xml:lang="cs-CZ">~r~Odebral ~s~jsi ~p~{0} ~s~z tvých oblíbených vozidel. Obnov menu pro zobrazení změn.</String>
         <String xml:lang="lv-LV">Jūs ~r~noņēmāt ~s~šo ~p~{0} ~s~no savas izlases. Atsvaidziniet izvēlni, lai ieraudzītu izmaiņas.</String>
         <String xml:lang="tr-TR">~p~{0} ~s~isimli aracını favori araçlarından ~r~kaldırdın~s~. Uygulanan değişiklikleri görmek için menüyü yenile.</String>
+        <String xml:lang="es-ES">Has ~r~eliminado ~s~el ~p~{0} ~s~de tus vehículos favoritos. Actualice el menú para ver los cambios aplicados.</String>
+        <String xml:lang="pt-BR">Você ~r~removeu~s~ o ~p~{0} ~s~de seus veículos favoritos. Atualize o menu para ver as alterações aplicadas.</String>
     </Entry>
 
     <Entry Id="menu_vehicles_favorite_added">
@@ -805,6 +845,8 @@
         <String xml:lang="cs-CZ">~g~Přidal ~s~jsi ~p~{0} ~s~do svých oblíbených vozidel. Obnov menu pro zobrazení změn.</String>
         <String xml:lang="lv-LV">Jūs ~g~pievienojāt ~s~šo ~p~{0} ~s~savai izlasei. Atsvaidziniet izvēlni, lai ieraudzītu izmaiņas.</String>
         <String xml:lang="tr-TR">~p~{0} ~s~isimli aracı favori araçlarına ~g~ekledin~s~. Uygulanan değişiklikleri görmek için menüyü yenile.</String>
+        <String xml:lang="es-ES">Has ~g~añadido~s~ el ~p~{0} ~s~a tus vehículos favoritos. Actualice el menú para ver los cambios aplicados.</String>
+        <String xml:lang="pt-BR">Você ~g~adicionou ~s~o ~p~{0}~s~ aos seus veículos favoritos. Atualize o menu para ver as alterações aplicadas.</String>
     </Entry>
 
     <Entry Id="menu_vehicles_category_favorite">
@@ -819,6 +861,8 @@
         <String xml:lang="lv-LV">Izlasītie transportlīdzekļi</String>
         <String xml:lang="sv-SE">Favorit Bilar</String>
         <String xml:lang="tr-TR">Favori Araçlar</String>
+        <String xml:lang="es-ES">Vehículos favoritos</String>
+        <String xml:lang="pt-BR">Veículos favoritos</String>
     </Entry>
 
     <Entry Id="menu_vehicles_category_rented">
@@ -832,6 +876,8 @@
         <String xml:lang="cs-CZ">Pronajatá Vozidla</String>
         <String xml:lang="lv-LV">Nomātie transportlīdzekļi</String>
         <String xml:lang="tr-TR">Kiralanan Araçlar</String>
+        <String xml:lang="es-ES">Vehículos alquilados</String>
+        <String xml:lang="pt-BR">Veículos alugados</String>
     </Entry>
 
     <Entry Id="menu_vehicles_search_text">
@@ -845,6 +891,8 @@
         <String xml:lang="cs-CZ">Zadej model, značku nebo registrační značku vozidla.</String>
         <String xml:lang="lv-LV">Ievadiet transportlīdzkļa modeli, marku vai reģistrācijas numuru.</String>
         <String xml:lang="tr-TR">Aracın modelini, markasını veya plakasını girin.</String>
+        <String xml:lang="es-ES">Introduzca el modelo, la marca o la matrícula del vehículo.</String>
+        <String xml:lang="pt-BR">Digite o modelo, a marca ou o número de registro do veículo.</String>
     </Entry>
 
     <Entry Id="menu_vehicles_rental_extend_confirm_title">
@@ -858,6 +906,8 @@
         <String xml:lang="cs-CZ">Prodloužit</String>
         <String xml:lang="lv-LV">Pagarināt</String>
         <String xml:lang="tr-TR">Uzat</String>
+        <String xml:lang="es-ES">Extender</String>
+        <String xml:lang="pt-BR">Estender</String>
     </Entry>
 
     <Entry Id="menu_vehicles_rental_extend_confirm_message">
@@ -871,6 +921,8 @@
         <String xml:lang="cs-CZ">Opravdu chceš prodloužit pronájem vozidla ~b~{0} ~s~za ~g~{1}~s~?</String>
         <String xml:lang="lv-LV">Vai tiešām vēlaties pagarināt šī ~b~{0} ~s~nomu par ~g~{1}~s~?</String>
         <String xml:lang="tr-TR">~b~{0} ~s~isimli aracın kiralama süresini ~g~{1} ~s~karşılığında uzatmak istediğinden emin misin?</String>
+        <String xml:lang="es-ES">¿De verdad quieres extender el alquiler de este ~b~{0} ~s~por ~g~{1}~s~?</String>
+        <String xml:lang="pt-BR">Você realmente deseja estender o aluguel desse ~b~{0} ~s~por ~g~{1}~s~?</String>
     </Entry>
 
     <Entry Id="menu_vehicles_rental_terminate_confirm_title">
@@ -884,6 +936,8 @@
         <String xml:lang="cs-CZ">Ukončit</String>
         <String xml:lang="lv-LV">Pārtraukt</String>
         <String xml:lang="tr-TR">Sonlandır</String>
+        <String xml:lang="es-ES">Terminar</String>
+        <String xml:lang="pt-BR">Acabar</String>
     </Entry>
 
     <Entry Id="menu_vehicles_rental_terminate_confirm_message">
@@ -897,6 +951,8 @@
         <String xml:lang="cs-CZ">Opravdu chceš ukončit pronájem vozidla ~b~{0}~s~?</String>
         <String xml:lang="lv-LV">Vai tiešām vēlaties pārtraukt šī ~b~{0} ~s~nomu?</String>
         <String xml:lang="tr-TR">~b~{0} ~s~isimli aracın kiralamasını sonlandırmak istediğinden emin misin?</String>
+        <String xml:lang="es-ES">¿De verdad quieres poner fin al alquiler de este ~b~{0}~s~?</String>
+        <String xml:lang="pt-BR">Você realmente quer acabar com o aluguel desse ~b~{0}~s~?</String>
     </Entry>
 
     <Entry Id="menu_vehicles_sell_confirm_title">
@@ -910,6 +966,8 @@
         <String xml:lang="cs-CZ">Prodat</String>
         <String xml:lang="lv-LV">Pārdot</String>
         <String xml:lang="tr-TR">Sat</String>
+        <String xml:lang="es-ES">Vender</String>
+        <String xml:lang="pt-BR">Vender</String>
     </Entry>
 
     <Entry Id="menu_vehicles_sell_confirm_message">
@@ -923,6 +981,8 @@
         <String xml:lang="cs-CZ">Opravdu chceš prodat ~b~{0} ~s~serveru za ~g~{1}~s~?</String>
         <String xml:lang="lv-LV">Vai tiešām vēlaties pārdot jūsu ~b~{0} ~s~serverim par ~g~{1}~s~?</String>
         <String xml:lang="tr-TR">~b~{0} ~s~isimli aracını ~g~{1} ~s~karşılığında sunucuya satmak istediğinden emin misin?</String>
+        <String xml:lang="es-ES">¿Realmente quieres vender tu ~b~{0} ~s~al servidor por~g~{1}~s~?</String>
+        <String xml:lang="pt-BR">Você realmente quer vender seu ~b~{0} ~s~para o servidor por ~g~{1}~s~?</String>
     </Entry>
 
     <Entry Id="menu_vehicles_counter_text">
@@ -937,6 +997,8 @@
         <String xml:lang="lv-LV">{0} transportlīdzekļi</String>
         <String xml:lang="tr-TR">{0} araç</String>
         <String xml:lang="zh-Hant">{0} 車輛</String>
+        <String xml:lang="es-ES">{0} vehículos</String>
+        <String xml:lang="pt-BR">{0} veículos</String>
     </Entry>
 
     <Entry Id="menu_vehicles_empty_job_text">
@@ -951,6 +1013,8 @@
         <String xml:lang="lv-LV">Nav darba transportlīdzekļu :(</String>
         <String xml:lang="tr-TR">Mesleğine uygun aracın yok :(</String>
         <String xml:lang="zh-Hant">沒有工作車輛</String>
+        <String xml:lang="es-ES">No hay vehículos de trabajo:(</String>
+        <String xml:lang="pt-BR">Não há veículos de trabalho :(</String>
     </Entry>
 
     <Entry Id="menu_vehicles_empty_job_description">
@@ -965,6 +1029,8 @@
         <String xml:lang="lv-LV">Jums nav neviena transportlīdzekļa priekš jūsu ~b~pašreizēja darba~s~, un jūs ~r~nevarat ~s~izmantot savus personīgos transportlīdzekļus kamēr esat šajā darbā. Nopērciet darba transportlīdzkļus un tie paradīsies šajā izvēlnē.</String>
         <String xml:lang="tr-TR">~b~Mevcut mesleğinize ~s~uygun bir aracınız yok ve bu meslekteyken kişisel araçlarınızı ~r~kullanamazsınız~s~. Satın aldığınız mesleğinize uygun araçlar bu menüde görünecek.</String>
         <String xml:lang="zh-Hant">你沒有任何適用 ~b~當前職業~s~ 的車輛,你也 ~r~不能~s~ 在做當前職業時使用你的個人載具. 如購買工作車輛即會在此菜單上顯示.</String>
+        <String xml:lang="es-ES">No tienes ningún vehículo para tu ~b~trabajo actual~s~ y ~r~no puedes ~s~usar tus vehículos personales mientras estés en este trabajo. Compra vehículos para el trabajo y aparecerán en este menú.</String>
+        <String xml:lang="pt-BR">Você não possui veículos para seu ~b~trabalho atual~s~ e ~r~não pode ~s~usar seus veículos pessoais enquanto estiver neste trabalho. Compre veículos para trabalho e eles aparecerão neste menu.</String>
     </Entry>
 
     <Entry Id="menu_vehicles_empty_personal_text">
@@ -980,6 +1046,8 @@
         <String xml:lang="lv-LV">Nav personīgo transportlīdzekļu :(</String>
         <String xml:lang="tr-TR">Kişisel aracın yok :(</String>
         <String xml:lang="zh-Hant">無個人載具 :(</String>
+        <String xml:lang="es-ES">Sin vehículos personales :(</String>
+        <String xml:lang="pt-BR">Sem veículos pessoais :(</String>
     </Entry>
 
     <Entry Id="menu_vehicles_empty_personal_description">

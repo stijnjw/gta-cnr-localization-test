@@ -12,6 +12,8 @@
         <String xml:lang="lv-LV">Pārslēgties uz {0}</String>
         <String xml:lang="ar-001">التحويل الي {0}</String>
         <String xml:lang="zh-Hant">切換成 {0}</String>
+        <String xml:lang="es-ES">Cambiar a {0}</String>
+        <String xml:lang="pt-BR">Mudar para {0}</String>
     </Entry>
 
     <Entry Id="jobs_switch_to_description">
@@ -25,6 +27,8 @@
         <String xml:lang="sv-SE">Spara ditt nuvarande jobb framsteg och bli en {0}.</String>
         <String xml:lang="lv-LV">Saglabājiet jūsu pašreizējo darba progresu un kļūstiet par {0}.</String>
         <String xml:lang="ar-001">احفظ تقدمك الوظيفي الحالي وكن {0}</String>
+        <String xml:lang="es-ES">Guarda tu progreso laboral actual y conviértete en {0}.</String>
+        <String xml:lang="pt-BR">Salve sua progressão no trabalho atual e torne-se um {0}.</String>
     </Entry>
 
     <Entry Id="jobs_min_level">
@@ -60,6 +64,8 @@
         <String xml:lang="lv-LV">Jūs esat pagaidu ~r~bloķēts~s~ no {0} darba.</String>
         <String xml:lang="ar-001">لقد تم ~r~حظرك~s~ مؤقتًا من وظيفة {0}</String>
         <String xml:lang="zh-Hant">你被暫時從職業 {0} ~r~封禁~s~ 了.</String>
+        <String xml:lang="es-ES">Se le prohíbe temporalmente el trabajo de {0}.</String>
+        <String xml:lang="pt-BR">Você está temporariamente proibido de como {0}</String>
     </Entry>
 
     <Entry Id="jobs_wanted_level">
@@ -74,6 +80,8 @@
         <String xml:lang="lv-LV">Jūs nevarat kļut par {0} kamēr jūs ~o~meklē ~s~policija.</String>
         <String xml:lang="ar-001"> لا يمكنك أن تصبح {0} عندما تكون  ~o~مطلوب~s~</String>
         <String xml:lang="zh-Hant">被 ~o~通緝~s~ 時不能成為 {0}.</String>
+        <String xml:lang="es-ES">No puedes convertirte en {0} cuando eres ~o~buscado~s~ por la policia.</String>
+        <String xml:lang="pt-BR">Você não pode se tornar um {0} quando está sendo ~o~procurado~s~ pela polícia.</String>
     </Entry>
 
     <Entry Id="jobs_test_required">
@@ -88,6 +96,8 @@
         <String xml:lang="lv-LV">Jums ir jānokārto ~y~eksāmens~s~, lai kļūtu par {0}.</String>
         <String xml:lang="ar-001">يتعين عليك اجتياز ~y~الاختبار~s~ لتصبح {0}</String>
         <String xml:lang="zh-Hant">成為 {0} 前須先通過 ~y~測驗~s~.</String>
+        <String xml:lang="es-ES">Para ser {0} hay que aprobar el ~y~examen~s~.</String>
+        <String xml:lang="pt-BR">É preciso passar no ~y~exame~s~ para se tornar um {0}.</String>
     </Entry>
 
     <Entry Id="jobs_license_required">
@@ -98,6 +108,9 @@
         <String xml:lang="lv-LV">Jums ir nepieciešams ~b~{0}~s~, lai kļūtu par {1}.</String>
         <String xml:lang="ar-001">تحتاج الي ~b~{0}~s~ لتصبح {1}</String>
         <String xml:lang="zh-Hant">你需要 ~b~{0}~s~ 才可成為 {1}.</String>
+        <String xml:lang="es-ES">Necesitas un ~b~{0} ~s~para convertirte en un {1}.</String>
+        <String xml:lang="pt-BR">Você precisa de um ~b~{0} ~s~para se tornar um {1}.</String>
+        <String xml:lang="hi-Latn">Aapko {1} banne ke liye ~b~{0} ~s~chahiye.</String>
     </Entry>
 
     <Entry Id="jobs_player_limit">
@@ -112,6 +125,8 @@
         <String xml:lang="lv-LV">Jūs nevarat kļūt par {0}, jo ir sasniegts {1}% spēlētāju ierobežojums.</String>
         <String xml:lang="ar-001">لا يمكنك أن تصبح {0} لأنه تم الوصول إلى الحد الأقصى {1}% لعدد اللاعبين</String>
         <String xml:lang="zh-Hant">你無法在玩家人數達到 {1}% 限制時成為 {0}.</String>
+        <String xml:lang="es-ES">No puedes convertirte en {0} porque se ha alcanzado el límite del {1}% de jugadores.</String>
+        <String xml:lang="pt-BR">Você não pode se tornar um {0} porque o limite de {1}% de jogadores foi atingido.</String>
     </Entry>
 
     <Entry Id="jobs_min_playtime">
@@ -167,6 +182,7 @@
         <String xml:lang="lv-LV">~r~Jūs nevarat mainīt jūsu darbu, kamēr atrodaties misijā.</String>
         <String xml:lang="ar-001">~r~لا يمكنك تغيير وظيفتك أثناء وجودك في مهمة</String>
         <String xml:lang="zh-Hant">~r~你不能在做任務時更換工作.</String>
+        <String xml:lang="hi-Latn">~r~Aap mission ke dauraan apni job change nahi kar sakte.</String>
     </Entry>
 
     <Entry Id="jobs_cant_change_inside_vehicle">
@@ -259,6 +275,10 @@
         <String xml:lang="sv-SE">Ban anledning: ~r~{0}~s~. utgår ~y~{1}~s~.</String>
         <String xml:lang="lv-LV">Bloķējuma iemesls: ~r~{0}~s~. Beigsies ~y~{1}~s~.</String>
         <String xml:lang="zh-Hant">封禁原因: ~r~{0}~s~. 在 ~y~{1}~s~ 後解除.</String>
+        <String xml:lang="es-ES">Motivo de baneo: ~r~{0}~s~. Expira ~y~{1}~s~.</String>
+        <String xml:lang="pt-BR">Motivo da proibição: ~r~{0}~s~. Expira ~y~{1}~s~.</String>
+        <String xml:lang="ar-001">سبب الحظر: ~r~{0}~s~. ينتهي ~y~{1}~s~.</String>
+        <String xml:lang="hi-Latn">Ban ka reason: ~r~{0}~s~. Expire hoga ~y~{1}~s~.</String>
     </Entry>
 
     <Entry Id="jobs_queue_added">
@@ -266,6 +286,9 @@
         <String xml:lang="lv-LV">Jūs tikāt ievietots ~p~rindā~s~.</String>
         <String xml:lang="nl-NL">Je bent in de ~p~wachtrij~s~ geplaatst.</String>
         <String xml:lang="de-DE">Du wurdest der ~p~Warteschlange~s~ hinzugefügt.</String>
+        <String xml:lang="es-ES">Se le ha colocado en la ~p~cola~s~.</String>
+        <String xml:lang="pt-BR">Ele foi colocado na fila de ~p~espera~s~.</String>
+        <String xml:lang="hi-Latn">Aapko ~p~queue~s~ mein rakha gaya hai.</String>
     </Entry>
 
     <Entry Id="jobs_queue_position">
@@ -273,6 +296,9 @@
         <String xml:lang="lv-LV">Jūsu pozīcija ir ~y~{0}/{1}~s~ rindā uz {2} darbu.</String>
         <String xml:lang="nl-NL">Jouw positie in de {2} wachtrij is ~y~{0}/{1}~s~.</String>
         <String xml:lang="de-DE">Du befindest dich auf Position ~y~{0}/{1}~s~ in der Wartschlange für den {2}-Job.</String>
+        <String xml:lang="es-ES">Tu posición es ~y~{0}/{1}~s~ en la cola de {2} trabajos.</String>
+        <String xml:lang="pt-BR">Sua posição é ~y~{0}/{1}~s~ na fila de {2} trabalhos.</String>
+        <String xml:lang="hi-Latn">Aapki position queue mein ~y~{0}/{1}~s~ hai {2} job ke liye.</String>
     </Entry>
 
     <Entry Id="jobs_queue_finished">
@@ -280,6 +306,9 @@
         <String xml:lang="lv-LV">Jums tika piešķirts {0} darbs.</String>
         <String xml:lang="nl-NL">Je huidige baan is nu {0}.</String>
         <String xml:lang="de-DE">Du wurdest dem {0}-Job zugewiesen.</String>
+        <String xml:lang="es-ES">Se le ha asignado el puesto {0}.</String>
+        <String xml:lang="pt-BR">A posição {0} foi atribuída a você.</String>
+        <String xml:lang="hi-Latn">Aapko {0} ki job assign kar di gayi hai.</String>
     </Entry>
 
     <Entry Id="jobs_queue_left">
@@ -287,6 +316,9 @@
         <String xml:lang="lv-LV">~r~Jūs atstājāt darba rindu!~s~</String>
         <String xml:lang="nl-NL">~r~Je hebt de baan wachtrij verlaten!~s~</String>
         <String xml:lang="de-DE">~r~Du hast die Warteschlange für diesen Job verlassen~s~</String>
+        <String xml:lang="es-ES">~r~¡Has abandonado la cola de trabajo!~s~</String>
+        <String xml:lang="pt-BR">~r~Você saiu da fila de trabalho!~s~</String>
+        <String xml:lang="hi-Latn">~r~Aapne job queue chhod diya!~s~</String>
     </Entry>
 
     <Entry Id="jobs_queue_already_in">
@@ -294,6 +326,9 @@
         <String xml:lang="lv-LV">~r~Jūs jau esat rindā uz šo darbu.</String>
         <String xml:lang="nl-NL">~r~Je zit al in de wachtrij voor deze baan.</String>
         <String xml:lang="de-DE">~r~Du befindest dich bereits in der Warteschlange für diesen Job.</String>
+        <String xml:lang="es-ES">~r~Ya estás en la cola para este trabajo.</String>
+        <String xml:lang="pt-BR">~r~Você já está na fila de espera para este trabalho.</String>
+        <String xml:lang="hi-Latn">~r~Aap pehle se hi is job ke queue mein hain.</String>
     </Entry>
 
     <Entry Id="stp_offered_service">
@@ -1082,6 +1117,8 @@
         <String xml:lang="de-DE">Du hast ein ~b~{0}~s~ erhalten!</String>
         <String xml:lang="lv-LV">Jus ieguvāt ~b~{0}~s~!</String>
         <String xml:lang="ar-001">لقد حصلت على ~b~{0}~s~!</String>
+        <String xml:lang="es-ES">Ha obtenido un ~b~{0}~s~!</String>
+        <String xml:lang="pt-BR">Você recebeu um ~b~{0}~s~!</String>
     </Entry>
 
     <Entry Id="mechanic_dont_have_vehicle_repair">
@@ -1163,6 +1200,8 @@
         <String xml:lang="id-ID">Kendaraanmu sedang ~g~diperbaiki~s~. Jangan ~r~menggerakkan ~s~kendaraan!</String>
         <String xml:lang="lv-LV">Jūsu transportlīdzeklis tiek ~g~labots~s~. ~r~Nepārvietojiet~s~ transportlīdzekli!</String>
         <String xml:lang="ar-001">يتم الآن ~g~اصلاح~s~ سيارتك لا ~r~تحرك ~s~السيارة!</String>
+        <String xml:lang="es-ES">Su vehículo está siendo ~g~reparado~s~. No ~r~mueva ~s~el vehículo!</String>
+        <String xml:lang="pt-BR">Seu veículo está sendo ~g~consertado~s~. Não ~r~mova ~s~o veículo!</String>
     </Entry>
 
     <Entry Id="mechanic_vehicle_repaired">
@@ -1232,6 +1271,8 @@
         <String xml:lang="id-ID">~r~Perbaikan dibatalkan.</String>
         <String xml:lang="lv-LV">~r~Remonts tika atcelts.</String>
         <String xml:lang="ar-001">~r~تم إلغاء الإصلاح.</String>
+        <String xml:lang="es-ES">~r~La reparación ha sido cancelada.</String>
+        <String xml:lang="pt-BR">~r~O conserto foi cancelado</String>
     </Entry>
 
     <Entry Id="mechanic_full_repair">
@@ -1244,6 +1285,8 @@
         <String xml:lang="id-ID">Perbaikan penuh</String>
         <String xml:lang="lv-LV">Pilns remonts</String>
         <String xml:lang="ar-001">اصلاح كامل</String>
+        <String xml:lang="es-ES">Reparación completa</String>
+        <String xml:lang="pt-BR">Conserto completo</String>
     </Entry>
 
     <Entry Id="mechanic_full_repair_desc">
@@ -1255,6 +1298,8 @@
         <String xml:lang="it-IT">Ripara completamente il tuo veicolo. Tempo: ~b~{0} secondi~s~.</String>
         <String xml:lang="id-ID">Perbaikan penuh kendaraanmu. Waktu: ~b~{0} detik~s~.</String>
         <String xml:lang="lv-LV">Pilnībā salabojiet jūsu transportlīdzekli. Laiks: ~b~{0} sekundes~s~.</String>
+        <String xml:lang="es-ES">Repare por completo su vehículo. Tiempo: ~b~{0} segundos~s~.</String>
+        <String xml:lang="pt-BR">Conserte seu veículo completamente. Tempo: ~b~{0} segundos~s~.</String>
     </Entry>
 
     <Entry Id="mechanic_quick_repair">
@@ -1266,6 +1311,8 @@
         <String xml:lang="it-IT">Riparazione rapida</String>
         <String xml:lang="id-ID">Perbaikan cepat</String>
         <String xml:lang="lv-LV">Ātrs remonts</String>
+        <String xml:lang="es-ES">Reparación rápida</String>
+        <String xml:lang="pt-BR">Conserto rápido</String>
     </Entry>
 
     <Entry Id="mechanic_quick_repair_desc">
@@ -1277,6 +1324,8 @@
         <String xml:lang="it-IT">Ripara rapidamente il motore del tuo veicolo fino al 75% di salute. Tempo: ~b~{0} secondi~s~.</String>
         <String xml:lang="id-ID">Perbaiki kendaraanmu secara cepat untuk memulihkan kondisi mesin hingga 75%. Waktu : ~b~{0} detik~s~.</String>
         <String xml:lang="lv-LV">Ātri salabojiet jūsu transportlīdzekļa dzinēju līdz 75% veselībai. Laiks: ~b~{0} sekundes~s~.</String>
+        <String xml:lang="es-ES">Repara rápidamente el motor de tu vehículo hasta un 75% de salud. Tiempo: ~b~{0} segundos~s~.</String>
+        <String xml:lang="pt-BR">Conserte rapidamente o motor do seu veículo para obter 75% de saúde. Tempo: ~b~{0} segundos~s~.</String>
     </Entry>
 
     <Entry Id="mechanic_tire_repair">
@@ -1288,6 +1337,8 @@
         <String xml:lang="it-IT">Sostituzione pneumatici</String>
         <String xml:lang="id-ID">Perbaiki ban</String>
         <String xml:lang="lv-LV">Riepu remonts</String>
+        <String xml:lang="es-ES">Reparar neumaticos</String>
+        <String xml:lang="pt-BR">Conserto de pneus</String>
     </Entry>
 
     <Entry Id="mechanic_tire_repair_desc">
@@ -1299,6 +1350,8 @@
         <String xml:lang="it-IT">Sostituisci gli pneumatici del tuo veicolo. Tempo: ~b~{0} secondi~s~.</String>
         <String xml:lang="id-ID">Mengganti ban kendaraanmu. Waktu: ~b~{0} detik~s~.</String>
         <String xml:lang="lv-LV">Nomainiet jūsu transportlīdzekļa riepas. Laiks: ~b~{0} sekundes~s~.</String>
+        <String xml:lang="es-ES">Cambia los neumáticos de su vehículo. Tiempo: ~b~{0} segundos~s~.</String>
+        <String xml:lang="pt-BR">Troque os pneus de seu veículo. Tempo: ~b~{0} segundos~s~.</String>
     </Entry>
 
     <Entry Id="mechanic_cant_impound_vehicle">
@@ -3027,6 +3080,9 @@
         <String xml:lang="nl-NL">Je kan iemand zijn handboeien ~o~niet losmaken ~s~wanneer jij en het ~r~doelwit ~s~niet in hetzelfde ~y~voertuig ~s~zitten.</String>
         <String xml:lang="de-DE">Du darfst niemanden ~o~freilassen, ~s~wenn du und das ~r~Ziel~s~ nicht im selben ~y~Fahrzeug~s~ sind.</String>
         <String xml:lang="lv-LV">Jūs nevarat ~o~atbrīvot~s~ kādu, kamēr jūs un ~r~mērķis~s~ neatrodaties vienā ~y~transportlīdzeklī~s~.</String>
+        <String xml:lang="es-ES">No puedes ~o~quitarle las esposas ~s~a alguien cuando tú y el ~r~objetivo~s~ no estáis en el mismo ~y~vehículo~s~.</String>
+        <String xml:lang="pt-BR">Você não pode ~o~tirar as algemas ~s~de alguém quando você e o ~r~alvo ~s~não estiverem no mesmo ~y~veículo.~s~.</String>
+        <String xml:lang="hi-Latn">Jab tak aap aur ~r~target~s~ ek hi ~y~vehicle ~s~mein nahi hote, tab tak aap kisi ko ~o~uncuff ~s~nahi kar sakte.</String>
     </Entry>
 
     <Entry Id="police_giving_ticket">
@@ -3037,6 +3093,9 @@
         <String xml:lang="fr-FR">Tu donnes une contravention à {0}.</String>
         <String xml:lang="de-DE">Du gibst {0} einen Strafzettel.</String>
         <String xml:lang="lv-LV">Jūs izsniedzat {0} sodu.</String>
+        <String xml:lang="es-ES">Usted está dando a {0} un multa.</String>
+        <String xml:lang="pt-BR">Você está dando uma multa a {0}.</String>
+        <String xml:lang="hi-Latn">Aap {0} ko ek ticket de rahe hain.</String>
     </Entry>
 
     <Entry Id="police_giving_ticket_failed">
@@ -3047,6 +3106,9 @@
         <String xml:lang="fr-FR">~r~Tu n'as pas réussi à donner une contravention à {0}.</String>
         <String xml:lang="de-DE">~r~Du hast es nicht geschafft, {0} einen Strafzettel zu geben.</String>
         <String xml:lang="lv-LV">~r~Jums neizdevās izsniegt {0} sodu.</String>
+        <String xml:lang="es-ES">~r~No le has dado a {0} una multa.</String>
+        <String xml:lang="pt-BR">~r~Você não deu a {0} uma multa.</String>
+        <String xml:lang="hi-Latn">~r~Aap {0} ko ticket nahi de paaye.</String>
     </Entry>
 
     <Entry Id="police_giving_ticket_succeeded">
@@ -3057,6 +3119,9 @@
         <String xml:lang="fr-FR">Tu as donné une contravention de ~b~{1} ~s~à {0}.</String>
         <String xml:lang="de-DE">Du hast {0} einen ~b~{1}~s~-Strafzettel gegeben.</String>
         <String xml:lang="lv-LV">Jūs esat izsniedzis {0} ~b~{1}~s~ sodu.</String>
+        <String xml:lang="es-ES">Le has dado a {0} un ~b~{1} ~s~multa.</String>
+        <String xml:lang="pt-BR">Você deu a {0} um ~b~{1} ~s~multa.</String>
+        <String xml:lang="hi-Latn">Aapne {0} ko ek ~b~{1} ~s~ticket diya.</String>
     </Entry>
 
     <Entry Id="police_ticket_menu_title">
@@ -3067,6 +3132,9 @@
         <String xml:lang="fr-FR">Contravention</String>
         <String xml:lang="de-DE">Strafzettel</String>
         <String xml:lang="lv-LV">Sods</String>
+        <String xml:lang="es-ES">Multa</String>
+        <String xml:lang="pt-BR">Multa</String>
+        <String xml:lang="hi-Latn">Ticket</String>
     </Entry>
 
     <Entry Id="police_ticket_menu_subtitle">
@@ -3077,6 +3145,9 @@
         <String xml:lang="fr-FR">{0} t'a donné une contravention</String>
         <String xml:lang="de-DE">{0} hat dir einen Strafzettel gegeben</String>
         <String xml:lang="lv-LV">{0} izsniedza jums sodu</String>
+        <String xml:lang="es-ES">{0} te dio una multa</String>
+        <String xml:lang="pt-BR">{0} lhe deu uma multa</String>
+        <String xml:lang="hi-Latn">{0} ne aapko ek ticket diya</String>
     </Entry>
 
     <Entry Id="police_ticket_pay">
@@ -3087,6 +3158,9 @@
         <String xml:lang="fr-FR">Payer</String>
         <String xml:lang="de-DE">Bezahlen</String>
         <String xml:lang="lv-LV">Maksāt</String>
+        <String xml:lang="es-ES">Pagar</String>
+        <String xml:lang="pt-BR">Pagar</String>
+        <String xml:lang="hi-Latn">Pay kare</String>
     </Entry>
 
     <Entry Id="police_ticket_pay_desc">
@@ -3097,6 +3171,9 @@
         <String xml:lang="fr-FR">Accepter et payer ~y~l'amende ~s~dès maintenant avec une réduction de ~g~25%~s~. Si tu n'as pas assez d'argent, le montant impayé sera ajouté en ~r~dette~s~.</String>
         <String xml:lang="de-DE">Akzeptiere und bezahle die ~y~Geldstrafe ~s~jetzt mit einer ~g~25% Ermäßigung~s~. Wenn du nicht genug Geld hast, wird der Betrag, der nicht bezahlt wurde, als ~r~Schulden~s~ hinzugefügt.</String>
         <String xml:lang="lv-LV">Pieņiemiet un samaksājiet ~y~sodu~s~ tagad ar ~g~25% samazinājumu~s~. Ja jums nav pietiekami daudz līdzekļu, nesamaksātā summa tiks pievienota kā ~r~parāds~s~.</String>
+        <String xml:lang="es-ES">Acepte y pague la ~y~multa ~s~ahora mismo con una ~g~reducción de 25%~s~. Si no tiene fondos suficientes, el importe impagado se añadirá como ~r~deuda~s~.</String>
+        <String xml:lang="pt-BR">Aceite e pague a ~y~multa ~s~agora mesmo com uma ~g~redução de 25%~s~. Se você não tiver fundos suficientes, o valor não pago será adicionado como ~r~dívida~s~.</String>
+        <String xml:lang="hi-Latn">Abhi ~y~fine ~s~ko ~g~25% kam karke ~s~chukaye. Agar aapke paas paise nahi hain, toh unpaid amount aapke ~r~debt ~s~mein add ho jayega.</String>
     </Entry>
 
     <Entry Id="police_ticket_contest">
@@ -3107,6 +3184,9 @@
         <String xml:lang="fr-FR">Contester</String>
         <String xml:lang="de-DE">Anfechten</String>
         <String xml:lang="lv-LV">Apstrīdēt</String>
+        <String xml:lang="es-ES">Concursante</String>
+        <String xml:lang="pt-BR">Concorrente</String>
+        <String xml:lang="hi-Latn">Contest kare</String>
     </Entry>
 
     <Entry Id="police_ticket_contest_desc">
@@ -3117,6 +3197,9 @@
         <String xml:lang="fr-FR">Contester cette contravention devant le ~b~tribunal~s~. Tu as 30% de chances de gagner et de ne rien payer.</String>
         <String xml:lang="de-DE">Fechte diesen Strafzettel vor ~b~Gericht~s~ an. Du hast eine 30% Chance, zu Gewinnen, und nichts bezahlen zu müssen.</String>
         <String xml:lang="lv-LV">Apstrīdējiet šo sodu ~b~tiesā~s~. Jums ir 30% iespēja uzvarēt un nemaksāt neko.</String>
+        <String xml:lang="es-ES">Lucha contra esta multa en los ~b~tribunales~s~. Usted tiene un 30% de posibilidades de ganar y no pagar nada.</String>
+        <String xml:lang="pt-BR">Lute contra essa multa no ~b~tribunal~s~. Você tem 30% de chance de ganhar e não pagar nada.</String>
+        <String xml:lang="hi-Latn">Iss ticket ko ~b~court ~s~mein contest kare. Aapko 30% chance hai ki aap jeet jayein aur kuch na pay karna pade.</String>
     </Entry>
 
     <Entry Id="police_ticket_bribe">
@@ -3127,6 +3210,9 @@
         <String xml:lang="fr-FR">~o~Pot-de-vin</String>
         <String xml:lang="de-DE">~o~Bestechen</String>
         <String xml:lang="lv-LV">~o~Piedāvāt kukuli</String>
+        <String xml:lang="es-ES">~o~Soborno</String>
+        <String xml:lang="pt-BR">~o~Suborno</String>
+        <String xml:lang="hi-Latn">~o~Bribe</String>
     </Entry>
 
     <Entry Id="police_ticket_bribe_desc">
@@ -3137,6 +3223,9 @@
         <String xml:lang="fr-FR">Tenter de ~o~soudoyer ~s~l'agent pour qu'il annule la contravention. Il y a un risque important que l'agent ~r~refuse ~s~le pot-de-vin et t'accuse d'un ~o~délit~s~.</String>
         <String xml:lang="de-DE">Versuch, ~o~den Beamten zu bestechen, um den Strafzettel ungültig zu machen. Es besteht ein erhebliches Risiko, dass der Beamte ~r~die Bestechung ablehnt ~s~und dich wegen eines ~o~Verbrechens~s~ belangt.</String>
         <String xml:lang="lv-LV">Mēģiniet ~o~uzpirkt~s~ policistu, lai atceltu sodu. Pastāv ievērojams risks, ka policists ~r~atteiksies~s~ no kukuļa un apsūdzēs jūs ar ~o~kriminālnoziegumu~s~.</String>
+        <String xml:lang="es-ES">Intentar ~o~sobornar ~s~al agente para que anule la multa. Existe un riesgo importante de que el agente ~r~rechace ~s~el soborno y le acuse de un ~o~delito ~s~grave.</String>
+        <String xml:lang="pt-BR">Tentativa de ~o~subornar ~s~o policial para cancelar a multa. Há um risco significativo de o policial ~r~recusar ~s~o suborno e acusá-lo de um ~o~delito ~s~grave.</String>
+        <String xml:lang="hi-Latn">~o~Bribe ~s~karne ki koshish karein officer ko ticket cancel karne ke liye. Officer aapke bribe ko ~r~refuse ~s~karne ke khatre mein hain aur aapko ~o~felony ~s~ke saath charge kar sakte hain.</String>
     </Entry>
 
     <Entry Id="police_no_longer_around">
@@ -3647,6 +3736,9 @@
         <String xml:lang="it-IT">Il ~r~veicolo~s~ è in movimento.</String>
         <String xml:lang="id-ID">~r~Kendaraan~s~ ini sedang bergerak.</String>
         <String xml:lang="lv-LV">~r~Transportlīdzeklis~s~ kustas.</String>
+        <String xml:lang="es-ES">El ~r~vehículo~s~ se está moviendo.</String>
+        <String xml:lang="pt-BR">O ~r~veículo~s~ está em movimento.</String>
+        <String xml:lang="hi-Latn">~r~Vehicle ~s~chal rahi hai.</String>
     </Entry>
 
     <Entry Id="police_break_window_success">
@@ -3657,6 +3749,9 @@
         <String xml:lang="it-IT">Hai sfondato il finestrino di {0} e sbloccato la porta.</String>
         <String xml:lang="id-ID">Kamu memecahkan jendela {0} dan membuka kunci pintu.</String>
         <String xml:lang="lv-LV">Jus izsitat {0} logu un atbloķējāt durvis.</String>
+        <String xml:lang="es-ES">Rompiste la ventana de {0} y abriste la puerta.</String>
+        <String xml:lang="pt-BR">Você quebrou a janela de {0} e abriu a porta.</String>
+        <String xml:lang="hi-Latn">Aapne {0} ki window tod di aur darwaza unlock kar diya.</String>
     </Entry>
 
     <Entry Id="police_window_broken">
@@ -3667,6 +3762,9 @@
         <String xml:lang="it-IT">L'agente {0} ha sfondato il tuo finestrino e sbloccato la porta.</String>
         <String xml:lang="id-ID">Petugas {0} memecahkan jendelamu dan membuka kunci pintu.</String>
         <String xml:lang="lv-LV">Policists {0} izsita jūsu logu un atbloķēja durvis.</String>
+        <String xml:lang="es-ES">El oficial {0} rompió tu ventana y abrió la puerta.</String>
+        <String xml:lang="pt-BR">O policial {0} quebrou sua janela e abriu a porta.</String>
+        <String xml:lang="hi-Latn">Officer {0} ne aapke window tod diye aur darwaza unlock kar diya.</String>
     </Entry>
 
     <Entry Id="police_exam_question_wanted_colors">
@@ -3678,6 +3776,8 @@
         <String xml:lang="it-IT">I colori del tag giocatore e dell'icona radar dei sospetti ricercati sono di colore...</String>
         <String xml:lang="id-ID">Warna dari name tag dan ikon radar dari pelaku kejahatan adalah...</String>
         <String xml:lang="lv-LV">Meklēto noziedznieku spēlētāja segvārda un radara ikonas krāsas ir...</String>
+        <String xml:lang="es-ES">Los colores de la etiqueta con el nombre y el icono del radar de los sospechosos buscados son...</String>
+        <String xml:lang="pt-BR">As cores da etiqueta com o nome e o ícone do radar dos suspeitos procurados são...</String>
     </Entry>
 
     <Entry Id="police_exam_answer_wanted_colors_red">
@@ -3689,6 +3789,8 @@
         <String xml:lang="it-IT">Rosso</String>
         <String xml:lang="id-ID">Merah</String>
         <String xml:lang="lv-LV">Sarkans</String>
+        <String xml:lang="es-ES">Rojo</String>
+        <String xml:lang="pt-BR">Vermelho</String>
     </Entry>
 
     <Entry Id="police_exam_answer_wanted_colors_orange">
@@ -3700,6 +3802,8 @@
         <String xml:lang="it-IT">Arancione</String>
         <String xml:lang="id-ID">Orange</String>
         <String xml:lang="lv-LV">Oranžs</String>
+        <String xml:lang="es-ES">Naranja</String>
+        <String xml:lang="pt-BR">Laranja</String>
     </Entry>
 
     <Entry Id="police_exam_answer_wanted_colors_white">
@@ -3711,6 +3815,8 @@
         <String xml:lang="it-IT">Bianco</String>
         <String xml:lang="id-ID">Putih</String>
         <String xml:lang="lv-LV">Balts</String>
+        <String xml:lang="pt-BR">Branco</String>
+        <String xml:lang="es-ES">Blanco</String>
     </Entry>
 
     <Entry Id="police_exam_question_lethal_force">
@@ -3722,6 +3828,8 @@
         <String xml:lang="it-IT">Un ~b~poliziotto ~s~può usare forza letale...</String>
         <String xml:lang="id-ID">~b~Polisi ~s~dapat menggunakan kekuatan mematikan ketika...</String>
         <String xml:lang="lv-LV">~b~Policists~s~ drīkst izmantot nāvējošu spēku...</String>
+        <String xml:lang="es-ES">Un ~b~policía ~s~puede usar fuerza letal...</String>
+        <String xml:lang="pt-BR">Um ~b~policial ~s~pode usar força letal...</String>
     </Entry>
 
     <Entry Id="police_exam_answer_lethal_force_protect">
@@ -3733,6 +3841,8 @@
         <String xml:lang="it-IT">Per proteggere la propria vita e quella degli altri agenti</String>
         <String xml:lang="id-ID">Untuk melindungi nyawanya dan nyawa dari petugas lain</String>
         <String xml:lang="lv-LV">Lai aizsargātu savu un citu policistu dzīvību</String>
+        <String xml:lang="es-ES">Para proteger su propia vida y la de otros agentes</String>
+        <String xml:lang="pt-BR">Para proteger suas próprias vidas e as vidas de outros participantes</String>
     </Entry>
 
     <Entry Id="police_exam_answer_lethal_force_car">
@@ -3744,6 +3854,8 @@
         <String xml:lang="it-IT">In rappresaglia per aver danneggiato la loro ~y~auto~s~ parcheggiata</String>
         <String xml:lang="id-ID">Untuk membalas dendam karena merusak ~y~mobil~s~ mereka yang terparkir</String>
         <String xml:lang="lv-LV">Atriebībā par viņa pārkota ~y~transportlīdzekļa~s~ bojāšanu</String>
+        <String xml:lang="es-ES">En represalia por dañar su ~y~coche~s~ aparcado</String>
+        <String xml:lang="pt-BR">Em retaliação por ter danificado seu ~y~carro ~s~estacionado</String>
     </Entry>
 
     <Entry Id="police_exam_answer_lethal_force_respect">
@@ -3755,6 +3867,8 @@
         <String xml:lang="it-IT">Per insegnare al ~o~sospettato ~s~un po' di rispetto</String>
         <String xml:lang="id-ID">Untuk mengajarkan ~o~pelaku ~s~rasa hormat</String>
         <String xml:lang="lv-LV">Lai iemācītu ~o~noziedzniekam~s~ kādu cieņu</String>
+        <String xml:lang="es-ES">Para enseñar al ~o~sospechoso ~s~algo de respeto</String>
+        <String xml:lang="pt-BR">Para ensinar ao ~o~suspeito ~s~algum respeito</String>
     </Entry>
 
     <Entry Id="police_exam_answer_lethal_force_most_wanted">
@@ -3766,6 +3880,8 @@
         <String xml:lang="it-IT">Per eliminare il criminale ~r~più ricercato~s~</String>
         <String xml:lang="id-ID">Untuk melumpuhkan buronan ~r~paling dicari~s~.</String>
         <String xml:lang="lv-LV">Lai nogalinātu ~r~Most Wanted~s~ noziedznieku</String>
+        <String xml:lang="es-ES">Para atrapar al ~r~delincuente más buscado~s~</String>
+        <String xml:lang="pt-BR">Para capturar o ~r~criminoso mais procurado~s~</String>
     </Entry>
 
     <Entry Id="police_exam_answer_lethal_force_pvp">
@@ -3777,6 +3893,8 @@
         <String xml:lang="it-IT">Sempre, questo è un server PvP</String>
         <String xml:lang="id-ID">Selalu, ini server PVP</String>
         <String xml:lang="lv-LV">Vienmēr, šis ir PvP serveris</String>
+        <String xml:lang="es-ES">Siempre, este es un servidor PvP</String>
+        <String xml:lang="pt-BR">Sempre, este é um servidor PvP</String>
     </Entry>
 
     <Entry Id="police_exam_question_tires">
@@ -3788,6 +3906,8 @@
         <String xml:lang="it-IT">Un ~b~poliziotto ~s~può sparare ai pneumatici di un ~o~sospettato~s~...</String>
         <String xml:lang="id-ID">~b~Polisi ~s~boleh menembak ban ~o~pelaku~s~ ketika...</String>
         <String xml:lang="lv-LV">~b~Policists~s~ var šaut pa ~o~noziedznieka~s~ riepām...</String>
+        <String xml:lang="es-ES">Un ~b~policía ~s~puede disparar a los neumáticos de un ~o~ospechoso~s~...</String>
+        <String xml:lang="pt-BR">Um ~b~policial ~s~pode atirar nos pneus de um ~o~suspeito~s~...</String>
     </Entry>
 
     <Entry Id="police_exam_answer_tires_too_fast">
@@ -3799,6 +3919,8 @@
         <String xml:lang="it-IT">Quando il sospettato è troppo veloce</String>
         <String xml:lang="id-ID">Ketika pelaku terlalu cepat.</String>
         <String xml:lang="lv-LV">Ja noziedznieks ir pārāk ātrs</String>
+        <String xml:lang="es-ES">Cuando el sospechoso es demasiado rápido</String>
+        <String xml:lang="pt-BR">Quando o suspeito é muito rápido</String>
     </Entry>
 
     <Entry Id="police_exam_answer_tires_far_away">
@@ -3810,6 +3932,8 @@
         <String xml:lang="it-IT">Quando il sospettato è troppo lontano</String>
         <String xml:lang="id-ID">Ketika pelaku terlalu jauh</String>
         <String xml:lang="lv-LV">Ja noziedznieks ir pārāk tālu</String>
+        <String xml:lang="es-ES">Cuando el sospechoso está demasiado lejos</String>
+        <String xml:lang="pt-BR">Quando o suspeito está muito longe</String>
     </Entry>
 
     <Entry Id="police_exam_answer_tires_mw">
@@ -3821,6 +3945,8 @@
         <String xml:lang="it-IT">Quando il sospettato è il ~r~più ricercato~s~</String>
         <String xml:lang="id-ID">Ketika pelaku merupakan ~r~buronan paling dicari~s~</String>
         <String xml:lang="lv-LV">Ja noziedznieks ir ~r~Most Wanted~s~</String>
+        <String xml:lang="es-ES">Cuando el sospechoso es el ~r~más buscado~s~</String>
+        <String xml:lang="pt-BR">Quando o suspeito é o ~r~mais procurado~s~</String>
     </Entry>
 
     <Entry Id="police_exam_answer_tires_ramming">
@@ -3832,6 +3958,8 @@
         <String xml:lang="it-IT">Quando il sospettato sta tamponando il veicolo di pattuglia che sta attualmente occupando</String>
         <String xml:lang="id-ID">Ketika pelaku menabrak mobil patroli yang sedang dikendarai.</String>
         <String xml:lang="lv-LV">Ja noziedznieks taranē viņu patruļas transportlīdzekli, kurā viņš pašlaik atrodas</String>
+        <String xml:lang="es-ES">Cuando el sospechoso embiste contra la patrulla que están ocupando en ese momento</String>
+        <String xml:lang="pt-BR">Quando o suspeito bateu no carro de patrulha que eles estavam ocupando no momento.</String>
     </Entry>
 
     <Entry Id="police_exam_answer_tires_shooting">
@@ -3843,6 +3971,8 @@
         <String xml:lang="it-IT">Quando il sospettato sta sparando dal veicolo</String>
         <String xml:lang="id-ID">Ketika pelaku menembak dari kendaraan</String>
         <String xml:lang="lv-LV">Kad noziedznieks šauj no transportlīdzekļa</String>
+        <String xml:lang="es-ES">Cuando el sospechoso dispara desde el vehículo</String>
+        <String xml:lang="pt-BR">Quando o suspeito dispara do veículo</String>
     </Entry>
 
     <Entry Id="police_exam_question_arrest">
@@ -3854,6 +3984,8 @@
         <String xml:lang="it-IT">Come può un ~b~poliziotto ~s~arrestare un ~o~sospettato~s~ che non collabora e non rappresenta una minaccia?</String>
         <String xml:lang="id-ID">Bagaimana cara ~b~polisi ~s~menangkap ~o~pelaku ~s~yang memberontak, tidak mengancam?</String>
         <String xml:lang="lv-LV">Kā ~b~policists~s~ var aizturēt prasības neievērojošu, nedraudējošu ~o~noziedznieku~s~?</String>
+        <String xml:lang="es-ES">¿Cómo puede un ~b~policía ~s~detener a un ~o~sospechoso ~s~que no obedece pero no amenaza?</String>
+        <String xml:lang="pt-BR">Como um ~b~policial ~s~pode prender um ~o~suspeito ~s~que não obedece, mas não ameaça?</String>
     </Entry>
 
     <Entry Id="police_exam_answer_arrest_kill">
@@ -3865,6 +3997,8 @@
         <String xml:lang="it-IT">Non arresti il sospettato, semplicemente spari e o uccidi. Questo è CnR, non un server RP.</String>
         <String xml:lang="id-ID">Kamu tidak menangkap pelaku, kamu tembak dan bunuh mereka. Ini CnR, bukan server RP.</String>
         <String xml:lang="lv-LV">Jūs neaizturat noziedzniekus, jūs vienkārši šaujat un nogalināt viņus. Šis ir CnR, nevis RP serveris.</String>
+        <String xml:lang="es-ES">No se arresta a los sospechosos, sólo se les dispara y se les mata. Esto es CnR, no un servidor RP.</String>
+        <String xml:lang="pt-BR">Você não prende os suspeitos, apenas atira e os mata. Este é CnR, não um servidor de RP.</String>
     </Entry>
 
     <Entry Id="police_exam_answer_arrest_stun">
@@ -3876,6 +4010,8 @@
         <String xml:lang="it-IT">Stordendolo con un taser</String>
         <String xml:lang="id-ID">Dengan menyetrum mereka dengan taser</String>
         <String xml:lang="lv-LV">Apdullinot viņus ar elektrošoku</String>
+        <String xml:lang="es-ES">Aturdiéndolos con una pistola paralizante</String>
+        <String xml:lang="pt-BR">Atordoá-los com uma arma de choque.</String>
     </Entry>
 
     <Entry Id="police_exam_answer_arrest_shoot">
@@ -3887,6 +4023,8 @@
         <String xml:lang="it-IT">Sparandoli un colpo di avvertimento, mentre gli ordini di fermarsi altrimenti morirà</String>
         <String xml:lang="id-ID">Dengan menembak mereka sebagai tanda peringatan, sambil memerintahkan mereka untuk berhenti bergerak atau mereka mati</String>
         <String xml:lang="lv-LV">Šaujot uz viņiem kā brīdinājumu, vienlaikus liekot viņiem pārtraukt kustēties, pretējā gadījuma viņi mirs</String>
+        <String xml:lang="es-ES">Disparándoles como advertencia, mientras les ordenas que dejen de moverse o morirán</String>
+        <String xml:lang="pt-BR">Atire neles como um aviso, enquanto ordena que parem de se mover ou morrerão</String>
     </Entry>
 
     <Entry Id="police_exam_answer_arrest_baton">
@@ -3898,6 +4036,8 @@
         <String xml:lang="it-IT">Usando un manganello e picchiandoli</String>
         <String xml:lang="id-ID">Dengan menggunakan baton dan memukulinya.</String>
         <String xml:lang="lv-LV">Izmantojot steku un tos sitot</String>
+        <String xml:lang="es-ES">Usando una porra y dándoles una paliza</String>
+        <String xml:lang="pt-BR">Usar um cassetete e dar uma surra neles</String>
     </Entry>
 
     <Entry Id="police_exam_answer_arrest_tap">
@@ -3909,6 +4049,8 @@
         <String xml:lang="it-IT">Usando il veicolo di pattuglia per colpirli leggermente a bassa velocità</String>
         <String xml:lang="id-ID">Dengan menggunakan mobil patroli mereka dan menyenggol pelaku dengan kecepatan rendah.</String>
         <String xml:lang="lv-LV">Izmantojot viņu patruļas transportlīdzekli, lai viegli notriektu viņus nelielā ātrumā</String>
+        <String xml:lang="es-ES">Usando su coche patrulla para golpearlos suavemente a baja velocidad</String>
+        <String xml:lang="pt-BR">Usar seu carro de patrulha para atingi-los suavemente em baixa velocidade</String>
     </Entry>
 
     <Entry Id="police_exam_question_radio">
@@ -3920,6 +4062,8 @@
         <String xml:lang="it-IT">La radio di emergenza può essere utilizzata...</String>
         <String xml:lang="id-ID">Radio darurat bisa digunakan untuk...</String>
         <String xml:lang="lv-LV">Ārkārto situāciju radio var izmantot...</String>
+        <String xml:lang="es-ES">La radio de emergencia puede utilizarse...</String>
+        <String xml:lang="pt-BR">O rádio de emergência pode ser usado...</String>
     </Entry>
 
     <Entry Id="police_exam_answer_radio_activity">
@@ -3931,6 +4075,8 @@
         <String xml:lang="it-IT">Per informare altri ~b~poliziotti ~s~e ~p~paramedici ~s~di attività criminale in corso</String>
         <String xml:lang="id-ID">Untuk memberitahu ~b~polisi ~s~dan ~p~paramedis ~s~terhadap aktifitas kriminal yang sedang berlangsung</String>
         <String xml:lang="lv-LV">Lai informētu citus ~b~policistus~s~ un ~p~ārstus~s~ par notiekošo noziedzīgo darbību</String>
+        <String xml:lang="es-ES">Informar a otros ~b~policías ~s~y ~p~paramédicos ~s~de actividades delictivas en curso.</String>
+        <String xml:lang="pt-BR">Informar outros ~b~policiais ~s~e ~p~paramédicos ~s~sobre atividades criminosas em andamento.</String>
     </Entry>
 
     <Entry Id="police_exam_answer_radio_hush">
@@ -3942,6 +4088,8 @@
         <String xml:lang="it-IT">Per dire ad altri poliziotti di ~r~stare zitti ~s~ogni volta che segnalano un crimine</String>
         <String xml:lang="id-ID">Untuk memberitahu polisi lain untuk ~r~diam ~s~setiap kali mereka melaporkan sebuah tindak kriminal.</String>
         <String xml:lang="lv-LV">Lai liktu citiem policitiem apklust ikreiz, kad viņi ziņo par noziegumu</String>
+        <String xml:lang="es-ES">Decir a otros policías que se ~r~callen ~s~cada vez que denuncien un delito.</String>
+        <String xml:lang="pt-BR">Dizer a outros policiais para se ~r~calarem ~s~toda vez que denunciam um crime.</String>
     </Entry>
 
     <Entry Id="police_exam_answer_radio_coordinate">
@@ -3953,6 +4101,8 @@
         <String xml:lang="it-IT">Per coordinarsi e cooperare con altri ~b~poliziotti ~s~e ~p~paramedici</String>
         <String xml:lang="id-ID">Untuk berkoordinasi dan bekerja sama dengan ~b~polisi ~s~dan ~p~paramedis lain</String>
         <String xml:lang="lv-LV">Lai koordinētos un sadarbotos ar citiem ~b~policistiem~s~ un ~p~ārstiem</String>
+        <String xml:lang="es-ES">Para coordinarse y cooperar con otros ~b~policías ~s~y ~p~paramédicos</String>
+        <String xml:lang="pt-BR">Coordenar e cooperar com outros ~b~policiais ~s~e ~p~paramédicos</String>
     </Entry>
 
     <Entry Id="police_exam_question_suspect_attack">
@@ -3964,6 +4114,8 @@
         <String xml:lang="it-IT">Un ~o~sospetto ~s~può attaccare e uccidere un ~b~poliziotto ~s~quando</String>
         <String xml:lang="id-ID">~o~Pelaku ~s~dapat menyerang dan membunuh ~b~polisi ~s~ketika</String>
         <String xml:lang="lv-LV">~o~Noziedznieks~s~ var uzbrūkt un nogalināt ~b~policistu~s~, kad</String>
+        <String xml:lang="es-ES">Un ~o~sospechoso~s~ puede atacar y matar a un ~b~policía ~s~cuando</String>
+        <String xml:lang="pt-BR">Um ~o~suspeito ~s~pode atacar e matar um ~b~policial ~s~quando ele ou ela</String>
     </Entry>
 
     <Entry Id="police_exam_answer_suspect_attack_revenge">
@@ -3975,6 +4127,8 @@
         <String xml:lang="it-IT">Vogliono ~r~vendicarsi ~s~del ~b~poliziotto ~s~per una precedente azione negativa nella stessa sessione</String>
         <String xml:lang="id-ID">Mereka mau melakukan ~r~balas dendam ~s~terhadap ~b~petugas itu~s~karena tindakan negatif sebelumnya dalam sesi yang sama.</String>
         <String xml:lang="lv-LV">Viņi vēlas ~r~atriebties ~b~policistam~s~ par iepriekšējo negatīvo darbību tajā pašā sesijā</String>
+        <String xml:lang="es-ES">Quieren ~r~vengarse~s~ del ~b~policía~s~ por una actuación negativa anterior en la misma sesión</String>
+        <String xml:lang="pt-BR">Eles querem se ~r~vingar~s~ do ~b~policial~s~ por um desempenho negativo anterior na mesma sessão.</String>
     </Entry>
 
     <Entry Id="police_exam_answer_suspect_attack_rescue">
@@ -5155,6 +5309,8 @@
         <String xml:lang="it-IT">INTIMIDAZIONE</String>
         <String xml:lang="id-ID">INTIMIDASI</String>
         <String xml:lang="lv-LV">IEBIEDĒŠANA</String>
+        <String xml:lang="es-ES">INTIMIDACIÓN</String>
+        <String xml:lang="pt-BR">INTIMIDAÇÃO</String>
     </Entry>
 
     <Entry Id="robbery_take_counter">
@@ -5166,6 +5322,8 @@
         <String xml:lang="it-IT">COLPO</String>
         <String xml:lang="id-ID">AMBIL</String>
         <String xml:lang="lv-LV">LAUPĪJUMS</String>
+        <String xml:lang="es-ES">LLEVAR</String>
+        <String xml:lang="pt-BR">LEVAR</String>
     </Entry>
 
     <Entry Id="robbery_cut_counter">
@@ -5177,6 +5335,8 @@
         <String xml:lang="fr-FR">TA PART</String>
         <String xml:lang="hi-Latn">AAPKA CUT</String>
         <String xml:lang="de-DE">DEIN ANTEIL</String>
+        <String xml:lang="es-ES">TU PARTE</String>
+        <String xml:lang="pt-BR">SUA PARTE</String>
     </Entry>
 
     <Entry Id="robbery_safe_counter">
@@ -5188,6 +5348,8 @@
         <String xml:lang="it-IT">CASSAFORTE</String>
         <String xml:lang="id-ID">BRANKAS</String>
         <String xml:lang="lv-LV">SEIFS</String>
+        <String xml:lang="es-ES">CAJA FUERTE</String>
+        <String xml:lang="pt-BR">COFRE DE SEGURANÇA</String>
     </Entry>
 
     <Entry Id="robbery_cash_register_counter">
@@ -5199,6 +5361,8 @@
         <String xml:lang="it-IT">CASSA</String>
         <String xml:lang="id-ID">KASIR</String>
         <String xml:lang="lv-LV">KASES APARĀTS</String>
+        <String xml:lang="es-ES">CAJA REGISTRADORA</String>
+        <String xml:lang="pt-BR">CAIXA REGISTRADORA</String>
     </Entry>
 
     <Entry Id="robbery_intimidation_hint">
@@ -5210,6 +5374,8 @@
         <String xml:lang="it-IT">Mantieni il ~r~cassiere ~s~intimidito.</String>
         <String xml:lang="id-ID">Jaga agar ~r~penjaga kasir ~s~tetap terintimidasi.</String>
         <String xml:lang="lv-LV">Iebiedējat ~r~kasieri~s~.</String>
+        <String xml:lang="es-ES">Mantén al ~r~cajero ~s~intimidado.</String>
+        <String xml:lang="pt-BR">Mantenha o ~r~caixa ~s~intimidado.</String>
     </Entry>
 
     <Entry Id="robbery_safe_hint">
@@ -5221,6 +5387,8 @@
         <String xml:lang="it-IT">Hai bisogno di un ~g~partner ~s~per aprire la ~b~cassaforte~s~.</String>
         <String xml:lang="id-ID">Kamu membutuhkan ~g~rekan ~s~untuk membobol ~b~brankas ~s~agar terbuka.</String>
         <String xml:lang="lv-LV">Jums ir nepieciešams ~g~partneris~s~, lai uzlauztu ~b~seifu~s~.</String>
+        <String xml:lang="es-ES">Necesitas un ~g~compañero ~s~para abrir la ~b~caja fuerte~s~.</String>
+        <String xml:lang="pt-BR">Você precisa de um ~g~parceiro ~s~para abrir o ~b~cofre de segurança~s~.</String>
     </Entry>
 
     <Entry Id="robbery_wait_partner_crack_safe">
@@ -5232,6 +5400,8 @@
         <String xml:lang="it-IT">Aspetta che il tuo partner svaligi il ~y~negozio~s~, o scassina la ~b~cassaforte~s~.</String>
         <String xml:lang="id-ID">Tunggu rekanmu untuk merampok ~y~toko~s~, atau membobol ~b~brankas~s~.</String>
         <String xml:lang="lv-LV">Gaidiet, kamēr jūsu partneris aplaupīs ~y~veikalu~s~, vai uzlauziet ~b~seifu~s~.</String>
+        <String xml:lang="es-ES">Espera a que tu compañero robe la ~y~tienda~s~, o abra la ~b~caja fuerte~s~.</String>
+        <String xml:lang="pt-BR">Espere que seu parceiro roube a ~y~loja~s~ ou abra o ~b~cofre~s~.</String>
     </Entry>
 
     <Entry Id="robbery_find_safe_hint">
@@ -5243,6 +5413,8 @@
         <String xml:lang="it-IT">Trova e scassina la ~b~cassaforte~s~.</String>
         <String xml:lang="id-ID">Temukan dan bobol ~b~brankas~s~.</String>
         <String xml:lang="lv-LV">Atrodiet un uzlaiziet ~b~seifu~s~.</String>
+        <String xml:lang="es-ES">Encuentra y abre la caja ~b~fuerte~s~.</String>
+        <String xml:lang="pt-BR">Localizar e abrir o ~b~cofre~s~.</String>
     </Entry>
 
     <Entry Id="robbery_wait_partner">
@@ -5254,6 +5426,8 @@
         <String xml:lang="it-IT">Aspetta che il tuo partner svaligi il ~y~negozio~s~.</String>
         <String xml:lang="id-ID">Tunggu rekanmu selesai merampok ~y~toko~s~.</String>
         <String xml:lang="lv-LV">Gaidiet, kamēr jūsu partneris aplaupīs ~y~veikalu~s~.</String>
+        <String xml:lang="es-ES">Espera a que tu compañero robe la ~y~tienda~s~.</String>
+        <String xml:lang="pt-BR">Espere que seu parceiro roube a ~y~loja~s~.</String>
     </Entry>
 
     <Entry Id="robbery_eliminate_security">
@@ -5265,6 +5439,8 @@
         <String xml:lang="it-IT">Elimina le ~r~guardie di sicurezza~s~.</String>
         <String xml:lang="id-ID">Bunuh seluruh ~r~petugas keamanan~s~.</String>
         <String xml:lang="lv-LV">Likvidējiet ~r~apsargus~s~.</String>
+        <String xml:lang="es-ES">Elimina a los ~r~guardias de seguridad~s~.</String>
+        <String xml:lang="pt-BR">Eliminar os ~r~guardas de segurança~s~.</String>
     </Entry>
 
     <Entry Id="robbery_help_partner">
@@ -5276,6 +5452,8 @@
         <String xml:lang="it-IT">Aiuta il tuo partner a svaligiare il ~y~negozio~s~.</String>
         <String xml:lang="id-ID">Bantu rekanmu merampok ~y~toko~s~.</String>
         <String xml:lang="lv-LV">Palīdziet jūsu partnerim aplaupīt ~y~veikalu~s~.</String>
+        <String xml:lang="es-ES">Ayuda a tu compañero a robar la ~y~tienda~s~.</String>
+        <String xml:lang="pt-BR">Ajude seu parceiro a roubar a ~y~loja~s~.</String>
     </Entry>
 
     <Entry Id="robbery_instructional_crack">
@@ -5287,6 +5465,8 @@
         <String xml:lang="it-IT">Scassina</String>
         <String xml:lang="id-ID">Bobol</String>
         <String xml:lang="lv-LV">Uzlauzt</String>
+        <String xml:lang="es-ES">Perforar</String>
+        <String xml:lang="pt-BR">Perfuração</String>
     </Entry>
 
     <Entry Id="robbery_instructional_stop">
@@ -5298,6 +5478,8 @@
         <String xml:lang="it-IT">Fermati</String>
         <String xml:lang="id-ID">Berhenti (tahan)</String>
         <String xml:lang="lv-LV">Pārtraukt</String>
+        <String xml:lang="es-ES">Detener (mantener)</String>
+        <String xml:lang="pt-BR">Parar (manter)</String>
     </Entry>
 
     <Entry Id="no_nearby_players_give_weapon">
@@ -5525,6 +5707,7 @@
         <String xml:lang="it-IT">Sei ~o~ricercato ~s~dalla polizia. Fuori dalla mia auto!</String>
         <String xml:lang="id-ID">Kamu ~o~sedang diburu ~s~oleh kepolisian. Keluar dari mobilku!</String>
         <String xml:lang="lv-LV">Jūs ~o~meklē~s~ policija. Kāpj ārā no manas mašīnas!</String>
+        <String xml:lang="hi-Latn">Police aapko ~o~dhoond rahi hai~s~. Meri gaadi se abhi niklo!</String>
     </Entry>
 
     <Entry Id="dealership_drive_time">
@@ -5535,6 +5718,7 @@
         <String xml:lang="it-IT">~r~Il tempo è scaduto.</String>
         <String xml:lang="id-ID">~r~Waktu habis.</String>
         <String xml:lang="lv-LV">~r~Laiks ir beidzies.</String>
+        <String xml:lang="hi-Latn">~r~Time khatam.</String>
     </Entry>
 
     <Entry Id="dealership_drive_left">
@@ -5545,6 +5729,7 @@
         <String xml:lang="it-IT">Hai ~r~lasciato ~s~il ~b~veicolo~s~.</String>
         <String xml:lang="id-ID">Kamu ~r~meninggalkan ~s~~b~kendaraan~s~.</String>
         <String xml:lang="lv-LV">Jūs ~r~atstājāt ~b~transportlīdzekli~s~.</String>
+        <String xml:lang="hi-Latn">Aapne ~b~vehicle ~r~left ~s~kar diya.</String>
     </Entry>
 
     <Entry Id="dealership_drive_too_far_away">
@@ -5555,6 +5740,7 @@
         <String xml:lang="it-IT">Ti sei ~r~allontanato troppo ~s~dal ~y~concessionario~s~.</String>
         <String xml:lang="id-ID">Kamu pergi ~r~terlalu jauh ~s~dari ~y~dealer kendaraan~s~.</String>
         <String xml:lang="lv-LV">Jūs devāties ~r~pārāk tālu~s~ no ~y~dīlercentra~s~.</String>
+        <String xml:lang="hi-Latn">Aap ~r~dealership ~s~se ~y~bahut door ~s~chale gaye.</String>
     </Entry>
 
     <Entry Id="dealership_drive_damaged">
@@ -5565,6 +5751,7 @@
         <String xml:lang="it-IT">Hai ~r~danneggiato ~s~il veicolo! Non riceverai indietro il deposito.</String>
         <String xml:lang="id-ID">Kamu ~r~merusak ~s~kendaraan! Kamu tidak akan mendapatkan depositmu lagi.</String>
         <String xml:lang="lv-LV">Jūs ~r~sabojājāt~s~ transportlīdzekli! Jūs nesaņemsiet savu depozītu atpakaļ.</String>
+        <String xml:lang="hi-Latn">Aapne vehicle ko ~r~damage ~s~kiya! Aapka deposit wapas nahi milega.</String>
     </Entry>
 
     <Entry Id="dealership_specified_plate_taken">
@@ -5607,6 +5794,7 @@
         <String xml:lang="it-IT">Garage Lavoro</String>
         <String xml:lang="id-ID">Garasi pekerjaan</String>
         <String xml:lang="lv-LV">Darba garāža</String>
+        <String xml:lang="hi-Latn">Job Garage</String>
     </Entry>
 
     <Entry Id="menu_job_garage_subtitle">
@@ -5617,6 +5805,7 @@
         <String xml:lang="it-IT">Seleziona un veicolo da prendere</String>
         <String xml:lang="id-ID">Pilih mobil untuk dibawa</String>
         <String xml:lang="lv-LV">Izvēlieties transportlīdzekli, ko izņemt</String>
+        <String xml:lang="hi-Latn">Bahar nikalne ke liye ek vehicle select karien.</String>
     </Entry>
 
     <Entry Id="menu_job_garage_empty_text">
@@ -5627,6 +5816,7 @@
         <String xml:lang="it-IT">Nessun veicolo da lavoro :(</String>
         <String xml:lang="id-ID">Tidak ada kendaraan untuk pekerjaan ini :(</String>
         <String xml:lang="lv-LV">Nav darba transportlīdzekļu :(</String>
+        <String xml:lang="hi-Latn">Koi job vehicles nahi hai :(</String>
     </Entry>
 
     <Entry Id="menu_job_garage_empty_description">
@@ -5637,6 +5827,7 @@
         <String xml:lang="it-IT">Non hai veicoli per il tuo ~b~lavoro attuale~s~, e ~r~non puoi ~s~usare i tuoi veicoli personali mentre sei a lavoro. Acquista veicoli da lavoro e compariranno in questo menu.</String>
         <String xml:lang="id-ID">Kamu tidak memiliki kendaraan untuk ~b~pekerjaanmu saat ini~s~, dan kamu ~r~tidak bisa ~s~menggunakan kendaraan pribadi ketika sedang bekerja pekerjaan ini. Beli kendaraan untuk pekerjaan ini dan mereka akan muncul di menu ini.</String>
         <String xml:lang="lv-LV">Jums nav neviena transportlīdzekļa jūsu ~b~pašreizējam darbam~s~, un jūs ~r~nevarat~s~ izmantot savus personīgos transportlīdzekļus, kamēr strādājat šajā darbā. Iegādājieties darba transportlīdzekļus un tie paradīsies šajā izvelnē.</String>
+        <String xml:lang="hi-Latn">Aapke paas koi vehicle nahi hai aapki ~b~current job~s~ ke liye, aur aap ~r~personal vehicles ~s~use nahi kar sakte jab aap is job pe hai. Job vehicles kharidein aur woh iss menu me show hoegi.</String>
     </Entry>
 
     <Entry Id="ddriver_description">
@@ -5647,6 +5838,7 @@
         <String xml:lang="it-IT">~c~(C)Corriere:(/C) ~s~consegna ~b~merci ~s~per guadagnare soldi.</String>
         <String xml:lang="de-DE">~c~(C)Lieferfahrer:(/C) ~s~liefern ~b~Waren ~s~um Geld zu verdienen.</String>
         <String xml:lang="lv-LV">~c~(C)Piegādes šoferis:(/C) ~s~piegādā ~b~preces~s~, lai nopelnītu naudu.</String>
+        <String xml:lang="hi-Latn">~c~(C)Delivery Driver:(/C) ~s~paise kamane ke liye ~b~samaan~s~ deliver karein.</String>
     </Entry>
 
     <Entry Id="menu_ddriver_title">
@@ -5657,6 +5849,7 @@
         <String xml:lang="it-IT">Corriere</String>
         <String xml:lang="de-DE">Lieferfahrer</String>
         <String xml:lang="lv-LV">Piegādes šoferis</String>
+        <String xml:lang="hi-Latn">Delivery Driver</String>
     </Entry>
 
     <Entry Id="menu_ddriver_deliveries_text">
@@ -5667,6 +5860,7 @@
         <String xml:lang="it-IT">Consegne</String>
         <String xml:lang="de-DE">Lieferungen</String>
         <String xml:lang="lv-LV">Piegādes</String>
+        <String xml:lang="hi-Latn">Deliveries</String>
     </Entry>
 
     <Entry Id="menu_ddriver_deliveries_descr">
@@ -5677,6 +5871,7 @@
         <String xml:lang="it-IT">Visualizza i lavori di consegna disponibili.</String>
         <String xml:lang="de-DE">Zeige die verfügbaren Lieferjobs.</String>
         <String xml:lang="lv-LV">Skatiet pieejamas piegādes.</String>
+        <String xml:lang="hi-Latn">View karein available delivery jobs.</String>
     </Entry>
 
     <Entry Id="menu_ddriver_deliveries_sorted_by_payout">
@@ -5687,6 +5882,7 @@
         <String xml:lang="it-IT">Ordinato per pagamento</String>
         <String xml:lang="de-DE">Sortiert nach Auszahlung</String>
         <String xml:lang="lv-LV">Kārtots pēc atlīdzības</String>
+        <String xml:lang="hi-Latn">Payout ke hisaab se sort kiya gaya</String>
     </Entry>
 
     <Entry Id="menu_ddriver_deliveries_sorted_by_distance">
@@ -5697,6 +5893,7 @@
         <String xml:lang="it-IT">Ordinato per distanza di ritiro</String>
         <String xml:lang="de-DE">Sortiert nach Entfernung</String>
         <String xml:lang="lv-LV">Kārtots pēc distances</String>
+        <String xml:lang="hi-Latn">Pickup distance ke hisaab se sort kiya gaya</String>
     </Entry>
 
     <Entry Id="menu_ddriver_history_text">
@@ -5707,6 +5904,7 @@
         <String xml:lang="it-IT">Cronologia</String>
         <String xml:lang="de-DE">Historie</String>
         <String xml:lang="lv-LV">Vēsture</String>
+        <String xml:lang="hi-Latn">History</String>
     </Entry>
 
     <Entry Id="menu_ddriver_history_descr">
@@ -5717,6 +5915,7 @@
         <String xml:lang="it-IT">Visualizza i lavori di consegna che hai completato nella sessione attuale.</String>
         <String xml:lang="de-DE">Zeige die Lieferjobs, die du in der aktuellen Sitzung erfüllt hast.</String>
         <String xml:lang="lv-LV">Skatiet piegādes, ko esat pabeidzis pašreizējā sesijā.</String>
+        <String xml:lang="hi-Latn">View karein pichli delivery jobs jo aapne current session me complete kiye hai.</String>
     </Entry>
 
     <Entry Id="menu_ddriver_history_subtitle">
@@ -5727,6 +5926,7 @@
         <String xml:lang="it-IT">Seleziona un lavoro di consegna precedente</String>
         <String xml:lang="de-DE">Wähle einen vergangenen Lieferjob</String>
         <String xml:lang="lv-LV">Izvēlieties iepriekšējo piegādi</String>
+        <String xml:lang="hi-Latn">Select karein ek purani delivery job</String>
     </Entry>
 
     <Entry Id="menu_ddriver_current_delivery_text">
@@ -5737,6 +5937,7 @@
         <String xml:lang="it-IT">Consegna Attuale</String>
         <String xml:lang="de-DE">Aktuelle Lieferung</String>
         <String xml:lang="lv-LV">Pašreizējā piegāde</String>
+        <String xml:lang="hi-Latn">Current Delivery</String>
     </Entry>
 
     <Entry Id="menu_ddriver_current_delivery_descr">
@@ -5747,6 +5948,7 @@
         <String xml:lang="id-ID">Lihat detail tentang pengiriman yang sedang berlangsung.</String>
         <String xml:lang="de-DE">Zeige Details zu der laufenden Lieferung.</String>
         <String xml:lang="lv-LV">Skatiet informāciju par pašreizējo piegādi.</String>
+        <String xml:lang="hi-Latn">View karein details jo abhi delivery progress me hai.</String>
     </Entry>
 
     <Entry Id="menu_ddriver_delivery_details_payout">
@@ -5757,6 +5959,7 @@
         <String xml:lang="it-IT">Pagamento</String>
         <String xml:lang="de-DE">Auszahlung</String>
         <String xml:lang="lv-LV">Atlīdzība</String>
+        <String xml:lang="hi-Latn">Payout</String>
     </Entry>
 
     <Entry Id="menu_ddriver_delivery_details_time_left">
@@ -5767,6 +5970,7 @@
         <String xml:lang="it-IT">Tempo rimanente</String>
         <String xml:lang="de-DE">Verbleibende Zeit</String>
         <String xml:lang="lv-LV">Atlikušais laiks</String>
+        <String xml:lang="hi-Latn">Time bacha</String>
     </Entry>
 
     <Entry Id="menu_ddriver_delivery_details_itinerary">
@@ -5777,6 +5981,7 @@
         <String xml:lang="it-IT">Itinerario</String>
         <String xml:lang="de-DE">Route</String>
         <String xml:lang="lv-LV">Maršruts</String>
+        <String xml:lang="hi-Latn">Route</String>
     </Entry>
 
     <Entry Id="menu_ddriver_delivery_details_other">
@@ -5787,6 +5992,7 @@
         <String xml:lang="it-IT">Altre info</String>
         <String xml:lang="de-DE">Andere Informationen</String>
         <String xml:lang="lv-LV">Cita informācija</String>
+        <String xml:lang="hi-Latn">Baaki info</String>
     </Entry>
 
     <Entry Id="menu_ddriver_delivery_details">
@@ -5797,6 +6003,7 @@
         <String xml:lang="it-IT">Dettagli</String>
         <String xml:lang="de-DE">Details</String>
         <String xml:lang="lv-LV">Sīkāka informācija</String>
+        <String xml:lang="hi-Latn">Details</String>
     </Entry>
 
     <Entry Id="menu_ddriver_delivery_cancel">
@@ -5807,6 +6014,7 @@
         <String xml:lang="it-IT">~r~Annulla Consegna</String>
         <String xml:lang="de-DE">~r~Lieferung abbrechen</String>
         <String xml:lang="lv-LV">~r~Atcelt piegādi</String>
+        <String xml:lang="hi-Latn">~r~Delivery cancel karein</String>
     </Entry>
 
     <Entry Id="menu_ddriver_delivery_cancel_desc">
@@ -5817,6 +6025,7 @@
         <String xml:lang="it-IT">Abbandona la consegna attuale.</String>
         <String xml:lang="de-DE">Brich deine aktuelle Lieferung ab.</String>
         <String xml:lang="lv-LV">Pamest pašreizējo piegādi.</String>
+        <String xml:lang="hi-Latn">Apni current delivery abandon karien.</String>
     </Entry>
 
     <Entry Id="ddriver_job_menu_refresh_cooldown">
@@ -5827,6 +6036,7 @@
         <String xml:lang="it-IT">Devi ~r~aspettare ~s~prima di poter aggiornare di nuovo il menu delle consegne.</String>
         <String xml:lang="de-DE">Du must ~r~warten, ~s~bevor du das Liefer-Menü neu laden kannst.</String>
         <String xml:lang="lv-LV">Jums ir ~r~jāgaida~s~, pirms atkārtotas piegāžu izvēlnes atsvaidzināšanas.</String>
+        <String xml:lang="hi-Latn">Aapko deliveries menu dobara refresh karne se pehle ~r~wait ~s~karna hoga.</String>
     </Entry>
 
     <Entry Id="ddriver_job_take_job_cooldown">
@@ -5837,6 +6047,7 @@
         <String xml:lang="it-IT">Devi aspettare ~y~{0} ~s~prima di poter prendere un altro lavoro di consegna.</String>
         <String xml:lang="de-DE">Du musst ~y~{0} ~s~warten, bevor du einen weiteren Lieferjob annehmen kannst.</String>
         <String xml:lang="lv-LV">Jums ir jāgaida ~y~{0}~s~, pirms veicat citu piegādi.</String>
+        <String xml:lang="hi-Latn">Aapko ~y~{0} ~s~wait karna hoga doosri delivery job lene se pehle.</String>
     </Entry>
 
     <Entry Id="menu_ddriver_current_delivery_subtitle">
@@ -5847,6 +6058,7 @@
         <String xml:lang="it-IT">Consegna a {0}</String>
         <String xml:lang="de-DE">Liefere nach {0}</String>
         <String xml:lang="lv-LV">Piegāde uz {0}</String>
+        <String xml:lang="hi-Latn">{0} tak delivery</String>
     </Entry>
 
     <Entry Id="ddriver_n_jobs_available">
@@ -5857,6 +6069,7 @@
         <String xml:lang="it-IT">Ci sono ~y~{0} lavori di consegna ~s~disponibili al momento. {1} per aprire la lista delle consegne.</String>
         <String xml:lang="de-DE">Aktuell sind ~y~{0} ~s~Lieferjobs verfügbar. {1} um die Lieferliste zu öffnen.</String>
         <String xml:lang="lv-LV">Pašlaik ir pieejamas ~y~{0} piegādes~s~. {1}, lai atvērtu piegāžu sarakstu.</String>
+        <String xml:lang="hi-Latn">Abhi ~y~{0} delivery jobs ~s~available hai. {1} delivery list kholne ke liye.</String>
     </Entry>
 
     <Entry Id="ddriver_view_jobs">
@@ -5867,6 +6080,7 @@
         <String xml:lang="id-ID">Lihat pekerjaan</String>
         <String xml:lang="it-IT">Visualizza lavori</String>
         <String xml:lang="de-DE">Zeige Jobs</String>
+        <String xml:lang="hi-Latn">Jobs dekhein</String>
     </Entry>
 
     <Entry Id="ddriver_already_on_job">
@@ -5877,6 +6091,7 @@
         <String xml:lang="it-IT">Sei già impegnato in un lavoro di consegna.</String>
         <String xml:lang="de-DE">Du befindest dich bereits in einem Lieferjob.</String>
         <String xml:lang="lv-LV">Jūs jau veicat piegādi.</String>
+        <String xml:lang="hi-Latn">Aap already ek delivery job pe hai.</String>
     </Entry>
 
     <Entry Id="ddriver_job_no_longer_available">
@@ -5887,6 +6102,7 @@
         <String xml:lang="it-IT">Questo lavoro di consegna non è più disponibile.</String>
         <String xml:lang="de-DE">Dieser Lieferjob ist nicht mehr verfügbar.</String>
         <String xml:lang="lv-LV">Šī piegāde vairs nav pieejama.</String>
+        <String xml:lang="hi-Latn">Ye delivery job ab available nahi hai.</String>
     </Entry>
 
     <Entry Id="ddriver_job_go_to_pickup">
@@ -5897,6 +6113,7 @@
         <String xml:lang="it-IT">Vai a ~y~{0} ~s~e ritira le ~b~merci~s~.</String>
         <String xml:lang="de-DE">Gehe zu ~y~{0} ~s~und sammle die ~b~Waren~s~ ein.</String>
         <String xml:lang="lv-LV">Dodieties uz ~y~{0}~s~ un paņemiet ~b~preces~s~.</String>
+        <String xml:lang="hi-Latn">Jaayein ~y~{0} ~s~aur pick up karein ~b~samaan~s~.</String>
     </Entry>
 
     <Entry Id="ddriver_job_pick_up_trailer">
@@ -5907,6 +6124,7 @@
         <String xml:lang="it-IT">Ritira il ~y~rimorchio ~s~utilizzando un ~b~semi camion~s~.</String>
         <String xml:lang="de-DE">Hole den ~y~Anhänger ~s~mit einem ~b~Sattelschlepper~s~ab.</String>
         <String xml:lang="lv-LV">Paņemiet ~y~piekabi~s~, izmantojot ~b~kravas automašīnu~s~.</String>
+        <String xml:lang="hi-Latn">Pick up karein ~y~trailer ~s~ek ~b~semi truck ~s~se.</String>
     </Entry>
 
     <Entry Id="ddriver_job_go_to_dropoff">
@@ -5917,6 +6135,7 @@
         <String xml:lang="it-IT">Vai a ~y~{0} ~s~e consegna le ~b~merci~s~.</String>
         <String xml:lang="de-DE">Gehe zu ~y~{0} ~s~und lade die ~b~Waren~s~ ab.</String>
         <String xml:lang="lv-LV">Dodieties uz ~y~{0}~s~ un nododiet ~b~preces~s~.</String>
+        <String xml:lang="hi-Latn">Jaayein ~y~{0} ~s~aur drop off karein ~b~samaan~s~.</String>
     </Entry>
 
     <Entry Id="ddriver_job_go_to_dropoff_parcel">
@@ -5927,6 +6146,7 @@
         <String xml:lang="it-IT">Vai a ~y~{0} ~s~e consegna il prossimo ~b~pacco~s~.</String>
         <String xml:lang="de-DE">Gehe zu ~y~{0} ~s~und lade das nächste ~b~Paket~s~ ab.</String>
         <String xml:lang="lv-LV">Dodieties uz ~y~{0}~s~ un piegādājiet nākamo ~b~paku~s~.</String>
+        <String xml:lang="hi-Latn">Jaayein ~y~{0} ~s~aur deliver karein agla ~b~package~s~.</String>
     </Entry>
 
     <Entry Id="ddriver_trailer_health">
@@ -5937,6 +6157,7 @@
         <String xml:lang="it-IT">RIMORCHIO</String>
         <String xml:lang="de-DE">ANHÄNGER</String>
         <String xml:lang="lv-LV">PIEKABE</String>
+        <String xml:lang="hi-Latn">TRAILER</String>
     </Entry>
 
     <Entry Id="ddriver_truck_health">
@@ -5947,6 +6168,7 @@
         <String xml:lang="it-IT">CAMION</String>
         <String xml:lang="de-DE">LASTWAGEN</String>
         <String xml:lang="lv-LV">KRAVAS AUTO</String>
+        <String xml:lang="hi-Latn">TRUCK</String>
     </Entry>
 
     <Entry Id="ddriver_num_deliveries">
@@ -5957,6 +6179,7 @@
         <String xml:lang="it-IT">CONSEGNE</String>
         <String xml:lang="de-DE">LIEFERUNGEN</String>
         <String xml:lang="lv-LV">PIEGĀDES</String>
+        <String xml:lang="hi-Latn">DELIVERIES</String>
     </Entry>
 
     <Entry Id="ddriver_job_park_truck_in_area">
@@ -5967,6 +6190,7 @@
         <String xml:lang="it-IT">Ferma il ~b~camion ~s~nell' ~y~area segnata~s~.</String>
         <String xml:lang="de-DE">Stoppe mit dem ~b~Lastwagen ~s~in dem ~y~markierten Bereich~s~.</String>
         <String xml:lang="lv-LV">Apturiet ~b~kravas auto ~y~atzīmētajā apgabalā~s~.</String>
+        <String xml:lang="hi-Latn">~b~Truck~s~ ko ~y~marked area~s~ mein rokiye.</String>
     </Entry>
 
     <Entry Id="ddriver_job_park_trailer_in_area">
@@ -5977,6 +6201,7 @@
         <String xml:lang="it-IT">Parcheggia il ~b~rimorchio ~s~nell' ~y~area segnata~s~.</String>
         <String xml:lang="de-DE">Parke den ~b~Anhänger ~s~in dem ~y~markierten Bereich~s~.</String>
         <String xml:lang="lv-LV">Novietojiet ~b~piekabi ~y~atzīmētajā apgabalā~s~.</String>
+        <String xml:lang="hi-Latn">~b~Trailer~s~ ko ~y~marked area~s~ mein park karein.</String>
     </Entry>
 
     <Entry Id="ddriver_job_deliver_package">
@@ -5987,6 +6212,7 @@
         <String xml:lang="it-IT">Consegna il ~b~pacco~s~.</String>
         <String xml:lang="de-DE">Liefer das ~b~Paket~s~.</String>
         <String xml:lang="lv-LV">Piegādājiet ~b~paku~s~.</String>
+        <String xml:lang="hi-Latn">~b~Package~s~ deliver karein.</String>
     </Entry>
 
     <Entry Id="ddriver_job_recover_vehicle">
@@ -5997,6 +6223,7 @@
         <String xml:lang="it-IT">Recupera il ~b~veicolo di consegna~s~.</String>
         <String xml:lang="de-DE">Bringe das ~b~Auslieferungsfahrzeug~s~ zurück.</String>
         <String xml:lang="lv-LV">Atgūstiet ~b~piegādes transportlīdzekli~s~.</String>
+        <String xml:lang="hi-Latn">~b~Delivery vehicle ~s~recover karien.</String>
     </Entry>
 
     <Entry Id="ddriver_job_recover_package">
@@ -6007,6 +6234,7 @@
         <String xml:lang="it-IT">Recupera il ~y~pacco ~s~dal ~b~veicolo di consegna~s~.</String>
         <String xml:lang="de-DE">Bringe das ~y~Paket ~s~aus dem ~b~Auslieferungsfahrzeug~s~.</String>
         <String xml:lang="lv-LV">Atgūstiet ~y~paku~s~ no ~b~piegādes transportlīdzekļa~s~.</String>
+        <String xml:lang="hi-Latn">~y~Package ~s~recover karein ~b~delivery vehicle ~s~se.</String>
     </Entry>
 
     <Entry Id="ddriver_job_park_truck_correct_heading">
@@ -6017,6 +6245,7 @@
         <String xml:lang="it-IT">Il ~b~camion ~s~deve essere orientato come indicato dalle ~y~frecce~s~.</String>
         <String xml:lang="de-DE">Der ~b~Lastwagen ~s~muss in die von den ~y~Pfeilen~s~ gezeigte Richtung ausgerichtet werden.</String>
         <String xml:lang="lv-LV">~b~Kravas auto~s~ ir jābūt orientētam, kā parādīts ar ~y~bultām~s~.</String>
+        <String xml:lang="hi-Latn">~b~Truck ~s~ko ~y~arrows~s~ ke hisaab se set karna hoga.</String>
     </Entry>
 
     <Entry Id="ddriver_job_detach_trailer">
@@ -6027,6 +6256,7 @@
         <String xml:lang="it-IT">Sgancia il ~b~rimorchio~s~.</String>
         <String xml:lang="de-DE">Hänge den ~b~Anhänger~s~ ab.</String>
         <String xml:lang="lv-LV">Atvienojiet ~b~piekabi~s~.</String>
+        <String xml:lang="hi-Latn">~b~Trailer~s~ ko detach karein.</String>
     </Entry>
 
     <Entry Id="ddriver_job_need_truck_type">
@@ -6037,6 +6267,7 @@
         <String xml:lang="it-IT">Hai bisogno di un ~b~{0} ~s~per continuare questa ~y~consegna~s~.</String>
         <String xml:lang="de-DE">Du benötigst ein ~b~{0}~s~, um diese ~y~Lieferung~s~ fortzusetzen.</String>
         <String xml:lang="lv-LV">Jums ir nepieciešams ~b~{0}~s~, lai turpinātu šo ~y~piegādi~s~.</String>
+        <String xml:lang="hi-Latn">Aapko ~y~delivery ~s~ko continue karne ke liye ~b~{0} ~s~ki zarurat hai.</String>
     </Entry>
 
     <Entry Id="ddriver_job_success_message">
@@ -6047,6 +6278,7 @@
         <String xml:lang="it-IT">Hai completato il ~b~lavoro di consegna ~s~e guadagnato ~g~{0}~s~!</String>
         <String xml:lang="de-DE">Du hast den ~b~Lieferjob ~s~erledigt und hast ~g~{0}~s~ verdient!</String>
         <String xml:lang="lv-LV">Jūs pabeidzāt ~b~piegādi~s~ un nopelnījāt ~g~{0}~s~!</String>
+        <String xml:lang="hi-Latn">Aapne ~b~delivery job ~s~complete kiya aur ~g~{0} ~s~kamaya!</String>
     </Entry>
 
     <Entry Id="ddriver_job_success_announcement">
@@ -6057,6 +6289,7 @@
         <String xml:lang="it-IT">{0} ha completato una consegna e guadagnato {1}.</String>
         <String xml:lang="de-DE">{0} hat eine Lieferung erfüllt und {1} verdient.</String>
         <String xml:lang="lv-LV">{0} pabeidza piegādi un nopelnīja {1}.</String>
+        <String xml:lang="hi-Latn">{0} ne ek delivery complete ki aur {1} kamaya.</String>
     </Entry>
 
     <Entry Id="ddriver_job_canceled_by_user">
@@ -6067,6 +6300,7 @@
         <String xml:lang="it-IT">~r~Hai ~s~annullato ~r~il lavoro di consegna.</String>
         <String xml:lang="de-DE">~r~Du hast den Lieferjob ~s~abgebrochen~r~.</String>
         <String xml:lang="lv-LV">~r~Jūs~s~ atcēlāt ~r~piegādi.</String>
+        <String xml:lang="hi-Latn">~r~Aapne ~s~delivery job ~r~cancel kiya hai.</String>
     </Entry>
 
     <Entry Id="ddriver_job_canceled_penalty">
@@ -6077,6 +6311,7 @@
         <String xml:lang="it-IT">Ti sono stati addebitati ~r~{0} ~s~come penale per annullamento.</String>
         <String xml:lang="de-DE">Du wurdest mit ~r~{0} ~s~als Stornierungsgebühr belastet.</String>
         <String xml:lang="lv-LV">No jums tika iekasēts ~r~{0}~s~ kā atcelšanas sods.</String>
+        <String xml:lang="hi-Latn">Aap par ~r~{0} ~s~ki cancellation penalty lagi hai.</String>
     </Entry>
 
     <Entry Id="ddriver_job_goods_destroyed">
@@ -6087,6 +6322,7 @@
         <String xml:lang="it-IT">~r~Le ~s~merci ~r~sono state distrutte.</String>
         <String xml:lang="de-DE">~r~Die ~s~Waren ~r~wurden zerstört.</String>
         <String xml:lang="lv-LV">~s~Preces ~r~tika iznīcinātas.</String>
+        <String xml:lang="hi-Latn">~s~Samaan ~r~destroy ho gaye.</String>
     </Entry>
 
     <Entry Id="ddriver_job_goods_destroyed_charged">
@@ -6097,6 +6333,7 @@
         <String xml:lang="it-IT">Ti sono stati addebitati ~r~{0} ~s~per coprire le perdite.</String>
         <String xml:lang="de-DE">Du wurdest mit ~r~{0} ~s~belastet, um die Verluste zu decken</String>
         <String xml:lang="lv-LV">No jums tika iekasēts ~r~{0}~s~, lai segtu zaudējumus</String>
+        <String xml:lang="hi-Latn">Aap par ~r~{0} ~s~charge kiya gaya hai nuksan cover karne ke liye.</String>
     </Entry>
 
     <Entry Id="ddriver_job_goods_destroyed_covered">
@@ -6107,6 +6344,7 @@
         <String xml:lang="it-IT">La ~b~compagnia di assicurazione ~s~ha coperto completamente le perdite (~r~{0}~s~)</String>
         <String xml:lang="de-DE">Die ~b~Versicherung ~s~hat die Verluste vollständig gedeckt (~r~{0}~s~)</String>
         <String xml:lang="lv-LV">~b~Apdrošināšanas kompānija~s~ ir pilnībā segusi zaudējumus (~r~{0}~s~)</String>
+        <String xml:lang="hi-Latn">~b~Insurance company ~s~ne puri tarah se losses cover kiye (~r~{0}~s~)</String>
     </Entry>
 
     <Entry Id="ddriver_job_goods_destroyed_not_covered">
@@ -6117,6 +6355,7 @@
         <String xml:lang="it-IT">La ~b~compagnia di assicurazione ~s~ha rifiutato la tua richiesta.</String>
         <String xml:lang="de-DE">Die ~b~Versicherung ~s~hat deinen Antrag abgelehnt</String>
         <String xml:lang="lv-LV">~b~Apdrošināšanas kompānija~s~ noraidīja jūsu prasību</String>
+        <String xml:lang="hi-Latn">~b~Insurance company ~s~ne aapki claim reject kar di hai</String>
     </Entry>
 
     <Entry Id="ddriver_job_canceled_error">
@@ -6127,6 +6366,7 @@
         <String xml:lang="it-IT">~r~La consegna è stata annullata a causa di un errore.</String>
         <String xml:lang="de-DE">~r~Die Lieferung wurde aufgrund eines Fehlers abgebrochen.</String>
         <String xml:lang="lv-LV">~r~Piegāde tika atcelta kļūdas dēļ.</String>
+        <String xml:lang="hi-Latn">~r~Delivery kisi error ki wajah se cancel ho gayi hai.</String>
     </Entry>
 
     <Entry Id="ddriver_job_goods_destroyed_by_player">
@@ -6135,6 +6375,7 @@
         <String xml:lang="fr-FR">{0} a ~r~détruit~s~ tes biens.</String>
         <String xml:lang="de-DE">{0} hat deine Güter ~r~zerstört~s~.</String>
         <String xml:lang="lv-LV">{0} ~r~iznīcināja~s~ jūsu preces.</String>
+        <String xml:lang="hi-Latn">{0} ne aapka samaan ~r~destroy~s~ kar diya.</String>
     </Entry>
 
     <Entry Id="hitman_target_selected">
@@ -6145,6 +6386,7 @@
         <String xml:lang="it-IT">Hai selezionato {0} come tuo ~r~bersaglio~s~.</String>
         <String xml:lang="de-DE">Du hast {0} als dein ~r~Ziel~s~ ausgewählt.</String>
         <String xml:lang="lv-LV">Jūs izvēlējāties {0} kā savu ~r~mērķi~s~.</String>
+        <String xml:lang="hi-Latn">Aapne {0} ko apna ~r~target ~s~select kiya hai.</String>
     </Entry>
 
     <Entry Id="hitman_target_selected_hint">
@@ -6155,6 +6397,7 @@
         <String xml:lang="it-IT">Usa qualsiasi ~y~telefono pubblico~s~ per rilevare la posizione del tuo ~r~bersaglio~s~.</String>
         <String xml:lang="de-DE">Benutze ein beliebiges ~y~Münztelefon~s~, um den nahen Standort deines ~r~Ziels~s~ aufzudecken.</String>
         <String xml:lang="lv-LV">Izmantojiet jebkuru ~y~taksofonu~s~, lai atklātu sava ~r~mērķa~s~ aptuvenu atrašanas vietu.</String>
+        <String xml:lang="hi-Latn">Apne ~r~target ~s~ke nearby location ko reveal karne ke liye kisi bhi ~y~payphone ~s~ka istemal karein.</String>
     </Entry>
 
     <Entry Id="hitman_payphone_cooldown">
@@ -6165,6 +6408,7 @@
         <String xml:lang="it-IT">Devi aspettare ~r~{0} secondi ~s~prima di poter utilizzare di nuovo un ~y~telefono pubblico~s~.</String>
         <String xml:lang="de-DE">Du musst ~r~{0} Sekunden warten ~s~bevor du wieder ein ~y~Münztelefon ~s~benutzen kannst.</String>
         <String xml:lang="lv-LV">Jums ir jāgaida ~r~{0} sekundes~s~ pirms atkārtotas ~y~taksofona~s~ izmantošanas.</String>
+        <String xml:lang="hi-Latn">Aapko ~y~payphone ~s~ko dobara use karne se pehle ~r~{0} seconds ~s~wait karna hoga.</String>
     </Entry>
 
     <Entry Id="hitman_payphone_used_hint">
@@ -6172,6 +6416,7 @@
         <String xml:lang="nl-NL">{0} was ergens gezien rond {1}. Open je kaart om dit gebied te bekijken.</String>
         <String xml:lang="de-DE">{0} wurde irgendwo bei {1} gesehen. Öffne deine Karte um den Bereich zu sehen.</String>
         <String xml:lang="lv-LV">{0} bija redzams kaut kur {1} rajonā. Atveriet karti, lai skatītu apkārtni.</String>
+        <String xml:lang="hi-Latn">{0} kahin {1} ke aas paas dekha gaya tha. Map open karein area dekhne ke liye.</String>
     </Entry>
 
     <Entry Id="hitman_new_contract">
@@ -6182,6 +6427,7 @@
         <String xml:lang="it-IT">~y~(C)Nuovo contratto:(/C) ~s~Uccidi~s~ {0} per ~g~{1}~s~.</String>
         <String xml:lang="de-DE">~y~(C)Neuer Vertrag:(/C) ~s~Töte~s~ {0} für ~g~{1}~s~.</String>
         <String xml:lang="lv-LV">~y~(C)Jauns kontrakts:(/C) ~s~Nogaliniet~s~ {0} par ~g~{1}~s~.</String>
+        <String xml:lang="hi-Latn">~y~(C)Naya contract:(/C) ~s~{0} ko ~g~{1}~s~ ke liye kill karein.</String>
     </Entry>
 
     <Entry Id="hitman_contract_updated">
@@ -6192,6 +6438,7 @@
         <String xml:lang="it-IT">~y~(C)Contratto aggiornato:(/C) ~s~La ricompensa per ~r~uccidere~s~ {0} è stata aumentata a ~g~{1}~s~.</String>
         <String xml:lang="de-DE">~y~(C)Auftrag aktualisiert:(/C) ~s~Die Belohnung für das ~r~Töten~s~von {0} wurde auf ~g~{1}~s~ erhöht.</String>
         <String xml:lang="lv-LV">~y~(C)Kontrakts atjaunināts:(/C) ~s~Atlīdzība par {0} ~r~nogalināšanu~s~ tika palielināta līdz ~g~{1}~s~.</String>
+        <String xml:lang="hi-Latn">~y~(C)Contract updated:(/C) ~s~{0} ko ~r~kill~s~ karne ke liye reward badhakar ~g~{1}~s~ kar diya gaya hai.</String>
     </Entry>
 
     <Entry Id="private_medic_description">
@@ -6200,5 +6447,94 @@
         <String xml:lang="fr-FR">(C)Médecin:(/C) ~s~offre des ~p~prestations de soins et des articles de santé ~s~contre de l'argent.</String>
         <String xml:lang="de-DE">(C)Doktor:(/C) ~s~biete ~p~Gesundheitsdienstleistungen ~s~und Gegenstände für Geld.</String>
         <String xml:lang="lv-LV">(C)Dakteris:(/C) ~s~sniedziet ~p~veselības aprūpes~s~ pakalpojumus un preces par naudu.</String>
+        <String xml:lang="hi-Latn">(C)Medical Doctor:(/C)~s~ paise kamane ke liye ~p~healthcare ~s~services aur items provide karein.</String>
+    </Entry>
+
+    <Entry Id="jewelry_cannot_be_robbed">
+        <String xml:lang="en-US">This is not the ideal way to rob the ~b~jewelry store~s~. Keep exploring the area, and you might find something.</String>
+    </Entry>
+
+    <Entry Id="jewelry_hint_1">
+        <String xml:lang="en-US">What will you find ~b~up there~s~?</String>
+    </Entry>
+
+    <Entry Id="jewelry_hint_2">
+        <String xml:lang="en-US">Hey, that's the ~b~jewelry store~s~'s roof over there.</String>
+    </Entry>
+
+    <Entry Id="jewelry_hint_3">
+        <String xml:lang="en-US">Look at that, it's the ~y~air vent ~s~of the ~b~jewelry store~s~.</String>
+    </Entry>
+
+    <Entry Id="jewelry_hint_4">
+        <String xml:lang="en-US">This seems like the perfect throwing spot... Do you have ~y~tear gas~s~?</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_already_in_progress">
+        <String xml:lang="en-US">~r~The jewelry store robbery is already in progress.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_cooldown">
+        <String xml:lang="en-US">~r~The jewelry store robbery cannot be started for the next ~s~{0} minutes ~r~and ~s~{1} seconds~r~.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_not_enough_cops">
+        <String xml:lang="en-US">You can't rob the ~b~jewelry store ~s~when there are less than ~b~{0} cops ~s~online.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_early">
+        <String xml:lang="en-US">You can't rob the ~b~jewelry store ~s~before ~y~{0}~s~.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_late">
+        <String xml:lang="en-US">You can't rob the ~b~jewelry store ~s~after ~y~{0} ~s~because the server will restart soon.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_initiated">
+        <String xml:lang="en-US">The ~y~tear gas ~s~has entered the ~b~jewelry store~s~ through the vent.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_timer_bar_take">
+        <String xml:lang="en-US">ITEMS TAKEN</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_timer_bar_alarm">
+        <String xml:lang="en-US">ALARM</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_timer_bar_gas">
+        <String xml:lang="en-US">GAS</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_instruction_break">
+        <String xml:lang="en-US">Break</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_instruction_stop">
+        <String xml:lang="en-US">Stop</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_need_blunt_weapon">
+        <String xml:lang="en-US">You need a ~y~blunt weapon ~s~to break this ~r~bulletproof glass~s~.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_break_glass_failed">
+        <String xml:lang="en-US">You ~r~failed ~s~to break this ~b~glass~s~. Try another one!</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_break_glass_succeeded">
+        <String xml:lang="en-US">You ~g~successfully ~s~broke the ~b~glass~s~.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_stole_items">
+        <String xml:lang="en-US">You stole {0}.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_leave_the_area">
+        <String xml:lang="en-US">Leave the ~o~orange area~s~.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_go_to_hideout">
+        <String xml:lang="en-US">You went far enough from the ~b~jewelry store~s~. Now go to a ~y~hideout ~s~to complete the ~r~robbery~s~.</String>
     </Entry>
 </Entries>
